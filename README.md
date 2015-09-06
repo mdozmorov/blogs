@@ -1,5 +1,7 @@
 ### Technology, programming, statistics blogs
 
+Started as a summary of interesting RSS feeds, this repository is growing into a collection of tutorials/e-books and other materials related to bioinformatics.
+
 [AllSeq - Blog](http://allseq.com/), [RSS](http://allseq.com/index.php?option=com_content&amp;id=38&amp;layout=blog&amp;view=category&amp;Itemid=741&amp;format=feed&amp;type=rss)
 
 [BioIT Top Headlines](http://www.bio-itworld.com/), [RSS](http://www.bio-itworld.com/RSS/BioIT_WorldNews_RSS.aspx)
