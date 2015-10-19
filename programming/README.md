@@ -6,3 +6,4 @@
 - List of links to Python learning resources [Further Reading: Intermediate Python Resources](http://inventwithpython.com/blog/2015/09/01/further-reading-intermediate-python-resources/)
 - Recipes for using Python's pandas library [https://github.com/jvns/pandas-cookbook](https://github.com/jvns/pandas-cookbook)
 - Recipes of [the IPython Cookbook](http://ipython-books.github.io/cookbook/), the definitive guide to high-performance scientific computing and data science in Python [https://github.com/ipython-books/cookbook-code](https://github.com/ipython-books/cookbook-code)
+- Python lectures, IPython notebooks [https://github.com/rajathkumarmp/Python-Lectures.git](https://github.com/rajathkumarmp/Python-Lectures.git)
