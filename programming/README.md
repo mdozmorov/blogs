@@ -7,3 +7,4 @@
 - Recipes for using Python's pandas library [https://github.com/jvns/pandas-cookbook](https://github.com/jvns/pandas-cookbook)
 - Recipes of [the IPython Cookbook](http://ipython-books.github.io/cookbook/), the definitive guide to high-performance scientific computing and data science in Python [https://github.com/ipython-books/cookbook-code](https://github.com/ipython-books/cookbook-code)
 - Python lectures, IPython notebooks [https://github.com/rajathkumarmp/Python-Lectures.git](https://github.com/rajathkumarmp/Python-Lectures.git)
+- Any language in Y minutes [https://github.com/adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
