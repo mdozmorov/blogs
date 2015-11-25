@@ -5,3 +5,4 @@
 - Bayesian Data Analysis demos for Python. [https://github.com/avehtari/BDA_py_demos](https://github.com/avehtari/BDA_py_demos)
 - A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy. [http://deeplearning4j.org/eigenvector](http://deeplearning4j.org/eigenvector)
 - Introduction to Statistics for Biologists, by [Peter Ralph](http://ralphlab.usc.edu/). [https://github.com/petrelharp/bisc305](https://github.com/petrelharp/bisc305)
+- A python tutorial on bayesian modeling techniques (PyMC3) [https://github.com/markdregan/Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
