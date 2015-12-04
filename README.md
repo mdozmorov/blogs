@@ -36,6 +36,8 @@ Started as a summary of interesting RSS feeds, this repository is growing into a
 
 [Simply Statistics](http://simplystatistics.org), [RSS](http://simplystatistics.org/feed/)
 
+[STHDA - Statistical tools for high-throughput data analysis](http://www.sthda.com/english/), [RSS](http://www.sthda.com/english/syndication/rss/wiki)
+
 [The R Journal](http://journal.r-project.org), [RSS](http://journal.r-project.org/rss.atom)
 
 [The stupidest thing...](https://kbroman.wordpress.com), [RSS](http://kbroman.wordpress.com/feed/)
