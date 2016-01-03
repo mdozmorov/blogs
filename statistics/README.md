@@ -15,3 +15,6 @@
 - Notes and exercise attempts for a classical free book "[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)" [https://github.com/asadoughi/stat-learning](https://github.com/asadoughi/stat-learning)
 
 - Continually updated data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe), scikit-learn, Kaggle, Spark, Hadoop MapReduce, HDFS, matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines. [https://github.com/donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+
+- Data wrangling, exploration, and analysis with R, UBC STAT 545A and 547M courses. [https://stat545-ubc.github.io/](https://stat545-ubc.github.io/) and the Git repository [https://github.com/STAT545-UBC/STAT545-UBC.github.io](https://github.com/STAT545-UBC/STAT545-UBC.github.io)
+
