@@ -18,3 +18,5 @@
 
 - Data wrangling, exploration, and analysis with R, UBC STAT 545A and 547M courses. [https://stat545-ubc.github.io/](https://stat545-ubc.github.io/) and the Git repository [https://github.com/STAT545-UBC/STAT545-UBC.github.io](https://github.com/STAT545-UBC/STAT545-UBC.github.io)
 
+- Biomedical Data Science PH525x course from Rafael Irizarry and Michael Love [https://genomicsclass.github.io/book/](https://genomicsclass.github.io/book/) and [https://github.com/genomicsclass/labs](https://github.com/genomicsclass/labs)
+
