@@ -24,6 +24,8 @@ Started as a summary of interesting RSS feeds, this repository is growing into a
 
 [Peter Norvig](http://www.norvig.com), [RSS](http://www.norvig.com/rss-feed.xml)
 
+[Philip Guo](http://www.pgbovine.net/writings.htm), [RSS](http://www.pgbovine.net/pgbovine-rss-feed.xml)
+
 [Popular Python recipes](http://code.activestate.com/recipes/langs/python/), [RSS](http://aspn.activestate.com/ASPN/Cookbook/Python/index_rss)
 
 [Probably Overthinking It](http://allendowney.blogspot.com/), [RSS](http://allendowney.blogspot.com/feeds/posts/default)
