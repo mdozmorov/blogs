@@ -22,3 +22,4 @@
 
 - Statistical inference for data science, Brian Caffo. Full book on [http://rpubs.com/cbchisanga/143127](http://rpubs.com/cbchisanga/143127), videos on [https://www.youtube.com/watch?v=WkOinijQmPU&list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ](https://www.youtube.com/watch?v=WkOinijQmPU&list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ), GitHub version on [https://github.com/bcaffo/LittleInferenceBook](https://github.com/bcaffo/LittleInferenceBook)
 
+- "Understanding Bayes" series of blog posts by Alex Etz. [http://alexanderetz.com/understanding-bayes/](http://alexanderetz.com/understanding-bayes/). The other posts are also worth reading.
