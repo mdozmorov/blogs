@@ -14,5 +14,6 @@
 - Recipes of [the IPython Cookbook](http://ipython-books.github.io/cookbook/), the definitive guide to high-performance scientific computing and data science in Python [https://github.com/ipython-books/cookbook-code](https://github.com/ipython-books/cookbook-code)
 - Python lectures, IPython notebooks [https://github.com/rajathkumarmp/Python-Lectures.git](https://github.com/rajathkumarmp/Python-Lectures.git)
 
-
 - Any language in Y minutes [https://github.com/adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
+
+- "Scientific Python lectures" - Lectures on scientific computing with python, as IPython notebooks. [https://github.com/jrjohansson/scientific-python-lectures](https://github.com/jrjohansson/scientific-python-lectures)
