@@ -17,3 +17,5 @@
 - "Data Analysis for Genomics/Life Sciences" book, HarvardX PH525x series - Biomedical Data Science [https://genomicsclass.github.io/book/](https://genomicsclass.github.io/book/), and the lab work files [https://github.com/genomicsclass/labs](https://github.com/genomicsclass/labs)
 
 - Ben Langmead's genomics-oriented teaching material [http://www.langmead-lab.org/teaching-materials/](http://www.langmead-lab.org/teaching-materials/)
+
+- Jeff Leek' guide to [reading scientific papers](https://github.com/jtleek/readingpapers). The page has references to his other guides ["How to write your first paper"](https://github.com/jtleek/firstpaper), ["How to review a paper"](https://github.com/jtleek/reviews), ["How to share data"](https://github.com/jtleek/datasharing), ["How to write an R package"](https://github.com/jtleek/rpackages)
