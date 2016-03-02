@@ -19,3 +19,6 @@
 - Ben Langmead's genomics-oriented teaching material [http://www.langmead-lab.org/teaching-materials/](http://www.langmead-lab.org/teaching-materials/)
 
 - Jeff Leek' guide to [reading scientific papers](https://github.com/jtleek/readingpapers). The page has references to his other guides ["How to write your first paper"](https://github.com/jtleek/firstpaper), ["How to review a paper"](https://github.com/jtleek/reviews), ["How to share data"](https://github.com/jtleek/datasharing), ["How to write an R package"](https://github.com/jtleek/rpackages)
+
+- Reproducible and Collaborative Data Science course [https://github.com/stat157/fall-2013](https://github.com/stat157/fall-2013)
+
