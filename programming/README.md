@@ -17,3 +17,7 @@
 - Any language in Y minutes [https://github.com/adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
 
 - "Scientific Python lectures" - Lectures on scientific computing with python, as IPython notebooks. [https://github.com/jrjohansson/scientific-python-lectures](https://github.com/jrjohansson/scientific-python-lectures)
+
+# R
+
+- Basics of R, with short and conscise examples, "A Complete Tutorial to learn Data Science in R from Scratch", [http://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/](http://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/)
