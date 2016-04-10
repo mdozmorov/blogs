@@ -23,3 +23,5 @@
 - Basics of R, with short and conscise examples, "A Complete Tutorial to learn Data Science in R from Scratch", [http://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/](http://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/)
 
 - "R & Bioconductor Manual" by Thomas Girke, UC Riverside [http://manuals.bioinformatics.ucr.edu/home/R_BioCondManual](http://manuals.bioinformatics.ucr.edu/home/R_BioCondManual). One of the best R manual to brush up all major steps in data analysis/visualization. And links to other resources there.
+
+- [R vs Python – a Comparison, and Awesome Books (Free Full PDFs!) to Learn these Languages](http://ucanalytics.com/blogs/r-vs-python-comparison-and-awsome-books-free-pdfs-to-learn-them/) - good list of links. Another one, specifically on R [Learn R : 12 Books (Free PDFs!) and Online Resources](http://ucanalytics.com/blogs/learn-r-12-books-and-online-resources/)
