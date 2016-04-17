@@ -26,3 +26,4 @@
 
 - "From Algorithms to Z-Scores: Probabilistic and Statistical Modeling in Computer Science" book, [http://heather.cs.ucdavis.edu/probstatbook](http://heather.cs.ucdavis.edu/probstatbook) by prof. Norm Matloff
 
+- "Foundations of Data Science — Spring 2016" course from UC Berkeley. Instructor: John DeNero. Video and slides. [https://data-8.appspot.com/sp16/course](https://data-8.appspot.com/sp16/course)
