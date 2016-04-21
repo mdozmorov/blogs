@@ -20,10 +20,15 @@
 
 - Biomedical Data Science PH525x course from Rafael Irizarry and Michael Love [https://genomicsclass.github.io/book/](https://genomicsclass.github.io/book/) and [https://github.com/genomicsclass/labs](https://github.com/genomicsclass/labs)
 
-- Statistical inference for data science, Brian Caffo. Full book on [http://rpubs.com/cbchisanga/143127](http://rpubs.com/cbchisanga/143127), videos on [https://www.youtube.com/watch?v=WkOinijQmPU&list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ](https://www.youtube.com/watch?v=WkOinijQmPU&list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ), GitHub version on [https://github.com/bcaffo/LittleInferenceBook](https://github.com/bcaffo/LittleInferenceBook)
-
 - "Understanding Bayes" series of blog posts by Alex Etz. [http://alexanderetz.com/understanding-bayes/](http://alexanderetz.com/understanding-bayes/). The other posts are also worth reading.
 
 - "From Algorithms to Z-Scores: Probabilistic and Statistical Modeling in Computer Science" book, [http://heather.cs.ucdavis.edu/probstatbook](http://heather.cs.ucdavis.edu/probstatbook) by prof. Norm Matloff
 
+# Videos
+
+- Statistical inference for data science, Brian Caffo. Full book on [http://rpubs.com/cbchisanga/143127](http://rpubs.com/cbchisanga/143127), videos on [https://www.youtube.com/watch?v=WkOinijQmPU&list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ](https://www.youtube.com/watch?v=WkOinijQmPU&list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ), GitHub version on [https://github.com/bcaffo/LittleInferenceBook](https://github.com/bcaffo/LittleInferenceBook)
+
 - "Foundations of Data Science — Spring 2016" course from UC Berkeley. Instructor: John DeNero. Video and slides. [https://data-8.appspot.com/sp16/course](https://data-8.appspot.com/sp16/course). This course is accompanied by other "connector" courses from UC Berkeley, [https://data-8.appspot.com/sp16/modules/extra_tabs/render?index=3](https://data-8.appspot.com/sp16/modules/extra_tabs/render?index=3)
+
+- "Machine Learning" course CD4780/CS5780 by Thorsten Joachims, Cornell Univerisity. Videos and slides. [http://machine-learning-course.joachims.org/(http://machine-learning-course.joachims.org/
+)]
