@@ -8,3 +8,4 @@
 
 - Thomas Girke' "Class: Data Analysis in Genome Biology (GEN242)" - bioinformatics of NGS data analysis [https://github.com/tgirke/GEN242](https://github.com/tgirke/GEN242)
 
+- Software Carpentry lessons with GitHub repositories, videos, notes, slideshows, contributed lessons. Boot camps on Unix, R/Python/Matlab, version controls and more. [http://software-carpentry.org/lessons/](http://software-carpentry.org/lessons/)
