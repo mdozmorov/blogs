@@ -29,6 +29,8 @@
 
 - "Introduction to probability" introductory book, published by the American Mathematical Society. [Web-page](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) and references therein, [PDF](https://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf).
 
+- "Modeling and Solving Linear Programming with R" open book introducting linear modeling, in R. [Book, PDF](http://www.omniascience.com/scholar/index.php/scholar/issue/view/19)m [Git with corresponding code](https://github.com/jmsallan/linearprogramming)
+
 
 ## Misc
 
