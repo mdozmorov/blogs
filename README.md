@@ -43,3 +43,5 @@ Started as a summary of interesting RSS feeds, this repository is growing into a
 [The R Journal](http://journal.r-project.org), [RSS](http://journal.r-project.org/rss.atom)
 
 [The stupidest thing...](https://kbroman.wordpress.com), [RSS](http://kbroman.wordpress.com/feed/)
+
+["The Third Bit" by Greg Wilson from Software Carpentry](http://third-bit.com/), [RSS](http://third-bit.com/)
