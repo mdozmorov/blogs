@@ -22,6 +22,8 @@ Started as a summary of interesting RSS feeds, this repository is growing into a
 
 [Musings from an unlikely candidate](http://davetang.org/muse), [RSS](http://davetang.org/muse/feed/)
 
+[NIH Videocasting and Podcasting](https://videocast.nih.gov/), [RSS](https://videocast.nih.gov/rss/podcasts.asp)
+
 [Peter Norvig](http://www.norvig.com), [RSS](http://www.norvig.com/rss-feed.xml)
 
 [Philip Guo](http://www.pgbovine.net/writings.htm), [RSS](http://www.pgbovine.net/pgbovine-rss-feed.xml)
