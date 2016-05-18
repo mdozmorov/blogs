@@ -36,6 +36,8 @@ Started as a summary of interesting RSS feeds, this repository is growing into a
 
 [RNA-Seq Blog](http://www.rna-seqblog.com), [RSS](http://www.rna-seqblog.com/feed/)
 
+["Statistical Modeling, Causal Inference, And Social Science" by Andrew Gelman](http://andrewgelman.com/), [RSS](http://andrewgelman.com/feed/)
+
 [SEQanswers.com](http://SEQanswers.com), [RSS](http://feeds.feedburner.com/Seqanswers)
 
 [Simply Statistics](http://simplystatistics.org), [RSS](http://simplystatistics.org/feed/)
