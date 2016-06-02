@@ -7,3 +7,4 @@
 - An example machine learning notebook. [https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 - MLR: Machine Learning in R [https://github.com/mlr-org/mlr](https://github.com/mlr-org/mlr)
 - "Neural networks and deep learning" book [http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/) and code [https://github.com/mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
+- "Python Machine Learning" book by Sebastian Raschka, iPython notebooks [https://github.com/rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)
