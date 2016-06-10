@@ -18,6 +18,8 @@
 
 - "Scientific Python lectures" - Lectures on scientific computing with python, as IPython notebooks. [https://github.com/jrjohansson/scientific-python-lectures](https://github.com/jrjohansson/scientific-python-lectures)
 
+- "A gallery of interesting IPython Notebooks" - notebooks introducing Python and statistics, machine learning and data-driven analysis. [https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+
 ## R
 
 - Basics of R, with short and conscise examples, "A Complete Tutorial to learn Data Science in R from Scratch", [http://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/](http://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/)
