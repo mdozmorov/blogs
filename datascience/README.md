@@ -13,6 +13,7 @@
 
 ## Books
 
+"Advanced Data Analysis from an Elementary Point of View" book by Cosma Rohilla Shalizi, PDF, 856 pages [http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
 
 ## Misc
 
