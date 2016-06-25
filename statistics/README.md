@@ -8,14 +8,10 @@
 
 - Data wrangling, exploration, and analysis with R, UBC STAT 545A and 547M courses. [https://stat545-ubc.github.io/](https://stat545-ubc.github.io/) and the Git repository [https://github.com/STAT545-UBC/STAT545-UBC.github.io](https://github.com/STAT545-UBC/STAT545-UBC.github.io)
 
-- Biomedical Data Science PH525x course from Rafael Irizarry and Michael Love [https://genomicsclass.github.io/book/](https://genomicsclass.github.io/book/) and [https://github.com/genomicsclass/labs](https://github.com/genomicsclass/labs)
-
 
 ## Videos
 
 - Statistical inference for data science, Brian Caffo. Full book on [http://rpubs.com/cbchisanga/143127](http://rpubs.com/cbchisanga/143127), videos on [https://www.youtube.com/watch?v=WkOinijQmPU&list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ](https://www.youtube.com/watch?v=WkOinijQmPU&list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ), GitHub version on [https://github.com/bcaffo/LittleInferenceBook](https://github.com/bcaffo/LittleInferenceBook)
-
-- "Foundations of Data Science — Spring 2016" course from UC Berkeley. Instructor: John DeNero. Video and slides. [https://data-8.appspot.com/sp16/course](https://data-8.appspot.com/sp16/course). This course is accompanied by other "connector" courses from UC Berkeley, [https://data-8.appspot.com/sp16/modules/extra_tabs/render?index=3](https://data-8.appspot.com/sp16/modules/extra_tabs/render?index=3)
 
 
 ## Books
@@ -38,8 +34,6 @@
 - A Beginner’s Guide to Eigenvectors, PCA, Covariance and Entropy. [http://deeplearning4j.org/eigenvector](http://deeplearning4j.org/eigenvector)
 
 - A Python tutorial on bayesian modeling techniques (PyMC3) [https://github.com/markdregan/Bayesian-Modelling-in-Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
-
-- Continually updated data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe), scikit-learn, Kaggle, Spark, Hadoop MapReduce, HDFS, matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines. [https://github.com/donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 
 - "Understanding Bayes" series of blog posts by Alex Etz. [http://alexanderetz.com/understanding-bayes/](http://alexanderetz.com/understanding-bayes/). The other posts are also worth reading.
 
