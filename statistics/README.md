@@ -17,9 +17,6 @@
 
 - "Foundations of Data Science — Spring 2016" course from UC Berkeley. Instructor: John DeNero. Video and slides. [https://data-8.appspot.com/sp16/course](https://data-8.appspot.com/sp16/course). This course is accompanied by other "connector" courses from UC Berkeley, [https://data-8.appspot.com/sp16/modules/extra_tabs/render?index=3](https://data-8.appspot.com/sp16/modules/extra_tabs/render?index=3)
 
-- "Machine Learning" course CD4780/CS5780 by Thorsten Joachims, Cornell Univerisity. Videos and slides. [http://machine-learning-course.joachims.org/(http://machine-learning-course.joachims.org/
-)]
-
 
 ## Books
 
