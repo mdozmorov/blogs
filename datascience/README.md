@@ -4,6 +4,7 @@
 
 - Biomedical Data Science PH525x course from Rafael Irizarry and Michael Love [https://genomicsclass.github.io/book/](https://genomicsclass.github.io/book/) and [https://github.com/genomicsclass/labs](https://github.com/genomicsclass/labs)
 
+- Course materials for the Data Science Specialization by Brian Caffo, Jeff Leek, Roger Peng, Nick Carchedi, Sean Kross [https://github.com/rdpeng/courses](https://github.com/rdpeng/courses)
 
 ## Videos
 
