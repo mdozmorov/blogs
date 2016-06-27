@@ -27,4 +27,6 @@
 
 - MLR: Machine Learning in R [https://github.com/mlr-org/mlr](https://github.com/mlr-org/mlr)
 
+- useR! 2016 Tutorial: Machine Learning Algorithmic Deep Dive. IPython notebooks running R kernel [https://github.com/ledell/useR-machine-learning-tutorial](https://github.com/ledell/useR-machine-learning-tutorial)
+
 
