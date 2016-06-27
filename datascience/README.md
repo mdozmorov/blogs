@@ -6,6 +6,9 @@
 
 - Course materials for the Data Science Specialization by Brian Caffo, Jeff Leek, Roger Peng, Nick Carchedi, Sean Kross [https://github.com/rdpeng/courses](https://github.com/rdpeng/courses)
 
+- "Path to a free self-taught education in Data Science!" - Open Source Society University, a collection of free online courses in logical order of learning data science. Massive list of courses, from linear algebra and calculus to R/Python programming/machine learning. [https://github.com/open-source-society/data-science](https://github.com/open-source-society/data-science)
+
+
 ## Videos
 
 - "Foundations of Data Science — Spring 2016" course from UC Berkeley. Instructor: John DeNero. Video and slides. [https://data-8.appspot.com/sp16/course](https://data-8.appspot.com/sp16/course). This course is accompanied by other "connector" courses from UC Berkeley, [https://data-8.appspot.com/sp16/modules/extra_tabs/render?index=3](https://data-8.appspot.com/sp16/modules/extra_tabs/render?index=3)
