@@ -16,7 +16,10 @@
 
 ## Books
 
-"Advanced Data Analysis from an Elementary Point of View" book by Cosma Rohilla Shalizi, PDF, 856 pages [http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
+- "Advanced Data Analysis from an Elementary Point of View" book by Cosma Rohilla Shalizi, PDF, 856 pages [http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
+
+- "R Programming for Data Science" by Roger Peng. [https://leanpub.com/rprogramming](https://leanpub.com/rprogramming) and DIY version on GitHub [https://github.com/rdpeng/rprogdatascience/]
+
 
 ## Misc
 
