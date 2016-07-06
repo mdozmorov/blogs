@@ -27,3 +27,14 @@
 - "R & Bioconductor Manual" by Thomas Girke, UC Riverside [http://manuals.bioinformatics.ucr.edu/home/R_BioCondManual](http://manuals.bioinformatics.ucr.edu/home/R_BioCondManual). One of the best R manual to brush up all major steps in data analysis/visualization. And links to other resources there.
 
 - [R vs Python – a Comparison, and Awesome Books (Free Full PDFs!) to Learn these Languages](http://ucanalytics.com/blogs/r-vs-python-comparison-and-awsome-books-free-pdfs-to-learn-them/) - good list of links. Another one, specifically on R [Learn R : 12 Books (Free PDFs!) and Online Resources](http://ucanalytics.com/blogs/learn-r-12-books-and-online-resources/)
+
+
+## Misc
+
+- Very large collection of free [courses](https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md), [interactive tutorials](https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md), [podcasts and screencasts], [books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) on any (most) programming languages. And more, translated in other languages, on [https://github.com/vhf/free-programming-books](https://github.com/vhf/free-programming-books)
+
+
+
+
+
+
