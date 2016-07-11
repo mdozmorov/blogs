@@ -12,6 +12,8 @@
 
 - "Python Machine Learning" book by Sebastian Raschka, iPython notebooks [https://github.com/rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)
 
+- Code accompanying the book "Machine Learning for Hackers" [https://github.com/johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
+
 
 ## Misc
 
