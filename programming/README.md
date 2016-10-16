@@ -20,6 +20,10 @@
 
 - "A gallery of interesting IPython Notebooks" - notebooks introducing Python and statistics, machine learning and data-driven analysis. [https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 
+- "A Whirlwind Tour of Python" book by Jake VanderPlas [https://www.oreilly.com/learning/a-whirlwind-tour-of-python](https://www.oreilly.com/learning/a-whirlwind-tour-of-python), and the accompanying Jupyter notebooks [https://github.com/jakevdp/WhirlwindTourOfPython](https://github.com/jakevdp/WhirlwindTourOfPython)
+
+- Another "A whirlwind tour of the Python programming language" [https://github.com/jpwhite3/python-whirlwind-tour](https://github.com/jpwhite3/python-whirlwind-tour)
+
 ## R
 
 - Basics of R, with short and conscise examples, "A Complete Tutorial to learn Data Science in R from Scratch", [http://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/](http://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/)
