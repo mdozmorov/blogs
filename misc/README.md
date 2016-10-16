@@ -29,3 +29,5 @@
 - Jeff Leek' guide to [reading scientific papers](https://github.com/jtleek/readingpapers). The page has references to his other guides ["How to write your first paper"](https://github.com/jtleek/firstpaper), ["How to review a paper"](https://github.com/jtleek/reviews), ["How to share data"](https://github.com/jtleek/datasharing), ["How to write an R package"](https://github.com/jtleek/rpackages)
 
 - Amazon Web Services — a practical guide [https://github.com/open-guides/og-aws](https://github.com/open-guides/og-aws)
+
+- Tutorial: Scalable R on Spark with SparkR, sparklyr and RevoScaleR [http://blog.revolutionanalytics.com/2016/10/tutorial-scalable-r-on-spark.html](http://blog.revolutionanalytics.com/2016/10/tutorial-scalable-r-on-spark.html)
