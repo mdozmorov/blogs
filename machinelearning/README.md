@@ -14,6 +14,8 @@
 
 - Code accompanying the book "Machine Learning for Hackers" [https://github.com/johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
 
+- "Advanced linear models for data science" book by Brian Caffo [https://github.com/bcaffo/lm](https://github.com/bcaffo/lm). Compile the pdf with `pdflatex main.tex`
+
 
 ## Misc
 
