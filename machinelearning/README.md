@@ -16,6 +16,8 @@
 
 - "Advanced linear models for data science" book by Brian Caffo [https://github.com/bcaffo/lm](https://github.com/bcaffo/lm). Compile the pdf with `pdflatex main.tex`
 
+- "Machine Learning Bookshelf" - gold standard books for statistics and machine learning, with summary. [http://ghyslain.me/bookshelf](http://ghyslain.me/bookshelf)
+
 
 ## Misc
 
