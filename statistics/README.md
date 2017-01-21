@@ -1,4 +1,4 @@
-# Statistics tutorials and learning resources
+# Statistics, data analysis tutorials and learning resources
 
 ## Courses
 
@@ -10,6 +10,7 @@
 
 - Harvard CS 109: Data Science course with video lectures, pdf slides and iPython notebooks. [Course overview](https://cs109.github.io/2015/), [Videos](https://cs109.github.io/2015/pages/videos.html), [Git repository](https://github.com/cs109/2015), [All course-related material on Github](https://github.com/cs109)
 
+- Advanced data analysis techniques, CVEN 6833, Dr. R. Balaji. Lots of material and links on regression and modeling techniques. [http://civil.colorado.edu/~balajir/CVEN6833/](http://civil.colorado.edu/~balajir/CVEN6833/)
 
 ## Videos
 
