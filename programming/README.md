@@ -26,6 +26,8 @@
 
 - Continually updated data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe), scikit-learn, Kaggle, Spark, Hadoop MapReduce, HDFS, matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines. [https://github.com/donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 
+- "Python 101" book, and a link to "Python 201". Blog post announcing it as free-donation available [http://www.blog.pythonlibrary.org/2017/01/23/python-101-now-free-on-leanpub-permanently/](http://www.blog.pythonlibrary.org/2017/01/23/python-101-now-free-on-leanpub-permanently/), and the book itself [https://leanpub.com/python_101](https://leanpub.com/python_101)
+
 ## R
 
 - Basics of R, with short and conscise examples, "A Complete Tutorial to learn Data Science in R from Scratch", [http://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/](http://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/)
