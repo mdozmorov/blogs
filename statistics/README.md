@@ -1,5 +1,7 @@
 # Statistics, data analysis tutorials and learning resources
 
+- `CHE379` - Statistical refresher course by Chris A. Mack, From Data to Decisions: Measurement, Uncertainty, Analysis, and Modeling. Videos, esercises, slides in PDF. [http://www.lithoguru.com/scientist/statistics/course.html](http://www.lithoguru.com/scientist/statistics/course.html). Video playlist [https://www.youtube.com/playlist?list=PLM2eE_hI4gSDnF-mEa9mrIYx7GCLQVN89](https://www.youtube.com/playlist?list=PLM2eE_hI4gSDnF-mEa9mrIYx7GCLQVN89)
+
 - `stat401A` - conscise statistical refresher by Jarad Niemi, STAT 401A course at Iowa State University. [https://github.com/jarad/stat401A](https://github.com/jarad/stat401A). Jarad's web-site with more statistical courses STAT 544 and STAT 615 [http://www.jarad.me/courses/](http://www.jarad.me/courses/)
 
 ## Courses
@@ -29,6 +31,7 @@
 
 - "Modeling and Solving Linear Programming with R" open book introducting linear modeling, in R. [Book, PDF](http://www.omniascience.com/scholar/index.php/scholar/issue/view/19)m [Git with corresponding code](https://github.com/jmsallan/linearprogramming)
 
+- "An introduction to psychometric theory with applications in R" by William Revelle, the creator of `psych` R package. The book with downloadable PDFs: [http://personality-project.org/r/book/](http://personality-project.org/r/book/), the course based on the book: [http://personality-project.org/revelle/syllabi/405.syllabus.html](http://personality-project.org/revelle/syllabi/405.syllabus.html), and the `psych` R package: [https://cran.r-project.org/web/packages/psych/index.html](https://cran.r-project.org/web/packages/psych/index.html)
 
 ## Misc
 
