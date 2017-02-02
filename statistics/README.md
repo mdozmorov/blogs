@@ -1,5 +1,7 @@
 # Statistics, data analysis tutorials and learning resources
 
+- `brr` - "Biostatistics for Biomedical Research" by Frank Harrell, the creator of `Hmisc` package and many more. [https://github.com/harrelfe/bbr](https://github.com/harrelfe/bbr)
+
 - `CHE379` - Statistical refresher course by Chris A. Mack, From Data to Decisions: Measurement, Uncertainty, Analysis, and Modeling. Videos, esercises, slides in PDF. [http://www.lithoguru.com/scientist/statistics/course.html](http://www.lithoguru.com/scientist/statistics/course.html). Video playlist [https://www.youtube.com/playlist?list=PLM2eE_hI4gSDnF-mEa9mrIYx7GCLQVN89](https://www.youtube.com/playlist?list=PLM2eE_hI4gSDnF-mEa9mrIYx7GCLQVN89)
 
 - `stat401A` - conscise statistical refresher by Jarad Niemi, STAT 401A course at Iowa State University. [https://github.com/jarad/stat401A](https://github.com/jarad/stat401A). Jarad's web-site with more statistical courses STAT 544 and STAT 615 [http://www.jarad.me/courses/](http://www.jarad.me/courses/)
