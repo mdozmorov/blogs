@@ -1,5 +1,7 @@
 # Programming tutorials and e-books
 
+- `Hydropythonica` - Python programming basics. iPython notebooks. Rus. [https://github.com/whitehorn/Hydropythonica](https://github.com/whitehorn/Hydropythonica)
+
 ## Python
 
 - Intermediate Python [https://github.com/yasoob/intermediatePython](https://github.com/yasoob/intermediatePython), [review with references to other e-books](http://www.blog.pythonlibrary.org/2015/09/02/ebook-review-intermediate-python/)
