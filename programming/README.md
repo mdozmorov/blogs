@@ -38,6 +38,9 @@
 
 - [R vs Python – a Comparison, and Awesome Books (Free Full PDFs!) to Learn these Languages](http://ucanalytics.com/blogs/r-vs-python-comparison-and-awsome-books-free-pdfs-to-learn-them/) - good list of links. Another one, specifically on R [Learn R : 12 Books (Free PDFs!) and Online Resources](http://ucanalytics.com/blogs/learn-r-12-books-and-online-resources/)
 
+## Video
+
+- Introduction to Computer Science and Programming in Python. Video Series from MIT. [https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
 ## Misc
 
