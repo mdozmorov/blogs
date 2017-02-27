@@ -49,3 +49,6 @@ Started as a summary of interesting RSS feeds, this repository is growing into a
 [The stupidest thing...](https://kbroman.wordpress.com), [RSS](http://kbroman.wordpress.com/feed/)
 
 ["The Third Bit" by Greg Wilson from Software Carpentry](http://third-bit.com/), [RSS](http://third-bit.com/)
+
+["Statistical Thinking" by Frank Harrell](http://www.fharrell.com/), [RSS](http://www.fharrell.com/feeds/posts/default?alt=rss)
+
