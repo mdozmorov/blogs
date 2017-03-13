@@ -6,6 +6,8 @@
 
 - `DATA606Spring2017` - the DATA 606 course for the Spring 2017 semester by Jason Bryer. The course website is at data606.net. [https://github.com/jbryer/DATA606Spring2017](https://github.com/jbryer/DATA606Spring2017)
 
+- `stat540_2014` - STAT540 Statistical Methods for High Dimensional Biology course by Jenny Bryan
+
 - `stat401A` - conscise statistical refresher by Jarad Niemi, STAT 401A course at Iowa State University. [https://github.com/jarad/stat401A](https://github.com/jarad/stat401A). Jarad's web-site with more statistical courses STAT 544 and STAT 615 [http://www.jarad.me/courses/](http://www.jarad.me/courses/)
 
 ## Courses
