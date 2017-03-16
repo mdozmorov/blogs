@@ -6,6 +6,8 @@
 
 - `ciml` - book "A Course in Machine Learning". On the web, [http://ciml.info/](http://ciml.info/), and on GitHub, [https://github.com/hal3/ciml](https://github.com/hal3/ciml)
 
+- `deep-review` - A collaboratively written review paper on deep learning, genomics, and precision medicine, lead by Dr. Casey Greene. Each issue on [https://github.com/greenelab/deep-review/issues](https://github.com/greenelab/deep-review/issues) corresponds to a paper on the subject. The final review is at [https://greenelab.github.io/deep-review/](https://greenelab.github.io/deep-review/) lists amazing resources and references on deep learning in genomics.
+
 - `google-interview-university` - List of ML/CS courses. A complete daily plan for studying to become a Google software engineer. [https://github.com/jwasham/google-interview-university](https://github.com/jwasham/google-interview-university)
 
 - `lm` - "Advanced linear models for data science" book by Brian Caffo [https://github.com/bcaffo/lm](https://github.com/bcaffo/lm). Compile the pdf with `pdflatex main.tex`
