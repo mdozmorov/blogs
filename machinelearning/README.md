@@ -14,6 +14,8 @@
 
 - `ML_for_Hackers` - Code accompanying the book "Machine Learning for Hackers" [https://github.com/johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
 
+- `ML-From-Scratch` - Bare bones Python implementations of some of the fundamental Machine Learning models and algorithms. [https://github.com/eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+
 - `mlr` - Machine Learning in R [https://github.com/mlr-org/mlr](https://github.com/mlr-org/mlr)
 
 - `nn-from-scratch` - Implementing a Neural Network from Scratch – An Introduction. [http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/) and [https://github.com/dennybritz/nn-from-scratch](https://github.com/dennybritz/nn-from-scratch)
