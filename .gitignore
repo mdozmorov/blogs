@@ -1,11 +1,8 @@
+# Blacklist everything
 *
-!machinelearning/README.md
-!misc/README.md
-!programming/README.md
-!statistics/README.md
-!tutorials/README.md
-!videos/README.md
+# whitelist all directories
+#!*/
+# Whitelist specific files
 !README.md
 !.gitignore
 
-.Rproj.user
