@@ -6,3 +6,4 @@
 
 - `GCB` - machine learning course by Casey Greene, https://github.com/greenelab/GCB535
 
+- `user2016-tutorial-shiny` - Shiny tutorial, https://github.com/gaborcsardi/user2016-tutorial-shiny
