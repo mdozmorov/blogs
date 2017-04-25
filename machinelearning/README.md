@@ -12,6 +12,8 @@
 
 - `lm` - "Advanced linear models for data science" book by Brian Caffo [https://github.com/bcaffo/lm](https://github.com/bcaffo/lm). Compile the pdf with `pdflatex main.tex`
 
+- `mit-deep-learning-book-pdf` - MIT Deep Learning Book, PDF of the original http://www.deeplearningbook.org/ book. https://github.com/janishar/mit-deep-learning-book-pdf
+
 - `ML_for_Hackers` - Code accompanying the book "Machine Learning for Hackers" [https://github.com/johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
 
 - `ML-From-Scratch` - Bare bones Python implementations of some of the fundamental Machine Learning models and algorithms. [https://github.com/eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
