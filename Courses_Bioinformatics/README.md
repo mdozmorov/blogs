@@ -2,6 +2,8 @@
 
 - `applied-computational-genomics` - applied computational genomics by Aaron Quinlan, https://github.com/quinlan-lab/applied-computational-genomics
 
+- `ChIP-seq-analysis` - ChIP-seq analysis notes from Tommy Tang, https://github.com/crazyhottommy/ChIP-seq-analysis
+
 - `haowulab.github.io` - microarray course, https://github.com/haowulab/haowulab.github.io
 
 - `Intro-to-R-extended` - Intro to R materials for six hour workshop, https://github.com/mistrm82/Intro-to-R-extended
