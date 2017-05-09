@@ -1,5 +1,7 @@
 # `Courses_DataScience`
 
+- `2016` - "Introduction to Data Science" by Rafael Irizarry and Stephanie Hicks, [https://datasciencelabs.github.io/index.html](https://datasciencelabs.github.io/index.html) and [https://github.com/datasciencelabs/2016](https://github.com/datasciencelabs/2016). Data for the course is at [https://github.com/datasciencelabs/data](https://github.com/datasciencelabs/data)
+
 - `courses` - AWS training, https://github.com/uvasomrc/courses
 
 - `getting-started-with-genomics-tools-and-resources` - links and references to many resources
