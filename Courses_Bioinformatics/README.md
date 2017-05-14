@@ -12,6 +12,8 @@
 
 - `msu_ngs20151` - RNA-seq differential expression analysis, https://github.com/mistrm82/msu_ngs2015
 
+- `NHGRI_Genomics2016` - "Current Topics in Genome Analysis 2016" course. A lecture series covering contemporary areas in genomics and bioinformatics. Video lectures and slides, https://www.genome.gov/12514288/current-topics-in-genome-analysis-2016-course-syllabus-handouts-and-videos/
+
 - `R_programs` - PDFs and statistical learning implementations, data mining, and other statistical analysis programmed in R, https://github.com/a-rhodes-vcu/R_programs
 
 - `Rcourse` - Class notes for my "R" course at Ben Gurion University. https://github.com/johnros/Rcourse, http://www.john-ros.com/Rcourse/
@@ -41,3 +43,8 @@
 - Beginner's Handbook to Next Generation Sequencing by GenoHub - https://genohub.com/next-generation-sequencing-handbook/
 
 - "RNA-seqlopedia" - one-pager of all steps of RNA-seq data analysis, from molecular biology to computational analysis, very detailed. [http://rnaseq.uoregon.edu/](http://rnaseq.uoregon.edu/)
+
+
+
+
+
