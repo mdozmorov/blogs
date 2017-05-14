@@ -30,6 +30,7 @@
 
 - `RNA-seq_workflow.pdf` - SummarizedExperiment and RNA-seq data manipulation in Bioconductor, https://www.bioconductor.org/help/course-materials/2017/OMRF/B3_RNASeq_Workflow.html
 
+- `ChIP-seq_workflow.pdf` - ChIP-seq workflow and analysis in R, https://www.bioconductor.org/help/course-materials/2017/OMRF/B4_ChIPSeq.html
 
 # Notes
 
