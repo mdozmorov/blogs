@@ -26,7 +26,10 @@
 
 - `RNA-seq_diff_expr.Rmd` - RNA-seq: differential gene expression analysis, https://gist.github.com/stephenturner/e34e32b3d054bb850ae2
 
+- `RNA-seq_Bioconductor.pdf` - Bioconductor building blocks for RNA-seq data analysis, https://www.bioconductor.org/help/course-materials/2017/OMRF/B2_Common_Operations.html
+
 - `RNA-seq_workflow.pdf` - SummarizedExperiment and RNA-seq data manipulation in Bioconductor, https://www.bioconductor.org/help/course-materials/2017/OMRF/B3_RNASeq_Workflow.html
+
 
 # Notes
 
