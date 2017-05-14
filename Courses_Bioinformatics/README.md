@@ -33,3 +33,5 @@
 - List of bioinformatics courses by Stephen Turner - http://stephenturner.us/post/bioinformatics-workshops-training-2015/
 
 - Beginner's Handbook to Next Generation Sequencing by GenoHub - https://genohub.com/next-generation-sequencing-handbook/
+
+- "RNA-seqlopedia" - one-pager of all steps of RNA-seq data analysis, from molecular biology to computational analysis, very detailed. [http://rnaseq.uoregon.edu/](http://rnaseq.uoregon.edu/)
