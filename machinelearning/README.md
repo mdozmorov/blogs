@@ -1,10 +1,12 @@
-# Machine learning resources
+# Machine learning and deep learning resources
 
 - `algorithms_in_ipython_notebooks` - A repository with IPython notebooks of algorithms implemented in Python. [https://github.com/rasbt/algorithms_in_ipython_notebooks](https://github.com/rasbt/algorithms_in_ipython_notebooks)
 
 - `awesome-machine-learning` - A curated list of awesome Machine Learning frameworks, libraries and software. [https://github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 - `ciml` - book "A Course in Machine Learning". On the web, [http://ciml.info/](http://ciml.info/), and on GitHub, [https://github.com/hal3/ciml](https://github.com/hal3/ciml)
+
+- `DeepLearningBook` - MIT Deep Learning Book in PDF format. [https://github.com/HFTrader/DeepLearningBook](https://github.com/HFTrader/DeepLearningBook)
 
 - `deep-review` - A collaboratively written review paper on deep learning, genomics, and precision medicine, lead by Dr. Casey Greene. Each issue on [https://github.com/greenelab/deep-review/issues](https://github.com/greenelab/deep-review/issues) corresponds to a paper on the subject. The final review is at [https://greenelab.github.io/deep-review/](https://greenelab.github.io/deep-review/) lists amazing resources and references on deep learning in genomics.
 
