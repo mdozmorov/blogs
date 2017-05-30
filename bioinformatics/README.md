@@ -14,6 +14,8 @@
 
 - `genbioconductor` - "Materials for Genomics Data Science: Introduction to Bioconductor" course by Kasper Hansen. Includes videos, code examples and lecture material. Web-site, [https://kasperdanielhansen.github.io/genbioconductor/](https://kasperdanielhansen.github.io/genbioconductor/), and GitHub repo, [https://github.com/kasperdanielhansen/genbioconductor](https://github.com/kasperdanielhansen/genbioconductor)
 
+- `genomicspapers` - Jeff Leek recommended list of genomics papers. [https://github.com/jtleek/genomicspapers](https://github.com/jtleek/genomicspapers)
+
 - `jhudatascience` - links to several courses, including some material. JHU. The GitHub repo [https://github.com/jhudsl/jhudatascience](https://github.com/jhudsl/jhudatascience) contains the files to build the web-site [http://jhudatascience.org/courses.html](http://jhudatascience.org/courses.html)
 
 - `labs` - Biomedical Data Science PH525x course from Rafael Irizarry and Michael Love [https://genomicsclass.github.io/book/](https://genomicsclass.github.io/book/) and [https://github.com/genomicsclass/labs](https://github.com/genomicsclass/labs)
