@@ -6,6 +6,8 @@
 
 - `getting-started-with-genomics-tools-and-resources` - links and references to many resources
 
+- `IntroDataSci` - "CMSC320: Introduction to Data Science" course by Hector Corrada Bravo, https://github.com/hcorrada/IntroDataSci
+
 - `GCB` - machine learning course by Casey Greene, https://github.com/greenelab/GCB535
 
 - `SISBID` - several modules covering various aspects of data science. Summer Institute in Statistics for Big Data 
