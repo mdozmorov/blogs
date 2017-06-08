@@ -1,5 +1,7 @@
 # Programming tutorials and e-books
 
+- `Best-websites-a-programmer-should-visit` - Some useful websites for programmers. [https://github.com/sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
+
 - `Hydropythonica` - Python programming basics. iPython notebooks. Rus. [https://github.com/whitehorn/Hydropythonica](https://github.com/whitehorn/Hydropythonica)
 
 ## Python
