@@ -30,6 +30,8 @@
 
 - `python-machine-learning-book` - "Python Machine Learning" book by Sebastian Raschka, iPython notebooks [https://github.com/rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)
 
+- `UnsupervisedMethods.com - Cheat Sheets` - Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets. Description of each. https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6. All 27 in one file, https://www.dropbox.com/s/v3yg8djhdf24g6v/UnsupervisedMethods.com%20-%20Cheat%20Sheets.zip?dl=0
+
 - `useR-machine-learning-tutorial` - useR! 2016 Tutorial: Machine Learning Algorithmic Deep Dive. IPython notebooks running R kernel [https://github.com/ledell/useR-machine-learning-tutorial](https://github.com/ledell/useR-machine-learning-tutorial)
 
 
