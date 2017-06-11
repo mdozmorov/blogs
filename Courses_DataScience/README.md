@@ -8,6 +8,8 @@
 
 - `IntroDataSci` - "CMSC320: Introduction to Data Science" course by Hector Corrada Bravo, https://github.com/hcorrada/IntroDataSci
 
+- `MTEC_CADi_2017` - "Data Science using R for Humanities and Social Science" by Hector Corrada Bravo. https://github.com/hcorrada/MTEC_CADi_2017. The repo contains `notes/_book` folder with an excellent bookdown of the lecture notes
+
 - `GCB` - machine learning course by Casey Greene, https://github.com/greenelab/GCB535
 
 - `SISBID` - several modules covering various aspects of data science. Summer Institute in Statistics for Big Data 
