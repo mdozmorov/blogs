@@ -15,7 +15,7 @@
 - `SISBID` - several modules covering various aspects of data science. Summer Institute in Statistics for Big Data 
     - `Module 1` - https://github.com/SISBID/Module1.
     - `Module 2` - https://github.com/SISBID/Module2.
-    - `Module 3` - https://github.com/SISBID/Module3. Reproducible research by Keith Beggerly and Roger Peng
+    - `Module 3` - https://github.com/SISBID/Module3. Reproducible research by Keith Baggerly and Roger Peng
     - `Module 4` - https://github.com/SISBID/Module4.
     - `Module 5` - https://github.com/SISBID/Module5.
 
@@ -25,3 +25,5 @@
 # Notes
 
 - "Text Mining with R", by Julia Silge and David Robinson, http://tidytextmining.com/
+
+- "OnePageR", book "Data Science Quick Start: Knowledge Discovery Through R" by Togaware, https://togaware.com/onepager/, includes pdf slides and R code templates for various machine learning tasks
