@@ -8,6 +8,10 @@
 
 - `Intro-to-R-extended` - Intro to R materials for six hour workshop, https://github.com/mistrm82/Intro-to-R-extended
 
+- `Machiraju` - Courses by Dr. Raghu Machiraju, http://web.cse.ohio-state.edu/~machiraju.1/. Topics: data visualization, biomedical informatics, computer graphics, linked from the homepage. These and other courses are linked from http://web.cse.ohio-state.edu/~machiraju.1/teaching/. 
+  - `CSE5599-BMI7830` - biomedical informatics. http://web.cse.ohio-state.edu/~machiraju.1/teaching/CSE5599-BMI7830/
+  - `CSE5544` – Introduction to Data Visualization. http://web.cse.ohio-state.edu/~machiraju.1/teaching/CSE5544/
+
 - `LinearModelingR` - Linear Modeling in R workshop materials, https://github.com/stephenturner/LinearModelingR
 
 - `msu_ngs20151` - RNA-seq differential expression analysis, https://github.com/mistrm82/msu_ngs2015
