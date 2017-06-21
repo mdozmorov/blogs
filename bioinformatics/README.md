@@ -1,5 +1,7 @@
 # Bioinformatics and Data science resources
 
+- `bioinformatics-one-liners` - collection of bioinformatics-genomics bash one liners, using awk, sed etc. https://github.com/crazyhottommy/bioinformatics-one-liners
+
 - `biotools` - A massive collection of references on the topics of bioinformatics, sequencing technologies, programming, machine learning, and more. [https://github.com/jdidion/biotools](https://github.com/jdidion/biotools)
 
 - `book` - "Computational genomics with R" book by Altuna Akalin. Web site, [https://compgenomr.github.io/book/](https://compgenomr.github.io/book/), and GitHub repo, [https://github.com/compgenomr/book](https://github.com/compgenomr/book)
