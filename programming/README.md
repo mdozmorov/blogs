@@ -46,6 +46,8 @@
 
 - Introduction to Computer Science and Programming in Python. Video Series from MIT. [https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA)
 
+- https://www.youtube.com/watch?v=Z5rMrI1e4kM&list=PLuFFQwn__hQddxX6RhiGGeEdDy0MjWOO1 - Data Science by Manuel Amunategui (R). Less known but very useful R gems.
+
 ## Misc
 
 - Very large collection of free courses [https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md](https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md), interactive tutorials [https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md](https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md), podcasts and screencasts [https://github.com/vhf/free-programming-books/blob/master/free-podcasts-screencasts-en.md](https://github.com/vhf/free-programming-books/blob/master/free-podcasts-screencasts-en.md), books [https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) on any (most) programming languages. And more, translated in other languages, on [https://github.com/vhf/free-programming-books](https://github.com/vhf/free-programming-books)
