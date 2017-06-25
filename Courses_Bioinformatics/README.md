@@ -2,6 +2,8 @@
 
 - `applied-computational-genomics` - applied computational genomics by Aaron Quinlan, https://github.com/quinlan-lab/applied-computational-genomics
 
+- `appliedgenomics` - JHU Applied Comparative Genomics 2017 course, by Michael Schatz. https://github.com/schatzlab/appliedgenomics, links to similar courses there. Other courses by Michael, http://schatzlab.cshl.edu/teaching/
+
 - `ChIP-seq-analysis` - ChIP-seq analysis notes from Tommy Tang, https://github.com/crazyhottommy/ChIP-seq-analysis
 
 - `haowulab.github.io` - microarray course, https://github.com/haowulab/haowulab.github.io
