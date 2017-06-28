@@ -1,5 +1,7 @@
 # `Courses_Bioinformatics`
 
+- `ads1-slides` - Ben Langmead's Slides for Algorithms for DNA Sequencing Coursera class. https://github.com/BenLangmead/ads1-slides.git. The complete class is at http://www.langmead-lab.org/teaching-materials/
+
 - `applied-computational-genomics` - applied computational genomics by Aaron Quinlan, https://github.com/quinlan-lab/applied-computational-genomics
 
 - `appliedgenomics` - JHU Applied Comparative Genomics 2017 course, by Michael Schatz. https://github.com/schatzlab/appliedgenomics, links to similar courses there. Other courses by Michael, http://schatzlab.cshl.edu/teaching/
