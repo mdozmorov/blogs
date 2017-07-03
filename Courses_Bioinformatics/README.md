@@ -10,6 +10,8 @@
 
 - `haowulab.github.io` - microarray course, https://github.com/haowulab/haowulab.github.io
 
+- `INF-BIOx121_fall2014_de_novo_assembly` - _de novo_ assembly presentations and Jupyter notebooks tutorials. https://github.com/lexnederbragt/INF-BIOx121_fall2014_de_novo_assembly.The full "High Throughput Sequencing technologies and bioinformatics analysis" course material is at https://wiki.uio.no/projects/clsi/index.php/INF-BIOX121_H14
+
 - `Intro-to-R-extended` - Intro to R materials for six hour workshop, https://github.com/mistrm82/Intro-to-R-extended
 
 - `Machiraju` - Courses by Dr. Raghu Machiraju, http://web.cse.ohio-state.edu/~machiraju.1/. Topics: data visualization, biomedical informatics, computer graphics, linked from the homepage. These and other courses are linked from http://web.cse.ohio-state.edu/~machiraju.1/teaching/. 
