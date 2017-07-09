@@ -1,5 +1,7 @@
 # Bioinformatics and Data science resources
 
+- `awesome-single-cell` - List of software packages for single-cell data analysis, including RNA-seq, ATAC-seq, etc. https://github.com/seandavi/awesome-single-cell
+
 - `bioinformatics-one-liners` - collection of bioinformatics-genomics bash one liners, using awk, sed etc. https://github.com/crazyhottommy/bioinformatics-one-liners
 
 - `biotools` - A massive collection of references on the topics of bioinformatics, sequencing technologies, programming, machine learning, and more. [https://github.com/jdidion/biotools](https://github.com/jdidion/biotools)
