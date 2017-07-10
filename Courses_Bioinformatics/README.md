@@ -10,6 +10,8 @@
 
 - `CSAMA` - Course material for CSAMA: Statistical Data Analysis for Genome Scale Biology. https://github.com/Bioconductor/CSAMA, https://www.bioconductor.org/help/course-materials/2017/CSAMA/
 
+- `genbioconductor` - Materials for Genomics Data Science: Introduction to Bioconductor. Includes videos. https://github.com/kasperdanielhansen/genbioconductor, https://kasperdanielhansen.github.io/genbioconductor/
+
 - `haowulab.github.io` - microarray course, https://github.com/haowulab/haowulab.github.io
 
 - `INF-BIOx121_fall2014_de_novo_assembly` - _de novo_ assembly presentations and Jupyter notebooks tutorials. https://github.com/lexnederbragt/INF-BIOx121_fall2014_de_novo_assembly.The full "High Throughput Sequencing technologies and bioinformatics analysis" course material is at https://wiki.uio.no/projects/clsi/index.php/INF-BIOX121_H14
