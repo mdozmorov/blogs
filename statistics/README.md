@@ -10,6 +10,8 @@
 
 - `stat401A` - conscise statistical refresher by Jarad Niemi, STAT 401A course at Iowa State University. [https://github.com/jarad/stat401A](https://github.com/jarad/stat401A). Jarad's web-site with more statistical courses STAT 544 and STAT 615 [http://www.jarad.me/courses/](http://www.jarad.me/courses/)
 
+- `WinVector.github.io` - Various statistical topics with R and Python examples. "IntroductionToDataScience" course. https://winvector.github.io/ - web-facing pages, https://github.com/WinVector/WinVector.github.io/ - github repo
+
 ## Courses
 
 - The Coursera Class: Statistics One, by Princeton [https://github.com/svkerr/Statistics_Class_Princeton](https://github.com/svkerr/Statistics_Class_Princeton)
