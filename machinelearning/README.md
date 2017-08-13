@@ -52,3 +52,8 @@
 
 - An example machine learning notebook. [https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 
+## Video
+
+- "Learning from data" - machine learning course from Caltech, taught by Feynman Prize winner Professor Yaser Abu-Mostafa. [https://work.caltech.edu/lectures.html#lectures](https://work.caltech.edu/lectures.html#lectures)
+
+
