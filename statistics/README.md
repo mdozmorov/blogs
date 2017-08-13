@@ -14,6 +14,8 @@
 
 - `WinVector.github.io` - Various statistical topics with R and Python examples. "IntroductionToDataScience" course. https://winvector.github.io/ - web-facing pages, https://github.com/WinVector/WinVector.github.io/ - github repo
 
+- `www_stat_cmu_edu_cshalizi_350` - Statistics 36-350: Data Mining by Cosma Shalizi. http://www.stat.cmu.edu/~cshalizi/350/
+
 ## Courses
 
 - The Coursera Class: Statistics One, by Princeton [https://github.com/svkerr/Statistics_Class_Princeton](https://github.com/svkerr/Statistics_Class_Princeton)
