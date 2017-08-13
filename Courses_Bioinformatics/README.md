@@ -26,8 +26,6 @@
 
 - `msu_ngs20151` - RNA-seq differential expression analysis, https://github.com/mistrm82/msu_ngs2015
 
-- `NHGRI_Genomics2016` - "Current Topics in Genome Analysis 2016" course. A lecture series covering contemporary areas in genomics and bioinformatics. Video lectures, https://www.youtube.com/playlist?list=PL1ay9ko4A8skYqjhrA4INDZ7IHtebS0lY, and slides, https://www.genome.gov/12514288/current-topics-in-genome-analysis-2016-course-syllabus-handouts-and-videos/
-
 - `R_programs` - PDFs and statistical learning implementations, data mining, and other statistical analysis programmed in R, https://github.com/a-rhodes-vcu/R_programs
 
 - `Rcourse` - Class notes for my "R" course at Ben Gurion University. https://github.com/johnros/Rcourse, http://www.john-ros.com/Rcourse/
@@ -38,6 +36,9 @@
 
 - `rnaseq_tutorial.wiki` - wiki has the detailed tutorials. "LectureFiles" have lecture slides from different courses
 
+- `single_cell_analysis` - Workshops on single cell analysis. Presentation, R code with instructions for running a Docker container on Amazon EC2. https://github.com/broadinstitute/single_cell_analysis
+
+
 - `RNA-seq-introduction-v2.pdf` - 33-pages RNA-seq introduction. https://www.princeton.edu/genomics/sequencing/instructions/rna-seq-workshop/RNA-seq-introduction-v2.pdf
 
 - `RNA-seq_diff_expr.Rmd` - RNA-seq: differential gene expression analysis, https://gist.github.com/stephenturner/e34e32b3d054bb850ae2
@@ -47,6 +48,13 @@
 - `RNA-seq_workflow.pdf` - SummarizedExperiment and RNA-seq data manipulation in Bioconductor, https://www.bioconductor.org/help/course-materials/2017/OMRF/B3_RNASeq_Workflow.html
 
 - `ChIP-seq_workflow.pdf` - ChIP-seq workflow and analysis in R, https://www.bioconductor.org/help/course-materials/2017/OMRF/B4_ChIPSeq.html
+
+# Videos
+
+- `NHGRI_Genomics2016` - "Current Topics in Genome Analysis 2016" course. A lecture series covering contemporary areas in genomics and bioinformatics. Video lectures, https://www.youtube.com/playlist?list=PL1ay9ko4A8skYqjhrA4INDZ7IHtebS0lY, and slides, https://www.genome.gov/12514288/current-topics-in-genome-analysis-2016-course-syllabus-handouts-and-videos/
+
+- `MIT_SysBiol2014` - "Foundations of Computational and Systems Biology". Video lectures, https://www.youtube.com/watch?v=lJzybEXmIj0&list=PLUl4u3cNGP63uK-oWiLgO7LLJV6ZCWXac, and slides https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/
+
 
 # Notes
 
