@@ -56,4 +56,4 @@
 
 - "Learning from data" - machine learning course from Caltech, taught by Feynman Prize winner Professor Yaser Abu-Mostafa. [https://work.caltech.edu/lectures.html#lectures](https://work.caltech.edu/lectures.html#lectures)
 
-
+- Statistical Machine Learning: Spring 2017, by Ryan Tibshirani, Larry Wasserman, Carnegie Mellon University. [http://www.stat.cmu.edu/~ryantibs/statml/](http://www.stat.cmu.edu/~ryantibs/statml/)
