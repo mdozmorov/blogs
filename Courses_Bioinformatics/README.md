@@ -38,6 +38,7 @@
 
 - `single_cell_analysis` - Workshops on single cell analysis. Presentation, R code with instructions for running a Docker container on Amazon EC2. https://github.com/broadinstitute/single_cell_analysis
 
+- `single-cell-pseudotime` - Single-cell RNA-seq pseudotime estimation algorithms, comprehensive collection of links to software and accompanying papers. https://github.com/agitter/single-cell-pseudotime
 
 - `RNA-seq-introduction-v2.pdf` - 33-pages RNA-seq introduction. https://www.princeton.edu/genomics/sequencing/instructions/rna-seq-workshop/RNA-seq-introduction-v2.pdf
 
