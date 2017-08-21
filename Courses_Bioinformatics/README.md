@@ -10,6 +10,8 @@
 
 - `CSAMA` - Course material for CSAMA: Statistical Data Analysis for Genome Scale Biology. https://github.com/Bioconductor/CSAMA, https://www.bioconductor.org/help/course-materials/2017/CSAMA/
 
+- `CSE549` - CSE 549 - Introduction to Computational Biology by Steven Skiena. [http://www3.cs.stonybrook.edu/~skiena/549/](http://www3.cs.stonybrook.edu/~skiena/549/)
+
 - `genbioconductor` - Materials for Genomics Data Science: Introduction to Bioconductor. Includes videos. https://github.com/kasperdanielhansen/genbioconductor, https://kasperdanielhansen.github.io/genbioconductor/
 
 - `haowulab.github.io` - microarray course, https://github.com/haowulab/haowulab.github.io
