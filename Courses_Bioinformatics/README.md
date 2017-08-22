@@ -8,6 +8,8 @@
 
 - `ChIP-seq-analysis` - ChIP-seq analysis notes from Tommy Tang, https://github.com/crazyhottommy/ChIP-seq-analysis
 
+- `compbio` - Introduction to Computational Biology course by Mike Love, https://github.com/biodatascience/compbio and https://biodatascience.github.io/compbio/
+
 - `CSAMA` - Course material for CSAMA: Statistical Data Analysis for Genome Scale Biology. https://github.com/Bioconductor/CSAMA, https://www.bioconductor.org/help/course-materials/2017/CSAMA/
 
 - `CSE549` - CSE 549 - Introduction to Computational Biology by Steven Skiena. [http://www3.cs.stonybrook.edu/~skiena/549/](http://www3.cs.stonybrook.edu/~skiena/549/)
