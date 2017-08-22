@@ -30,6 +30,10 @@
 
 - `msu_ngs20151` - RNA-seq differential expression analysis, https://github.com/mistrm82/msu_ngs2015
 
+- `networks-across-scales` - CMSC423: Bioinformatics algorithms, databases and tools (Spring 2017)
+
+by Hector Corrada, https://github.com/hcorrada/networks-across-scales
+
 - `R_programs` - PDFs and statistical learning implementations, data mining, and other statistical analysis programmed in R, https://github.com/a-rhodes-vcu/R_programs
 
 - `Rcourse` - Class notes for my "R" course at Ben Gurion University. https://github.com/johnros/Rcourse, http://www.john-ros.com/Rcourse/
