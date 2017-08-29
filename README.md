@@ -44,6 +44,8 @@ Started as a summary of interesting RSS feeds, this repository is growing into a
 
 [STHDA - Statistical tools for high-throughput data analysis](http://www.sthda.com/english/), [RSS](http://www.sthda.com/english/syndication/rss/wiki)
 
+[Tanagra - Data Mining and Data Science Tutorials](https://data-mining-tutorials.blogspot.com/)
+
 [The R Journal](http://journal.r-project.org), [RSS](http://journal.r-project.org/rss.atom)
 
 [The stupidest thing...](https://kbroman.wordpress.com), [RSS](http://kbroman.wordpress.com/feed/)
