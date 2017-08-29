@@ -4,6 +4,8 @@
 
 - `courses` - AWS training, https://github.com/uvasomrc/courses
 
+- `DataScienceSpecialization` - Course materials for the Data Science Specialization from JHU folks. Detailed lectures on each topic. https://github.com/DataScienceSpecialization/courses
+
 - `getting-started-with-genomics-tools-and-resources` - links and references to many resources
 
 - `IntroDataSci` - "CMSC320: Introduction to Data Science" course by Hector Corrada Bravo, https://github.com/hcorrada/IntroDataSci
