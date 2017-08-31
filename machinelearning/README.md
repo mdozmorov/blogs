@@ -41,14 +41,13 @@
 )]
 
 
-## Books
+## Misc
 
 - "Neural networks and deep learning" book [http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/) and code [https://github.com/mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
 - "Machine Learning Bookshelf" - list of gold standard books for statistics and machine learning, with summary. [http://ghyslain.me/bookshelf](http://ghyslain.me/bookshelf)
 
-
-## Misc
+- "Tutorial Slides by Andrew Moore", lecture slides on diverse ML topics. [https://www.autonlab.org/tutorials](https://www.autonlab.org/tutorials)
 
 - An example machine learning notebook. [https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 
