@@ -47,6 +47,8 @@
 
 - "Machine Learning Bookshelf" - list of gold standard books for statistics and machine learning, with summary. [http://ghyslain.me/bookshelf](http://ghyslain.me/bookshelf)
 
+- "Introduction to Machine Learning" book by Nils Nilsson, free PDF. [http://robotics.stanford.edu/people/nilsson/mlbook.html](http://robotics.stanford.edu/people/nilsson/mlbook.html)
+
 - "Tutorial Slides by Andrew Moore", lecture slides on diverse ML topics. [https://www.autonlab.org/tutorials](https://www.autonlab.org/tutorials)
 
 - An example machine learning notebook. [https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
