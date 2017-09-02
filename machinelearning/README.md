@@ -43,6 +43,8 @@
 
 ## Misc
 
+- A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks. IPython notebooks with theory. [https://github.com/rasbt/pattern_classification](https://github.com/rasbt/pattern_classification)
+
 - "Neural networks and deep learning" book [http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/) and code [https://github.com/mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
 - "Machine Learning Bookshelf" - list of gold standard books for statistics and machine learning, with summary. [http://ghyslain.me/bookshelf](http://ghyslain.me/bookshelf)
