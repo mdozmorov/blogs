@@ -1,3 +1,7 @@
+- `every-programmer-should-know` - A collection of (mostly) technical things every software developer should know, https://github.com/mr-mig/every-programmer-should-know
+
+
+
 # Programming tutorials and e-books
 
 - `Best-websites-a-programmer-should-visit` - Some useful websites for programmers. [https://github.com/sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
