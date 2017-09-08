@@ -14,7 +14,7 @@
 
 - `CSE549` - CSE 549 - Introduction to Computational Biology by Steven Skiena. [http://www3.cs.stonybrook.edu/~skiena/549/](http://www3.cs.stonybrook.edu/~skiena/549/)
 
-- `genbioconductor` - Materials for Genomics Data Science: Introduction to Bioconductor. Includes videos. https://github.com/kasperdanielhansen/genbioconductor, https://kasperdanielhansen.github.io/genbioconductor/
+- `genbioconductor` - "Materials for Genomics Data Science: Introduction to Bioconductor" course by Kasper Hansen. Includes videos, code examples and lecture material. Web-site, [https://kasperdanielhansen.github.io/genbioconductor/](https://kasperdanielhansen.github.io/genbioconductor/), and GitHub repo, [https://github.com/kasperdanielhansen/genbioconductor](https://github.com/kasperdanielhansen/genbioconductor)
 
 - `haowulab.github.io` - microarray course, https://github.com/haowulab/haowulab.github.io
 

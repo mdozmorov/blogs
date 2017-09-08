@@ -16,8 +16,6 @@
 
 - `DS_for_S` - Materials for March 12 ENAR short course on Data Science for Statisticians. [https://github.com/AmeliaMN/DS_for_S](https://github.com/AmeliaMN/DS_for_S)
 
-- `genbioconductor` - "Materials for Genomics Data Science: Introduction to Bioconductor" course by Kasper Hansen. Includes videos, code examples and lecture material. Web-site, [https://kasperdanielhansen.github.io/genbioconductor/](https://kasperdanielhansen.github.io/genbioconductor/), and GitHub repo, [https://github.com/kasperdanielhansen/genbioconductor](https://github.com/kasperdanielhansen/genbioconductor)
-
 - `genomicspapers` - Jeff Leek recommended list of genomics papers. [https://github.com/jtleek/genomicspapers](https://github.com/jtleek/genomicspapers)
 
 - `jhudatascience` - links to several courses, including some material. JHU. The GitHub repo [https://github.com/jhudsl/jhudatascience](https://github.com/jhudsl/jhudatascience) contains the files to build the web-site [http://jhudatascience.org/courses.html](http://jhudatascience.org/courses.html)
