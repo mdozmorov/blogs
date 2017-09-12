@@ -35,6 +35,8 @@
 
 ## Books
 
+- "A Bayesian Course with Examples in R and Stan" book sample, http://xcelab.net/rm/statistical-rethinking/. Link to the full video lectures on the topic, https://www.youtube.com/playlist?list=PLDcUM9US4XdMdZOhJWJJD4mDBMnbTWw_z
+
 - Notes and exercises for a classical free book "[An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)" [https://github.com/asadoughi/stat-learning](https://github.com/asadoughi/stat-learning)
 
 - "From Algorithms to Z-Scores: Probabilistic and Statistical Modeling in Computer Science" book, [http://heather.cs.ucdavis.edu/probstatbook](http://heather.cs.ucdavis.edu/probstatbook) by prof. Norm Matloff
