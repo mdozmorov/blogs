@@ -24,6 +24,8 @@
 
 - `mlr` - Machine Learning in R [https://github.com/mlr-org/mlr](https://github.com/mlr-org/mlr)
 
+- `MTH594_MachineLearning` - The materials for the course MTH 594 Advanced data mining: theory and applications (Dmitry Efimov, American University of Sharjah). https://github.com/diefimov/MTH594_MachineLearning
+
 - `nn-from-scratch` - Implementing a Neural Network from Scratch – An Introduction. [http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/) and [https://github.com/dennybritz/nn-from-scratch](https://github.com/dennybritz/nn-from-scratch)
 
 - `pattern_classification` - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks [https://github.com/rasbt/pattern_classification](https://github.com/rasbt/pattern_classification)
