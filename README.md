@@ -14,6 +14,8 @@ Started as a summary of interesting RSS feeds, this repository is growing into a
 
 [DataTau](http://www.datatau.com/), [RSS](http://www.datatau.com/rss)
 
+[Distill](https://distill.pub/) - machine-learning related blog posts, [RSS](https://distill.pub/rss.xml)
+
 [Genohub High Throughput Sequencing ...](http://blog.genohub.com), [RSS](http://blog.genohub.com/feed/)
 
 [Getting Genetics Done](http://www.gettinggeneticsdone.com/), [RSS](http://gettinggeneticsdone.blogspot.com/feeds/posts/default)
