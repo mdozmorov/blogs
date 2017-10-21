@@ -16,6 +16,8 @@
 
 - `genbioconductor` - "Materials for Genomics Data Science: Introduction to Bioconductor" course by Kasper Hansen. Includes videos, code examples and lecture material. Web-site, [https://kasperdanielhansen.github.io/genbioconductor/](https://kasperdanielhansen.github.io/genbioconductor/), and GitHub repo, [https://github.com/kasperdanielhansen/genbioconductor](https://github.com/kasperdanielhansen/genbioconductor)
 
+- `GWAStutorial` - code for GWAS tutorial blog post [https://poissonisfish.wordpress.com/2017/10/09/genome-wide-association-studies-in-r/](https://poissonisfish.wordpress.com/2017/10/09/genome-wide-association-studies-in-r/), [https://github.com/monogenea/GWAStutorial](https://github.com/monogenea/GWAStutorial)
+
 - `haowulab.github.io` - microarray course, https://github.com/haowulab/haowulab.github.io
 
 - `INF-BIOx121_fall2014_de_novo_assembly` - _de novo_ assembly presentations and Jupyter notebooks tutorials. https://github.com/lexnederbragt/INF-BIOx121_fall2014_de_novo_assembly.The full "High Throughput Sequencing technologies and bioinformatics analysis" course material is at https://wiki.uio.no/projects/clsi/index.php/INF-BIOX121_H14
