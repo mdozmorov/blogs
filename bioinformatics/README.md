@@ -24,6 +24,8 @@
 
 # Links
 
+- `BaRC Hot Topics` - lecture slides and handouts on all genomics topics, from Unix to microarray, sequencing, genomics and statistics, http://barc.wi.mit.edu/education/hot_topics/
+
 ## Videos
 
 - "Foundations of Data Science — Spring 2016" course from UC Berkeley. Instructor: John DeNero. Video and slides. [https://data-8.appspot.com/sp16/course](https://data-8.appspot.com/sp16/course). This course is accompanied by other "connector" courses from UC Berkeley, [https://data-8.appspot.com/sp16/modules/extra_tabs/render?index=3](https://data-8.appspot.com/sp16/modules/extra_tabs/render?index=3)
