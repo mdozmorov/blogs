@@ -30,15 +30,13 @@
   - `CSE5599-BMI7830` - biomedical informatics. http://web.cse.ohio-state.edu/~machiraju.1/teaching/CSE5599-BMI7830/
   - `CSE5544` – Introduction to Data Visualization. http://web.cse.ohio-state.edu/~machiraju.1/teaching/CSE5544/
 
-- `labs` - Biomedical Data Science PH525x course from Rafael Irizarry and Michael Love [https://genomicsclass.github.io/book/](https://genomicsclass.github.io/book/) and [https://github.com/genomicsclass/labs](https://github.com/genomicsclass/labs). Videos http://lorainelab.org/statistics-and-r-for-the-life-sciences/
+- `labs` - Biomedical Data Science PH525x course from Rafael Irizarry and Michael Love [https://genomicsclass.github.io/book/](https://genomicsclass.github.io/book/) and [https://github.com/genomicsclass/labs](https://github.com/genomicsclass/labs). Videos http://lorainelab.org/statistics-and-r-for-the-life-sciences/. Data science book `dsbook`, [https://github.com/rafalab/dsbook](https://github.com/rafalab/dsbook)
 
 - `LinearModelingR` - Linear Modeling in R workshop materials, https://github.com/stephenturner/LinearModelingR
 
 - `msu_ngs20151` - RNA-seq differential expression analysis, https://github.com/mistrm82/msu_ngs2015
 
-- `networks-across-scales` - CMSC423: Bioinformatics algorithms, databases and tools (Spring 2017)
-
-by Hector Corrada, https://github.com/hcorrada/networks-across-scales
+- `networks-across-scales` - CMSC423: Bioinformatics algorithms, databases and tools (Spring 2017) by Hector Corrada, https://github.com/hcorrada/networks-across-scales
 
 - `R_programs` - PDFs and statistical learning implementations, data mining, and other statistical analysis programmed in R, https://github.com/a-rhodes-vcu/R_programs
 
