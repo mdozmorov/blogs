@@ -47,6 +47,8 @@
 
 - "An introduction to psychometric theory with applications in R" by William Revelle, the creator of `psych` R package. The book with downloadable PDFs: [http://personality-project.org/r/book/](http://personality-project.org/r/book/), the course based on the book: [http://personality-project.org/revelle/syllabi/405.syllabus.html](http://personality-project.org/revelle/syllabi/405.syllabus.html), and the `psych` R package: [https://cran.r-project.org/web/packages/psych/index.html](https://cran.r-project.org/web/packages/psych/index.html)
 
+- "Data Science Live Book" by Pablo Casas, from exploratory data analysis to regression/classification. https://livebook.datascienceheroes.com/
+
 ## Misc
 
 - "A Brief Introduction to Graphical Models and Bayesian Networks" By Kevin Murphy, 1998. http://www.cs.ubc.ca/~murphyk/Bayes/bnintro.html
