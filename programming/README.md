@@ -1,3 +1,6 @@
+- `awesome-python-talks` - An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience. https://github.com/jhermann/awesome-python-talks
+
+
 - `every-programmer-should-know` - A collection of (mostly) technical things every software developer should know, https://github.com/mr-mig/every-programmer-should-know
 
 
