@@ -10,6 +10,8 @@
 
 - `Data-R-Value` - Data and material for the "Data R Value" blog [https://datarvalue.blogspot.mx/](https://datarvalue.blogspot.mx/), GitHub [https://github.com/pakinja/Data-R-Value](https://github.com/pakinja/Data-R-Value)
 
+- `deep-learning-with-r-notebooks` - R Markdown Notebooks for "Deep Learning with R", https://github.com/jjallaire/deep-learning-with-r-notebooks
+
 - `DeepLearningBook` - MIT Deep Learning Book in PDF format. [https://github.com/HFTrader/DeepLearningBook](https://github.com/HFTrader/DeepLearningBook)
 
 - `DeepRL` - source code, links and other learning materials related to Artificial Intelligence, especially focused on Deep Reinforcement Learning. https://github.com/smc77/DeepRL 
