@@ -10,6 +10,8 @@
 
 - `ISLR` - An Introduction to Statistical Learning with Applications in R (ISLR). The book, R code  and the data are available at [http://www-bcf.usc.edu/~gareth/ISL/](http://www-bcf.usc.edu/~gareth/ISL/). Videos and slides are at [https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/). Slides are also available at [https://www.alsharif.info/iom530](https://www.alsharif.info/iom530)
 
+- `Kalman-and-Bayesian-Filters-in-Python` - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions. https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
+
 - `stat540_2014` - STAT540 Statistical Methods for High Dimensional Biology course by Jenny Bryan
 
 - `stat401A` - conscise statistical refresher by Jarad Niemi, STAT 401A course at Iowa State University. [https://github.com/jarad/stat401A](https://github.com/jarad/stat401A). Jarad's web-site with more statistical courses STAT 544 and STAT 615 [http://www.jarad.me/courses/](http://www.jarad.me/courses/)
