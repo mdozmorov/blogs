@@ -14,6 +14,8 @@ Started as a summary of interesting RSS feeds, this repository is growing into a
 
 [DataTau](http://www.datatau.com/), [RSS](http://www.datatau.com/rss)
 
+[Dave Tang's blog](https://davetang.org/muse), [RSS](https://davetang.org/muse/feed/)
+
 [Distill](https://distill.pub/) - machine-learning related blog posts, [RSS](https://distill.pub/rss.xml)
 
 [Genohub High Throughput Sequencing ...](http://blog.genohub.com), [RSS](http://blog.genohub.com/feed/)
@@ -21,8 +23,6 @@ Started as a summary of interesting RSS feeds, this repository is growing into a
 [Getting Genetics Done](http://www.gettinggeneticsdone.com/), [RSS](http://gettinggeneticsdone.blogspot.com/feeds/posts/default)
 
 [MassGenomics](http://massgenomics.org), [RSS](http://feeds.feedburner.com/Massgenomics)
-
-[Musings from an unlikely candidate](http://davetang.org/muse), [RSS](http://davetang.org/muse/feed/)
 
 [NIH Videocasting and Podcasting](https://videocast.nih.gov/), [RSS](https://videocast.nih.gov/rss/podcasts.asp)
 
