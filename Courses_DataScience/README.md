@@ -2,6 +2,8 @@
 
 - `2016` - "Introduction to Data Science" by Rafael Irizarry and Stephanie Hicks, [https://datasciencelabs.github.io/index.html](https://datasciencelabs.github.io/index.html) and [https://github.com/datasciencelabs/2016](https://github.com/datasciencelabs/2016). Data for the course is at [https://github.com/datasciencelabs/data](https://github.com/datasciencelabs/data)
 
+- `biostat561` - Computational Skills for Biostatistics, from version control, R programming, ggplot, shiny, to Unix, LaTeX, Markdown, Python. https://github.com/adw96/biostat561
+
 - `courses` - AWS training, https://github.com/uvasomrc/courses
 
 - `DataScienceSpecialization` - Course materials for the Data Science Specialization from JHU folks. Detailed lectures on each topic. https://github.com/DataScienceSpecialization/courses
