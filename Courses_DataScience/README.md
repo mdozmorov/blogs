@@ -2,6 +2,8 @@
 
 - `2016` - "Introduction to Data Science" by Rafael Irizarry and Stephanie Hicks, [https://datasciencelabs.github.io/index.html](https://datasciencelabs.github.io/index.html) and [https://github.com/datasciencelabs/2016](https://github.com/datasciencelabs/2016). Data for the course is at [https://github.com/datasciencelabs/data](https://github.com/datasciencelabs/data)
 
+- `awesome-rshiny` - a list of resources to learn R Shiny. [https://github.com/grabear/awesome-rshiny](https://github.com/grabear/awesome-rshiny)
+
 - `biostat561` - Computational Skills for Biostatistics, from version control, R programming, ggplot, shiny, to Unix, LaTeX, Markdown, Python. https://github.com/adw96/biostat561
 
 - `courses` - AWS training, https://github.com/uvasomrc/courses
@@ -11,6 +13,8 @@
 - `DataScienceSpecialization` - Course materials for the Data Science Specialization from JHU folks. Detailed lectures on each topic. https://github.com/DataScienceSpecialization/courses
 
 - `IntroDataSci` - "CMSC320: Introduction to Data Science" course by Hector Corrada Bravo, https://github.com/hcorrada/IntroDataSci
+
+- `mro` - "Effective graphs with Microsoft R Open" open book. [Blog post about the book](http://www.r-bloggers.com/free-e-book-effective-graphs-with-microsoft-r-open/), [Book, PDF](http://www.joyce-robbins.com/wp-content/uploads/2016/04/effectivegraphsmro1.pdf), [Git](https://github.com/nbrgraphs/mro)
 
 - `MTEC_CADi_2017` - "Data Science using R for Humanities and Social Science" by Hector Corrada Bravo. https://github.com/hcorrada/MTEC_CADi_2017. The repo contains `notes/_book` folder with an excellent bookdown of the lecture notes
 
@@ -43,3 +47,9 @@
 - "Version Control by Example" book introducinb Git, Mercurial, and the whole concept. [Book, PDF](http://ericsink.com/vcbe/)
 
 - Tutorial: Scalable R on Spark with SparkR, sparklyr and RevoScaleR [http://blog.revolutionanalytics.com/2016/10/tutorial-scalable-r-on-spark.html](http://blog.revolutionanalytics.com/2016/10/tutorial-scalable-r-on-spark.html)
+
+- Basics of R, with short and conscise examples, "A Complete Tutorial to learn Data Science in R from Scratch", [http://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/](http://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/)
+
+- "R & Bioconductor Manual" by Thomas Girke, UC Riverside [http://manuals.bioinformatics.ucr.edu/home/R_BioCondManual](http://manuals.bioinformatics.ucr.edu/home/R_BioCondManual). One of the best R manual to brush up all major steps in data analysis/visualization. And links to other resources there.
+
+- Network visualization with R, blog post [http://kateto.net/network-visualization](http://kateto.net/network-visualization), GitHub [https://github.com/kateto/R-Network-Visualization-Workshop](https://github.com/kateto/R-Network-Visualization-Workshop)

@@ -1,15 +1,16 @@
 - `awesome-python-talks` - An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience. https://github.com/jhermann/awesome-python-talks
 
+- `Best-websites-a-programmer-should-visit` - Some useful websites for programmers. [https://github.com/sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
 - `every-programmer-should-know` - A collection of (mostly) technical things every software developer should know, https://github.com/mr-mig/every-programmer-should-know
+
+- `Hydropythonica` - Python programming basics. iPython notebooks. Rus. [https://github.com/whitehorn/Hydropythonica](https://github.com/whitehorn/Hydropythonica)
+
+- `Scientific_graphics_in_python` - Scientific graphics in Python. [https://github.com/whitehorn/Scientific_graphics_in_python](https://progeoru.blogspot.ru/2015/09/python.html) (RUS)
 
 
 
 # Programming tutorials and e-books
-
-- `Best-websites-a-programmer-should-visit` - Some useful websites for programmers. [https://github.com/sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
-
-- `Hydropythonica` - Python programming basics. iPython notebooks. Rus. [https://github.com/whitehorn/Hydropythonica](https://github.com/whitehorn/Hydropythonica)
 
 ## Python
 
@@ -38,14 +39,6 @@
 - Continually updated data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe), scikit-learn, Kaggle, Spark, Hadoop MapReduce, HDFS, matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines. [https://github.com/donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 
 - "Python 101" book, and a link to "Python 201". Blog post announcing it as free-donation available [http://www.blog.pythonlibrary.org/2017/01/23/python-101-now-free-on-leanpub-permanently/](http://www.blog.pythonlibrary.org/2017/01/23/python-101-now-free-on-leanpub-permanently/), and the book itself [https://leanpub.com/python_101](https://leanpub.com/python_101)
-
-## R
-
-- `awesome-rshiny` - a list of resources to learn R Shiny. [https://github.com/grabear/awesome-rshiny](https://github.com/grabear/awesome-rshiny)
-
-- Basics of R, with short and conscise examples, "A Complete Tutorial to learn Data Science in R from Scratch", [http://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/](http://www.analyticsvidhya.com/blog/2016/02/complete-tutorial-learn-data-science-scratch/)
-
-- "R & Bioconductor Manual" by Thomas Girke, UC Riverside [http://manuals.bioinformatics.ucr.edu/home/R_BioCondManual](http://manuals.bioinformatics.ucr.edu/home/R_BioCondManual). One of the best R manual to brush up all major steps in data analysis/visualization. And links to other resources there.
 
 - [R vs Python – a Comparison, and Awesome Books (Free Full PDFs!) to Learn these Languages](http://ucanalytics.com/blogs/r-vs-python-comparison-and-awsome-books-free-pdfs-to-learn-them/) - good list of links. Another one, specifically on R [Learn R : 12 Books (Free PDFs!) and Online Resources](http://ucanalytics.com/blogs/learn-r-12-books-and-online-resources/)
 
