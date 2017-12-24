@@ -6,17 +6,35 @@
 
 - `appliedgenomics` - JHU Applied Comparative Genomics 2017 course, by Michael Schatz. https://github.com/schatzlab/appliedgenomics, links to similar courses there. Other courses by Michael, http://schatzlab.cshl.edu/teaching/
 
+- `awesome-single-cell` - List of software packages for single-cell data analysis, including RNA-seq, ATAC-seq, etc. https://github.com/seandavi/awesome-single-cell
+
+- `bioinformatics-one-liners` - collection of bioinformatics-genomics bash one liners, using awk, sed etc. https://github.com/crazyhottommy/bioinformatics-one-liners
+
+- `biotools` - A massive collection of references on the topics of bioinformatics, sequencing technologies, programming, machine learning, and more. [https://github.com/jdidion/biotools](https://github.com/jdidion/biotools)
+
+- `book` - "Computational genomics with R" book by Altuna Akalin. Web site, [https://compgenomr.github.io/book/](https://compgenomr.github.io/book/), and GitHub repo, [https://github.com/compgenomr/book](https://github.com/compgenomr/book)
+
 - `ChIP-seq-analysis` - ChIP-seq analysis notes from Tommy Tang, https://github.com/crazyhottommy/ChIP-seq-analysis
 
 - `comp-genomics-class` - Computational genomics, algorithms, by Ben Langmead. In Python. [https://github.com/BenLangmead/comp-genomics-class](https://github.com/BenLangmead/comp-genomics-class)
 
 - `compbio` - Introduction to Computational Biology course by Mike Love, https://github.com/biodatascience/compbio and https://biodatascience.github.io/compbio/
 
+- `courses` - Course materials for the Data Science Specialization by Brian Caffo, Jeff Leek, Roger Peng, Nick Carchedi, Sean Kross [https://github.com/rdpeng/courses](https://github.com/rdpeng/courses)
+
 - `CSAMA` - Course material for CSAMA: Statistical Data Analysis for Genome Scale Biology. https://github.com/Bioconductor/CSAMA, https://www.bioconductor.org/help/course-materials/2017/CSAMA/
 
-- `CSE549` - CSE 549 - Introduction to Computational Biology by Steven Skiena. [http://www3.cs.stonybrook.edu/~skiena/549/](http://www3.cs.stonybrook.edu/~skiena/549/)
+- `CSE549` - CSE 549 - Introduction to Computational Biology by Steven Skiena. Includes video lectures. [http://www3.cs.stonybrook.edu/~skiena/549/](http://www3.cs.stonybrook.edu/~skiena/549/)
+
+- `data_science` - "Path to a free self-taught education in Data Science!" - Open Source Society University, a collection of free online courses in logical order of learning data science. Massive list of courses, from linear algebra and calculus to R/Python programming/machine learning. [https://github.com/open-source-society/data-science](https://github.com/open-source-society/data-science)
+
+- `deeplearning-biology` - A list of deep learning implementations in biology [https://github.com/hussius/deeplearning-biology](https://github.com/hussius/deeplearning-biology)
+
+- `DS_for_S` - Materials for March 12 ENAR short course on Data Science for Statisticians. [https://github.com/AmeliaMN/DS_for_S](https://github.com/AmeliaMN/DS_for_S)
 
 - `genbioconductor` - "Materials for Genomics Data Science: Introduction to Bioconductor" course by Kasper Hansen. Includes videos, code examples and lecture material. Web-site, [https://kasperdanielhansen.github.io/genbioconductor/](https://kasperdanielhansen.github.io/genbioconductor/), and GitHub repo, [https://github.com/kasperdanielhansen/genbioconductor](https://github.com/kasperdanielhansen/genbioconductor)
+
+- `genomicspapers` - Jeff Leek recommended list of genomics papers. [https://github.com/jtleek/genomicspapers](https://github.com/jtleek/genomicspapers)
 
 - `GWAStutorial` - code for GWAS tutorial blog post [https://poissonisfish.wordpress.com/2017/10/09/genome-wide-association-studies-in-r/](https://poissonisfish.wordpress.com/2017/10/09/genome-wide-association-studies-in-r/), [https://github.com/monogenea/GWAStutorial](https://github.com/monogenea/GWAStutorial)
 
@@ -27,6 +45,8 @@
 - `In-depth-NGS-Data-Analysis-Course` - The course is aimed at bench biologists who are interested in learning about NGS-based genomic analysis. The topics covered in-depth during this course are analysis of RNA-Seq and ChIP-Seq data, with an optional Variant Calling session. https://github.com/hbctraining/In-depth-NGS-Data-Analysis-Course
 
 - `Intro-to-R-extended` - Intro to R materials for six hour workshop, https://github.com/mistrm82/Intro-to-R-extended
+
+- `jhudatascience` - links to several courses, including some material. JHU. The GitHub repo [https://github.com/jhudsl/jhudatascience](https://github.com/jhudsl/jhudatascience) contains the files to build the web-site [http://jhudatascience.org/courses.html](http://jhudatascience.org/courses.html)
 
 - `Machiraju` - Courses by Dr. Raghu Machiraju, http://web.cse.ohio-state.edu/~machiraju.1/. Topics: data visualization, biomedical informatics, computer graphics, linked from the homepage. These and other courses are linked from http://web.cse.ohio-state.edu/~machiraju.1/teaching/. 
   - `CSE5599-BMI7830` - biomedical informatics. http://web.cse.ohio-state.edu/~machiraju.1/teaching/CSE5599-BMI7830/
@@ -50,6 +70,8 @@
 
 - `rnaseq_tutorial.wiki` - wiki has the detailed tutorials. "LectureFiles" have lecture slides from different courses
 
+- `rprogdatascience` -  "R Programming for Data Science" by Roger Peng. [https://leanpub.com/rprogramming](https://leanpub.com/rprogramming) and DIY version on GitHub [https://github.com/rdpeng/rprogdatascience/]
+
 - `single_cell_analysis` - Workshops on single cell analysis. Presentation, R code with instructions for running a Docker container on Amazon EC2. https://github.com/broadinstitute/single_cell_analysis
 
 - `single-cell-pseudotime` - Single-cell RNA-seq pseudotime estimation algorithms, comprehensive collection of links to software and accompanying papers. https://github.com/agitter/single-cell-pseudotime
@@ -70,7 +92,10 @@
 
 - `MIT_SysBiol2014` - "Foundations of Computational and Systems Biology". Video lectures, https://www.youtube.com/watch?v=lJzybEXmIj0&list=PLUl4u3cNGP63uK-oWiLgO7LLJV6ZCWXac, and slides https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/
 
-- `Regulatory Genomics and Epigenomics` - series of genomcs-oriented talks by Simons Institute. 26 videos, ~30min each. https://www.youtube.com/playlist?list=PLgKuh-lKre10fYXnD-8ghi9b9xl83CKet
+- "Regulatory Genomics and Epigenomics" - series of genomcs-oriented talks by Simons Institute. 26 videos, ~30min each. https://www.youtube.com/playlist?list=PLgKuh-lKre10fYXnD-8ghi9b9xl83CKet
+
+- "Foundations of Data Science — Spring 2016" course from UC Berkeley. Instructor: John DeNero. Video and slides. [https://data-8.appspot.com/sp16/course](https://data-8.appspot.com/sp16/course). This course is accompanied by other "connector" courses from UC Berkeley, [https://data-8.appspot.com/sp16/modules/extra_tabs/render?index=3](https://data-8.appspot.com/sp16/modules/extra_tabs/render?index=3)
+
 
 
 # Notes
@@ -85,5 +110,6 @@
 
 - Biostar Handbook - bioinformatics survival guide. A practical overview for the data analysis methods of bioinformatics. [https://www.biostarhandbook.com/index.html](https://www.biostarhandbook.com/index.html) and on Git [https://github.com/ialbert/biostar-handbook-web](https://github.com/ialbert/biostar-handbook-web)
 
+- "Advanced Data Analysis from an Elementary Point of View" book by Cosma Rohilla Shalizi, PDF, 856 pages [http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
 
-
+- `BaRC Hot Topics` - lecture slides and handouts on all genomics topics, from Unix to microarray, sequencing, genomics and statistics, http://barc.wi.mit.edu/education/hot_topics/
