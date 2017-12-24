@@ -14,7 +14,11 @@
 
 - `MTEC_CADi_2017` - "Data Science using R for Humanities and Social Science" by Hector Corrada Bravo. https://github.com/hcorrada/MTEC_CADi_2017. The repo contains `notes/_book` folder with an excellent bookdown of the lecture notes
 
+- `og-aws` - Amazon Web Services — a practical guide [https://github.com/open-guides/og-aws](https://github.com/open-guides/og-aws)
+
 - `GCB` - machine learning course by Casey Greene, https://github.com/greenelab/GCB535
+
+- `readingpapers` - Jeff Leek' guide to [reading scientific papers](https://github.com/jtleek/readingpapers). The page has references to his other guides ["How to write your first paper"](https://github.com/jtleek/firstpaper), ["How to review a paper"](https://github.com/jtleek/reviews), ["How to share data"](https://github.com/jtleek/datasharing), ["How to write an R package"](https://github.com/jtleek/rpackages)
 
 - `SISBID` - several modules covering various aspects of data science. Summer Institute in Statistics for Big Data 
     - `Module 1` - https://github.com/SISBID/Module1.
@@ -23,11 +27,19 @@
     - `Module 4` - https://github.com/SISBID/Module4.
     - `Module 5` - https://github.com/SISBID/Module5.
 
+- `Tools4RR` - Tools for reproducible research by Karl Broman [http://kbroman.org/Tools4RR/](http://kbroman.org/Tools4RR/), [Schedule](http://kbroman.org/Tools4RR/pages/schedule.html), [lots of educational links](http://kbroman.org/Tools4RR/pages/resources.html), [Git repository](https://github.com/kbroman/Tools4RR/tree/master)
+
 - `user2016-tutorial-shiny` - Shiny tutorial, https://github.com/gaborcsardi/user2016-tutorial-shiny
 
 
-# Notes
+# Misc
 
 - "Text Mining with R", by Julia Silge and David Robinson, http://tidytextmining.com/
 
 - "OnePageR", book "Data Science Quick Start: Knowledge Discovery Through R" by Togaware, https://togaware.com/onepager/, includes pdf slides and R code templates for various machine learning tasks
+
+- Free Data Science Books. [http://www.learndatasci.com/free-books/](http://www.learndatasci.com/free-books/)
+
+- "Version Control by Example" book introducinb Git, Mercurial, and the whole concept. [Book, PDF](http://ericsink.com/vcbe/)
+
+- Tutorial: Scalable R on Spark with SparkR, sparklyr and RevoScaleR [http://blog.revolutionanalytics.com/2016/10/tutorial-scalable-r-on-spark.html](http://blog.revolutionanalytics.com/2016/10/tutorial-scalable-r-on-spark.html)
