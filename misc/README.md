@@ -11,7 +11,6 @@
 
 - Free Data Science Books. [http://www.learndatasci.com/free-books/](http://www.learndatasci.com/free-books/)
 
-- Biostar Handbook - bioinformatics survival guide. A practical overview for the data analysis methods of bioinformatics. [https://www.biostarhandbook.com/index.html](https://www.biostarhandbook.com/index.html) and on Git [https://github.com/ialbert/biostar-handbook-web](https://github.com/ialbert/biostar-handbook-web)
 
 - "Version Control by Example" book introducinb Git, Mercurial, and the whole concept. [Book, PDF](http://ericsink.com/vcbe/)
 

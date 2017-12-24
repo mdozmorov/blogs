@@ -85,7 +85,7 @@
 
 - "RNA-seqlopedia" - one-pager of all steps of RNA-seq data analysis, from molecular biology to computational analysis, very detailed. [http://rnaseq.uoregon.edu/](http://rnaseq.uoregon.edu/)
 
-
+- Biostar Handbook - bioinformatics survival guide. A practical overview for the data analysis methods of bioinformatics. [https://www.biostarhandbook.com/index.html](https://www.biostarhandbook.com/index.html) and on Git [https://github.com/ialbert/biostar-handbook-web](https://github.com/ialbert/biostar-handbook-web)
 
 
 
