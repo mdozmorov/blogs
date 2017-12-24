@@ -13,8 +13,6 @@
 
 - Biostar Handbook - bioinformatics survival guide. A practical overview for the data analysis methods of bioinformatics. [https://www.biostarhandbook.com/index.html](https://www.biostarhandbook.com/index.html) and on Git [https://github.com/ialbert/biostar-handbook-web](https://github.com/ialbert/biostar-handbook-web)
 
-- "Data Analysis for Genomics/Life Sciences" book, HarvardX PH525x series - Biomedical Data Science [https://genomicsclass.github.io/book/](https://genomicsclass.github.io/book/), and the lab work files [https://github.com/genomicsclass/labs](https://github.com/genomicsclass/labs)
-
 - "Version Control by Example" book introducinb Git, Mercurial, and the whole concept. [Book, PDF](http://ericsink.com/vcbe/)
 
 
