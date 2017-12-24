@@ -2,10 +2,6 @@
 
 ## Courses
 
-- Ben Langmead's genomics-oriented teaching material [http://www.langmead-lab.org/teaching-materials/](http://www.langmead-lab.org/teaching-materials/)
-
-- Computational genomics, algorithms, by Ben Langmead. In Python. [https://github.com/BenLangmead/comp-genomics-class](https://github.com/BenLangmead/comp-genomics-class)
-
 - Tools for reproducible research by Karl Broman [http://kbroman.org/Tools4RR/](http://kbroman.org/Tools4RR/), [Schedule](http://kbroman.org/Tools4RR/pages/schedule.html), [lots of educational links](http://kbroman.org/Tools4RR/pages/resources.html), [Git repository](https://github.com/kbroman/Tools4RR/tree/master)
 
 - Reproducible and Collaborative Data Science course [https://github.com/stat157/fall-2013](https://github.com/stat157/fall-2013)
