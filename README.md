@@ -1,3 +1,9 @@
+# Bioinformatics, data science, machine learning, programming, statistics
+
+Collections of links to various resources, grouped by subject.
+
+# Blogs
+
 ### Technology, programming, statistics blogs
 
 Started as a summary of interesting RSS feeds, this repository is growing into a collection of tutorials/e-books and other materials related to bioinformatics.
