@@ -106,6 +106,8 @@
 
 - "[A Roadmap to the Living Genome](https://videocast.nih.gov/summary.asp?Live=12792&bhcp=1)" by [John Stamatoyannopoulos](http://www.stamlab.org/). An overview of cell type-specific (epi)genomic landscapes, visualization and analysis techniques, association and enrichment of disease-associated variants in regulatory regions.
 
+- "RNA-Seq Methods and Algorithms" short video course by Harold Pimentel, pseudoalignment, kallisto, sleuth, practical. [https://www.youtube.com/watch?v=96yBPM8lEt8&list=PLfFNmoa-yUIb5cYG2R1zf5rtrQQKZvKwG](https://www.youtube.com/watch?v=96yBPM8lEt8&list=PLfFNmoa-yUIb5cYG2R1zf5rtrQQKZvKwG)
+
 # Misc
 
 - List of existing genome analysis plaforms - https://docs.google.com/spreadsheets/d/1o8iYwYUy0V7IECmu21Und3XALwQihioj23WGv-w0itk/pubhtml
