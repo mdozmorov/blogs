@@ -68,6 +68,8 @@
 
 - `MIT_SysBiol2014` - "Foundations of Computational and Systems Biology". Video lectures, https://www.youtube.com/watch?v=lJzybEXmIj0&list=PLUl4u3cNGP63uK-oWiLgO7LLJV6ZCWXac, and slides https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/
 
+- `Regulatory Genomics and Epigenomics` - series of genomcs-oriented talks by Simons Institute. 26 videos, ~30min each. https://www.youtube.com/playlist?list=PLgKuh-lKre10fYXnD-8ghi9b9xl83CKet
+
 
 # Notes
 
