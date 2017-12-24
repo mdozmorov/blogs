@@ -10,8 +10,6 @@
 
 - `DataScienceSpecialization` - Course materials for the Data Science Specialization from JHU folks. Detailed lectures on each topic. https://github.com/DataScienceSpecialization/courses
 
-- `getting-started-with-genomics-tools-and-resources` - links and references to many resources
-
 - `IntroDataSci` - "CMSC320: Introduction to Data Science" course by Hector Corrada Bravo, https://github.com/hcorrada/IntroDataSci
 
 - `MTEC_CADi_2017` - "Data Science using R for Humanities and Social Science" by Hector Corrada Bravo. https://github.com/hcorrada/MTEC_CADi_2017. The repo contains `notes/_book` folder with an excellent bookdown of the lecture notes

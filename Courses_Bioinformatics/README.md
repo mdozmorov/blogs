@@ -8,7 +8,11 @@
 
 - `awesome-single-cell` - List of software packages for single-cell data analysis, including RNA-seq, ATAC-seq, etc. https://github.com/seandavi/awesome-single-cell
 
+- `bcbio-nextgen` - Validated, scalable, community developed variant calling and RNA-seq analysis https://bcbio-nextgen.readthedocs.org [https://github.com/chapmanb/bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)
+
 - `bioinformatics-one-liners` - collection of bioinformatics-genomics bash one liners, using awk, sed etc. https://github.com/crazyhottommy/bioinformatics-one-liners
+
+- `biostar-handbook-web` - Biostar Handbook - bioinformatics survival guide. A practical overview for the data analysis methods of bioinformatics. [https://www.biostarhandbook.com/index.html](https://www.biostarhandbook.com/index.html) and on Git [https://github.com/ialbert/biostar-handbook-web](https://github.com/ialbert/biostar-handbook-web)
 
 - `biotools` - A massive collection of references on the topics of bioinformatics, sequencing technologies, programming, machine learning, and more. [https://github.com/jdidion/biotools](https://github.com/jdidion/biotools)
 
@@ -34,7 +38,11 @@
 
 - `genbioconductor` - "Materials for Genomics Data Science: Introduction to Bioconductor" course by Kasper Hansen. Includes videos, code examples and lecture material. Web-site, [https://kasperdanielhansen.github.io/genbioconductor/](https://kasperdanielhansen.github.io/genbioconductor/), and GitHub repo, [https://github.com/kasperdanielhansen/genbioconductor](https://github.com/kasperdanielhansen/genbioconductor)
 
+- `GEN242` - Thomas Girke' "Class: Data Analysis in Genome Biology (GEN242)" - bioinformatics of NGS data analysis [https://github.com/tgirke/GEN242](https://github.com/tgirke/GEN242)
+
 - `genomicspapers` - Jeff Leek recommended list of genomics papers. [https://github.com/jtleek/genomicspapers](https://github.com/jtleek/genomicspapers)
+
+- `getting-started-with-genomics-tools-and-resources` - links and references to many resources [https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources](https://github.com/crazyhottommy/getting-started-with-genomics-tools-and-resources)
 
 - `GWAStutorial` - code for GWAS tutorial blog post [https://poissonisfish.wordpress.com/2017/10/09/genome-wide-association-studies-in-r/](https://poissonisfish.wordpress.com/2017/10/09/genome-wide-association-studies-in-r/), [https://github.com/monogenea/GWAStutorial](https://github.com/monogenea/GWAStutorial)
 
@@ -98,7 +106,7 @@
 
 - "[A Roadmap to the Living Genome](https://videocast.nih.gov/summary.asp?Live=12792&bhcp=1)" by [John Stamatoyannopoulos](http://www.stamlab.org/). An overview of cell type-specific (epi)genomic landscapes, visualization and analysis techniques, association and enrichment of disease-associated variants in regulatory regions.
 
-# Notes
+# Misc
 
 - List of existing genome analysis plaforms - https://docs.google.com/spreadsheets/d/1o8iYwYUy0V7IECmu21Und3XALwQihioj23WGv-w0itk/pubhtml
 
@@ -108,7 +116,7 @@
 
 - "RNA-seqlopedia" - one-pager of all steps of RNA-seq data analysis, from molecular biology to computational analysis, very detailed. [http://rnaseq.uoregon.edu/](http://rnaseq.uoregon.edu/)
 
-- Biostar Handbook - bioinformatics survival guide. A practical overview for the data analysis methods of bioinformatics. [https://www.biostarhandbook.com/index.html](https://www.biostarhandbook.com/index.html) and on Git [https://github.com/ialbert/biostar-handbook-web](https://github.com/ialbert/biostar-handbook-web)
+- Informatics for RNA-seq: A web resource for analysis on the cloud. [https://github.com/griffithlab/rnaseq_tutorial](https://github.com/griffithlab/rnaseq_tutorial)
 
 - "Advanced Data Analysis from an Elementary Point of View" book by Cosma Rohilla Shalizi, PDF, 856 pages [http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
 
