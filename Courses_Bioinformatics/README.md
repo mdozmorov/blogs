@@ -72,8 +72,6 @@
 
 - `Regulatory Genomics and Epigenomics` - series of genomcs-oriented talks by Simons Institute. 26 videos, ~30min each. https://www.youtube.com/playlist?list=PLgKuh-lKre10fYXnD-8ghi9b9xl83CKet
 
-- Ben Langmead's genomics-oriented teaching material [http://www.langmead-lab.org/teaching-materials/](http://www.langmead-lab.org/teaching-materials/)
-
 
 # Notes
 
