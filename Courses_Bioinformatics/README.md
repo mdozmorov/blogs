@@ -8,6 +8,8 @@
 
 - `ChIP-seq-analysis` - ChIP-seq analysis notes from Tommy Tang, https://github.com/crazyhottommy/ChIP-seq-analysis
 
+- `comp-genomics-class` - Computational genomics, algorithms, by Ben Langmead. In Python. [https://github.com/BenLangmead/comp-genomics-class](https://github.com/BenLangmead/comp-genomics-class)
+
 - `compbio` - Introduction to Computational Biology course by Mike Love, https://github.com/biodatascience/compbio and https://biodatascience.github.io/compbio/
 
 - `CSAMA` - Course material for CSAMA: Statistical Data Analysis for Genome Scale Biology. https://github.com/Bioconductor/CSAMA, https://www.bioconductor.org/help/course-materials/2017/CSAMA/
@@ -69,6 +71,8 @@
 - `MIT_SysBiol2014` - "Foundations of Computational and Systems Biology". Video lectures, https://www.youtube.com/watch?v=lJzybEXmIj0&list=PLUl4u3cNGP63uK-oWiLgO7LLJV6ZCWXac, and slides https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/
 
 - `Regulatory Genomics and Epigenomics` - series of genomcs-oriented talks by Simons Institute. 26 videos, ~30min each. https://www.youtube.com/playlist?list=PLgKuh-lKre10fYXnD-8ghi9b9xl83CKet
+
+- Ben Langmead's genomics-oriented teaching material [http://www.langmead-lab.org/teaching-materials/](http://www.langmead-lab.org/teaching-materials/)
 
 
 # Notes
