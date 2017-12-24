@@ -8,9 +8,17 @@
 
 - `fiveMinuteStats` - A repo of short "vignettes" illustrating statistical concepts, https://stephens999.github.io/fiveMinuteStats/. https://github.com/stephens999/fiveMinuteStats.git
 
+- `Intro2R` - data mining and machine learning, https://github.com/johnros/Intro2R
+
+- `ISAT 251 Intro to Statistics with R` - basic statistics by Nicole Radziwill
+
 - `ISLR` - An Introduction to Statistical Learning with Applications in R (ISLR). The book, R code  and the data are available at [http://www-bcf.usc.edu/~gareth/ISL/](http://www-bcf.usc.edu/~gareth/ISL/). Videos and slides are at [https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/). Slides are also available at [https://www.alsharif.info/iom530](https://www.alsharif.info/iom530)
 
 - `Kalman-and-Bayesian-Filters-in-Python` - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions. https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
+
+- `practicing_R` - R and statistics, https://github.com/johnros/practicing_R
+
+- `PractitionerGuidetoMultiplicity` - Practical Guide for Multiple testing, https://github.com/johnros/PractitionerGuidetoMultiplicity
 
 - `stat540_2014` - STAT540 Statistical Methods for High Dimensional Biology course by Jenny Bryan
 
@@ -67,3 +75,5 @@
 
 - "Understanding Bayes" series of blog posts by Alex Etz. [http://alexanderetz.com/understanding-bayes/](http://alexanderetz.com/understanding-bayes/). The other posts are also worth reading.
 
+- `Goeman.pdf` - STATISTICAL METHODS FOR MICROARRAY DATA
+- `MPR04.pdf` - Introduction to Statistical Methods for Microarray Data Analysis
