@@ -96,7 +96,7 @@
 
 - "Foundations of Data Science — Spring 2016" course from UC Berkeley. Instructor: John DeNero. Video and slides. [https://data-8.appspot.com/sp16/course](https://data-8.appspot.com/sp16/course). This course is accompanied by other "connector" courses from UC Berkeley, [https://data-8.appspot.com/sp16/modules/extra_tabs/render?index=3](https://data-8.appspot.com/sp16/modules/extra_tabs/render?index=3)
 
-
+- "[A Roadmap to the Living Genome](https://videocast.nih.gov/summary.asp?Live=12792&bhcp=1)" by [John Stamatoyannopoulos](http://www.stamlab.org/). An overview of cell type-specific (epi)genomic landscapes, visualization and analysis techniques, association and enrichment of disease-associated variants in regulatory regions.
 
 # Notes
 
