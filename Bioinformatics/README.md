@@ -6,6 +6,8 @@
 
 - `appliedgenomics` - JHU Applied Comparative Genomics 2017 course, by Michael Schatz. https://github.com/schatzlab/appliedgenomics, links to similar courses there. Other courses by Michael, http://schatzlab.cshl.edu/teaching/
 
+- `awesome-microbes` - List of computational resources for analyzing microbial sequencing data. https://github.com/stevetsa/awesome-microbes
+
 - `awesome-single-cell` - List of software packages for single-cell data analysis, including RNA-seq, ATAC-seq, etc. https://github.com/seandavi/awesome-single-cell
 
 - `bcbio-nextgen` - Validated, scalable, community developed variant calling and RNA-seq analysis https://bcbio-nextgen.readthedocs.org [https://github.com/chapmanb/bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)
