@@ -36,6 +36,8 @@
 
 - `deeplearning-biology` - A list of deep learning implementations in biology [https://github.com/hussius/deeplearning-biology](https://github.com/hussius/deeplearning-biology)
 
+- `DNA-seq-analysis` - Notes on whole exome and whole genome sequencing analysis. https://github.com/crazyhottommy/DNA-seq-analysis
+
 - `DS_for_S` - Materials for March 12 ENAR short course on Data Science for Statisticians. [https://github.com/AmeliaMN/DS_for_S](https://github.com/AmeliaMN/DS_for_S)
 
 - `genbioconductor` - "Materials for Genomics Data Science: Introduction to Bioconductor" course by Kasper Hansen. Includes videos, code examples and lecture material. Web-site, [https://kasperdanielhansen.github.io/genbioconductor/](https://kasperdanielhansen.github.io/genbioconductor/), and GitHub repo, [https://github.com/kasperdanielhansen/genbioconductor](https://github.com/kasperdanielhansen/genbioconductor)
