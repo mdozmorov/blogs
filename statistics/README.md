@@ -14,6 +14,8 @@
 
 - `ISLR` - An Introduction to Statistical Learning with Applications in R (ISLR). The book, R code  and the data are available at [http://www-bcf.usc.edu/~gareth/ISL/](http://www-bcf.usc.edu/~gareth/ISL/). Videos and slides are at [https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/). Slides are also available at [https://www.alsharif.info/iom530](https://www.alsharif.info/iom530)
 
+- `numerical-linear-algebra` - Computational Linear Algebra for Coders. Course itself, http://www.fast.ai/2017/07/17/num-lin-alg/, video series, https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY, git repository, https://github.com/fastai/numerical-linear-algebra
+
 - `Kalman-and-Bayesian-Filters-in-Python` - Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions. https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
 
 - `practicing_R` - R and statistics, https://github.com/johnros/practicing_R
