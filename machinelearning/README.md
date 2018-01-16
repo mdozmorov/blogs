@@ -38,6 +38,8 @@
 
 - `pattern_classification` - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks [https://github.com/rasbt/pattern_classification](https://github.com/rasbt/pattern_classification)
 
+- `Practical_DL` - Deep learning course, Python notebooks, PDF lectures, videos. https://github.com/yandexdataschool/Practical_DL
+
 - `python-machine-learning-book` - "Python Machine Learning" book by Sebastian Raschka, iPython notebooks [https://github.com/rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)
 
 - `UnsupervisedMethods.com - Cheat Sheets` - Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets. Description of each. https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6. All 27 in one file, https://www.dropbox.com/s/v3yg8djhdf24g6v/UnsupervisedMethods.com%20-%20Cheat%20Sheets.zip?dl=0
