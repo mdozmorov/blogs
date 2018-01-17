@@ -28,6 +28,8 @@
 
 - `ML-From-Scratch` - Bare bones Python implementations of some of the fundamental Machine Learning models and algorithms. [https://github.com/eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
+- `mlcourse_open` - OpenDataScience Machine Learning course (yet Russian-only). Python-based ML course, with video lectures, English version anticipated. https://github.com/Yorko/mlcourse_open, video https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl
+
 - `mlr` - Machine Learning in R [https://github.com/mlr-org/mlr](https://github.com/mlr-org/mlr)
 
 - `MTH594_MachineLearning` - The materials for the course MTH 594 Advanced data mining: theory and applications (Dmitry Efimov, American University of Sharjah). https://github.com/diefimov/MTH594_MachineLearning
