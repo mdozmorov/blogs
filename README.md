@@ -22,6 +22,8 @@ Started as a summary of interesting RSS feeds, this repository is growing into a
 
 [Dave Tang's blog](https://davetang.org/muse), [RSS](https://davetang.org/muse/feed/)
 
+[Diving into Genetics and Genomics](https://crazyhottommy.blogspot.com/) - bioinformatics, genomics and R/Python/Linux notes by Tommy Tang, [GitHub](https://github.com/crazyhottommy)
+
 [Distill](https://distill.pub/) - machine-learning related blog posts, [RSS](https://distill.pub/rss.xml)
 
 [Genohub High Throughput Sequencing ...](http://blog.genohub.com), [RSS](http://blog.genohub.com/feed/)
