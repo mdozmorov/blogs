@@ -10,6 +10,8 @@ Started as a summary of interesting RSS feeds, this repository is growing into a
 
 [AllSeq - Blog](http://allseq.com/), [RSS](http://allseq.com/index.php?option=com_content&amp;id=38&amp;layout=blog&amp;view=category&amp;Itemid=741&amp;format=feed&amp;type=rss)
 
+[Announcements — GATK-Forum](https://gatkforums.broadinstitute.org/gatk/categories/announcements/p2)
+
 [BioIT Top Headlines](http://www.bio-itworld.com/), [RSS](http://www.bio-itworld.com/RSS/BioIT_WorldNews_RSS.aspx)
 
 [Bits of DNA](https://liorpachter.wordpress.com), [RSS](http://liorpachter.wordpress.com/feed/)
