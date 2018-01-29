@@ -1,22 +1,22 @@
 # `Courses_Bioinformatics`
 
-- `ads1-slides` - Ben Langmead's Slides for Algorithms for DNA Sequencing Coursera class. https://github.com/BenLangmead/ads1-slides.git. The complete class is at http://www.langmead-lab.org/teaching-materials/
+- `ads1-slides` - Ben Langmead's Slides for Algorithms for DNA Sequencing Coursera class. [https://github.com/BenLangmead/ads1-slides.git](https://github.com/BenLangmead/ads1-slides.git). The complete class is at [http://www.langmead-lab.org/teaching-materials/](http://www.langmead-lab.org/teaching-materials/)
 
 - `applied-computational-genomics` - applied computational genomics by Aaron Quinlan, https://github.com/quinlan-lab/applied-computational-genomics
 
 - `appliedgenomics` - JHU Applied Comparative Genomics 2017 course, by Michael Schatz. https://github.com/schatzlab/appliedgenomics, links to similar courses there. Other courses by Michael, http://schatzlab.cshl.edu/teaching/
 
-- `awesome-microbes` - List of computational resources for analyzing microbial sequencing data. https://github.com/stevetsa/awesome-microbes
+- `awesome-microbes` - List of software packages (and the people developing these methods) for microbiome (16S), metagenomics (WGS, Shot-gun sequencing), and pathogen identification/detection/characterization. [https://github.com/stevetsa/awesome-microbes](https://github.com/stevetsa/awesome-microbes)
 
-- `awesome-single-cell` - List of software packages for single-cell data analysis, including RNA-seq, ATAC-seq, etc. https://github.com/seandavi/awesome-single-cell
+- `awesome-single-cell` - List of software packages for single-cell data analysis, including RNA-seq, ATAC-seq, etc. [https://github.com/seandavi/awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
 
 - `bcbio-nextgen` - Validated, scalable, community developed variant calling and RNA-seq analysis https://bcbio-nextgen.readthedocs.org [https://github.com/chapmanb/bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)
 
 - `bio_610B` - Course materials for Advanced Biological Statistics II by Peter Ralph. Using STAN. https://github.com/petrelharp/bio_610B 
 
-- `bioinformatics-one-liners` - collection of bioinformatics-genomics bash one liners, using awk, sed etc. https://github.com/crazyhottommy/bioinformatics-one-liners
+- `bioinformatics-one-liners` - collection of bioinformatics-genomics bash one liners, using awk, sed etc. [https://github.com/crazyhottommy/bioinformatics-one-liners](https://github.com/crazyhottommy/bioinformatics-one-liners)
 
-- `Bioinformatics-Resources` -  A curated list of resources for learning bioinformatics. https://github.com/YTLogos/Bioinformatics-Resources
+- `Bioinformatics-Resources` -  A curated list of resources for learning bioinformatics. [https://github.com/YTLogos/Bioinformatics-Resources](https://github.com/YTLogos/Bioinformatics-Resources)
 
 - `biostar-handbook-web` - Biostar Handbook - bioinformatics survival guide. A practical overview for the data analysis methods of bioinformatics. [https://www.biostarhandbook.com/index.html](https://www.biostarhandbook.com/index.html) and on Git [https://github.com/ialbert/biostar-handbook-web](https://github.com/ialbert/biostar-handbook-web)
 
@@ -24,7 +24,7 @@
 
 - `book` - "Computational genomics with R" book by Altuna Akalin. Web site, [https://compgenomr.github.io/book/](https://compgenomr.github.io/book/), and GitHub repo, [https://github.com/compgenomr/book](https://github.com/compgenomr/book)
 
-- `ChIP-seq-analysis` - ChIP-seq analysis notes from Tommy Tang, https://github.com/crazyhottommy/ChIP-seq-analysis
+- `ChIP-seq-analysis` - ChIP-seq analysis notes from Tommy Tang, [https://github.com/crazyhottommy/ChIP-seq-analysis](https://github.com/crazyhottommy/ChIP-seq-analysis)
 
 - `comp-genomics-class` - Computational genomics, algorithms, by Ben Langmead. In Python. [https://github.com/BenLangmead/comp-genomics-class](https://github.com/BenLangmead/comp-genomics-class)
 
