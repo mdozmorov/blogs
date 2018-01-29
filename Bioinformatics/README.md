@@ -36,11 +36,9 @@
 
 - `CSE549` - CSE 549 - Introduction to Computational Biology by Steven Skiena. Includes video lectures. [http://www3.cs.stonybrook.edu/~skiena/549/](http://www3.cs.stonybrook.edu/~skiena/549/)
 
-- `data_science` - "Path to a free self-taught education in Data Science!" - Open Source Society University, a collection of free online courses in logical order of learning data science. Massive list of courses, from linear algebra and calculus to R/Python programming/machine learning. [https://github.com/open-source-society/data-science](https://github.com/open-source-society/data-science)
-
 - `deeplearning-biology` - A list of deep learning implementations in biology [https://github.com/hussius/deeplearning-biology](https://github.com/hussius/deeplearning-biology)
 
-- `DNA-seq-analysis` - Notes on whole exome and whole genome sequencing analysis. https://github.com/crazyhottommy/DNA-seq-analysis
+- `DNA-seq-analysis` - Notes on whole exome and whole genome sequencing analysis. [https://github.com/crazyhottommy/DNA-seq-analysis](https://github.com/crazyhottommy/DNA-seq-analysis)
 
 - `DS_for_S` - Materials for March 12 ENAR short course on Data Science for Statisticians. [https://github.com/AmeliaMN/DS_for_S](https://github.com/AmeliaMN/DS_for_S)
 
@@ -80,9 +78,9 @@
 
 - `Rcourse` - Class notes for my "R" course at Ben Gurion University. https://github.com/johnros/Rcourse, http://www.john-ros.com/Rcourse/
 
-- `RNA-seq-analysis` - RNAseq analysis notes from Tommy Tang, https://github.com/crazyhottommy/RNA-seq-analysis
+- `RNA-seq-analysis` - RNAseq analysis notes from Tommy Tang, [https://github.com/crazyhottommy/RNA-seq-analysis](https://github.com/crazyhottommy/RNA-seq-analysis)
 
-- `rnaseq_tutorial` - Informatics for RNA-seq, by Griffith lab, https://github.com/griffithlab/rnaseq_tutorial. 
+- `rnaseq_tutorial` - Informatics for RNA-seq, by Griffith lab, [https://github.com/griffithlab/rnaseq_tutorial](https://github.com/griffithlab/rnaseq_tutorial)
 
 - `rnaseq_tutorial.wiki` - wiki has the detailed tutorials. "LectureFiles" have lecture slides from different courses
 
