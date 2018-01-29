@@ -16,6 +16,8 @@
 
 - `bioinformatics-one-liners` - collection of bioinformatics-genomics bash one liners, using awk, sed etc. https://github.com/crazyhottommy/bioinformatics-one-liners
 
+- `Bioinformatics-Resources` -  A curated list of resources for learning bioinformatics. https://github.com/YTLogos/Bioinformatics-Resources
+
 - `biostar-handbook-web` - Biostar Handbook - bioinformatics survival guide. A practical overview for the data analysis methods of bioinformatics. [https://www.biostarhandbook.com/index.html](https://www.biostarhandbook.com/index.html) and on Git [https://github.com/ialbert/biostar-handbook-web](https://github.com/ialbert/biostar-handbook-web)
 
 - `biotools` - A massive collection of references on the topics of bioinformatics, sequencing technologies, programming, machine learning, and more. [https://github.com/jdidion/biotools](https://github.com/jdidion/biotools)
