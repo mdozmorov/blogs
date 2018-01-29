@@ -8,6 +8,8 @@
 
 - `courses` - AWS training, https://github.com/uvasomrc/courses
 
+- `data-science-at-the-command-line` - "Data Science at the Command Line" by Jeroen Janssens, GitHub repository [https://github.com/jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) and an online book [https://www.datascienceatthecommandline.com/](https://www.datascienceatthecommandline.com/)
+
 - `datasci2017` - THRIV Data Science course by Stephen Turner. Comprehensive coverage from R/RStudio introduction, RMarkdown, dplyr, ggplot2, shiny to all practical and statistical aspects of data cleaning, visualization, predictive modeling, survival analysis. Course material: [https://github.com/thriv/datasci2017](https://github.com/thriv/datasci2017), course web site: [http://bioconnector.org/workshops/index.html])http://bioconnector.org/workshops/index.html
 
 - `DataScienceSpecialization` - Course materials for the Data Science Specialization from JHU folks. Detailed lectures on each topic. https://github.com/DataScienceSpecialization/courses
