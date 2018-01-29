@@ -28,6 +28,8 @@
 
 - `readingpapers` - Jeff Leek' guide to [reading scientific papers](https://github.com/jtleek/readingpapers). The page has references to his other guides ["How to write your first paper"](https://github.com/jtleek/firstpaper), ["How to review a paper"](https://github.com/jtleek/reviews), ["How to share data"](https://github.com/jtleek/datasharing), ["How to write an R package"](https://github.com/jtleek/rpackages)
 
+- `rprogdatascience` -  "R Programming for Data Science" by Roger Peng. [https://leanpub.com/rprogramming](https://leanpub.com/rprogramming) and DIY version on GitHub [https://github.com/rdpeng/rprogdatascience/]
+
 - `SISBID` - several modules covering various aspects of data science. Summer Institute in Statistics for Big Data 
     - `Module 1` - https://github.com/SISBID/Module1.
     - `Module 2` - https://github.com/SISBID/Module2.
