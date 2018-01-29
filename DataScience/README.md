@@ -8,6 +8,8 @@
 
 - `courses` - AWS training, https://github.com/uvasomrc/courses
 
+- `data_science` - "Path to a free self-taught education in Data Science!" - Open Source Society University, a collection of free online courses in logical order of learning data science. Massive list of courses, from linear algebra and calculus to R/Python programming/machine learning. [https://github.com/open-source-society/data-science](https://github.com/open-source-society/data-science)
+
 - `data-science-at-the-command-line` - "Data Science at the Command Line" by Jeroen Janssens, GitHub repository [https://github.com/jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) and an online book [https://www.datascienceatthecommandline.com/](https://www.datascienceatthecommandline.com/)
 
 - `datasci2017` - THRIV Data Science course by Stephen Turner. Comprehensive coverage from R/RStudio introduction, RMarkdown, dplyr, ggplot2, shiny to all practical and statistical aspects of data cleaning, visualization, predictive modeling, survival analysis. Course material: [https://github.com/thriv/datasci2017](https://github.com/thriv/datasci2017), course web site: [http://bioconnector.org/workshops/index.html])http://bioconnector.org/workshops/index.html
