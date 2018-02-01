@@ -10,6 +10,8 @@
 
 - `courses` - AWS training, https://github.com/uvasomrc/courses
 
+- `CSE390A` - System and Software Tools (taught by Ruth E. Anderson). Well-polished lectures and homework on Unix /Git ecosystem. [https://github.com/ldfaiztt/CSE390A](https://github.com/ldfaiztt/CSE390A)
+
 - `data_science` - "Path to a free self-taught education in Data Science!" - Open Source Society University, a collection of free online courses in logical order of learning data science. Massive list of courses, from linear algebra and calculus to R/Python programming/machine learning. [https://github.com/open-source-society/data-science](https://github.com/open-source-society/data-science)
 
 - `data-science-at-the-command-line` - "Data Science at the Command Line" by Jeroen Janssens, GitHub repository [https://github.com/jeroenjanssens/data-science-at-the-command-line](https://github.com/jeroenjanssens/data-science-at-the-command-line) and an online book [https://www.datascienceatthecommandline.com/](https://www.datascienceatthecommandline.com/)
