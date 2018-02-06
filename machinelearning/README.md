@@ -2,6 +2,8 @@
 
 - `algorithms_in_ipython_notebooks` - A repository with IPython notebooks of algorithms implemented in Python. [https://github.com/rasbt/algorithms_in_ipython_notebooks](https://github.com/rasbt/algorithms_in_ipython_notebooks)
 
+- `awesome-courses` - List of awesome university courses for learning Computer Science. https://github.com/prakhar1989/awesome-courses
+
 - `awesome-machine-learning` - A curated list of awesome Machine Learning frameworks, libraries and software. [https://github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 - `ciml` - book "A Course in Machine Learning". On the web, [http://ciml.info/](http://ciml.info/), and on GitHub, [https://github.com/hal3/ciml](https://github.com/hal3/ciml)
