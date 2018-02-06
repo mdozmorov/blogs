@@ -69,6 +69,8 @@
 
 - An example machine learning notebook. [https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)
 
+- "The Matrix Calculus You Need For Deep Learning" paper by Terence Parr and Jeremy Howard. [http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
+
 ## Video
 
 - "Learning from data" - machine learning course from Caltech, taught by Feynman Prize winner Professor Yaser Abu-Mostafa. [https://work.caltech.edu/lectures.html#lectures](https://work.caltech.edu/lectures.html#lectures)
