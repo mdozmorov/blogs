@@ -129,3 +129,5 @@
 - "Advanced Data Analysis from an Elementary Point of View" book by Cosma Rohilla Shalizi, PDF, 856 pages [http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
 
 - `BaRC Hot Topics` - lecture slides and handouts on all genomics topics, from Unix to microarray, sequencing, genomics and statistics, http://barc.wi.mit.edu/education/hot_topics/
+
+- The [Bioinformatics algorithms](http://bioinformaticsalgorithms.com/index.htm) web site. [Videos](http://bioinformaticsalgorithms.com/videos.htm) and [Texts](http://bioinformaticsalgorithms.com/faqs.htm) covering topics from biology to genome assembly algorithms, motif finding, sequence comparisons and more bioinformatics tasks and solutions.
