@@ -18,6 +18,7 @@
 - List of links to Python learning resources [Further Reading: Intermediate Python Resources](http://inventwithpython.com/blog/2015/09/01/further-reading-intermediate-python-resources/)
 - Intro to Python for Data Science, free DataCamp course [https://www.datacamp.com/courses/intro-to-python-for-data-science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 - Learn Python the Hard Way - book with exercises [http://learnpythonthehardway.org/book/](http://learnpythonthehardway.org/book/)
+- A Python Book: Beginning Python, Advanced Python, and Python Exercises, [http://www.davekuhlman.org/python_book_01.html](http://www.davekuhlman.org/python_book_01.html)
 
 - Recipes for using Python's pandas library [https://github.com/jvns/pandas-cookbook](https://github.com/jvns/pandas-cookbook)
 - Pandas tutorial from PyData NYC 2015 conference [https://github.com/jreback/pydatanyc2015](https://github.com/jreback/pydatanyc2015)
