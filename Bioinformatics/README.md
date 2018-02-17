@@ -12,6 +12,8 @@
 
 - `awesome-single-cell` - List of software packages for single-cell data analysis, including RNA-seq, ATAC-seq, etc. [https://github.com/seandavi/awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
 
+- `ATAC_Workshop` - ATAC_seq Workshop. [https://github.com/ThomasCarroll/ATAC_Workshop](https://github.com/ThomasCarroll/ATAC_Workshop)
+
 - `bcbio-nextgen` - Validated, scalable, community developed variant calling and RNA-seq analysis https://bcbio-nextgen.readthedocs.org [https://github.com/chapmanb/bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)
 
 - `bio_610B` - Course materials for Advanced Biological Statistics II by Peter Ralph. Using STAN. https://github.com/petrelharp/bio_610B 
