@@ -20,6 +20,8 @@
 
 - `DataScienceSpecialization` - Course materials for the Data Science Specialization from JHU folks. Detailed lectures on each topic. https://github.com/DataScienceSpecialization/courses
 
+- `efficientR` - Efficient R programming: a book by Colin Gillespie, [https://github.com/csgillespie/efficientR](https://github.com/csgillespie/efficientR)
+
 - `IntroDataSci` - "CMSC320: Introduction to Data Science" course by Hector Corrada Bravo, https://github.com/hcorrada/IntroDataSci
 
 - `master-the-tidyverse` - the Master the Tidyverse Workshop, `tidyverse`-oriented tutorials. Workshop itself [https://github.com/rstudio-education/master-the-tidyverse/](https://github.com/rstudio-education/master-the-tidyverse/) and instructor's material [https://github.com/rstudio-education/master-the-tidyverse-instructors](https://github.com/rstudio-education/master-the-tidyverse-instructors)
