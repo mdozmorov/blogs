@@ -12,6 +12,8 @@
 
 - `Data-R-Value` - Data and material for the "Data R Value" blog [https://datarvalue.blogspot.mx/](https://datarvalue.blogspot.mx/), GitHub [https://github.com/pakinja/Data-R-Value](https://github.com/pakinja/Data-R-Value)
 
+- `Deep-Learning-Papers-Reading-Roadmap` - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! [https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+
 - `deep-learning-with-r-notebooks` - R Markdown Notebooks for "Deep Learning with R", https://github.com/jjallaire/deep-learning-with-r-notebooks
 
 - `DeepLearningBook` - MIT Deep Learning Book in PDF format. [https://github.com/HFTrader/DeepLearningBook](https://github.com/HFTrader/DeepLearningBook)
