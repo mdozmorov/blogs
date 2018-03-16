@@ -22,6 +22,8 @@
 
 - `deep-review` - A collaboratively written review paper on deep learning, genomics, and precision medicine, lead by Dr. Casey Greene. Each issue on [https://github.com/greenelab/deep-review/issues](https://github.com/greenelab/deep-review/issues) corresponds to a paper on the subject. The final review is at [https://greenelab.github.io/deep-review/](https://greenelab.github.io/deep-review/) lists amazing resources and references on deep learning in genomics.
 
+- `DeepLearning-in-Bioinformatics` - For anyone who are eager to applying deep learning in bioinformatics! [https://github.com/Bjoux2/DeepLearning-in-Bioinformatics](https://github.com/Bjoux2/DeepLearning-in-Bioinformatics)
+
 - `google-interview-university` - List of ML/CS courses. A complete daily plan for studying to become a Google software engineer. [https://github.com/jwasham/google-interview-university](https://github.com/jwasham/google-interview-university)
 
 - `lm` - "Advanced linear models for data science" book by Brian Caffo [https://github.com/bcaffo/lm](https://github.com/bcaffo/lm). Compile the pdf with `pdflatex main.tex`
