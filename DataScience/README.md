@@ -2,6 +2,8 @@
 
 - `2016` - "Introduction to Data Science" by Rafael Irizarry and Stephanie Hicks, [https://datasciencelabs.github.io/index.html](https://datasciencelabs.github.io/index.html) and [https://github.com/datasciencelabs/2016](https://github.com/datasciencelabs/2016). Data for the course is at [https://github.com/datasciencelabs/data](https://github.com/datasciencelabs/data)
 
+- `awesome-docker` - A curated list of Docker resources and projects. Web-site [https://awesome-docker.netlify.com/](https://awesome-docker.netlify.com/, and GitHub [https://github.com/veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)
+
 - `awesome-rshiny` - a list of resources to learn R Shiny. [https://github.com/grabear/awesome-rshiny](https://github.com/grabear/awesome-rshiny)
 
 - `bigdataclass2018` - Big Data with R class by RStudio, [https://github.com/rstudio/bigdataclass2018](https://github.com/rstudio/bigdataclass2018)
