@@ -6,6 +6,8 @@
 
 - `awesome-rshiny` - a list of resources to learn R Shiny. [https://github.com/grabear/awesome-rshiny](https://github.com/grabear/awesome-rshiny)
 
+- `compbio` - Introduction to Computational Biology course by Mike Love, https://github.com/biodatascience/compbio and https://biodatascience.github.io/compbio/
+
 - `bigdataclass2018` - Big Data with R class by RStudio, [https://github.com/rstudio/bigdataclass2018](https://github.com/rstudio/bigdataclass2018)
 
 - `biostat561` - Computational Skills for Biostatistics, from version control, R programming, ggplot, shiny, to Unix, LaTeX, Markdown, Python. https://github.com/adw96/biostat561

@@ -32,8 +32,6 @@
 
 - `comp-genomics-class` - Computational genomics, algorithms, by Ben Langmead. In Python. [https://github.com/BenLangmead/comp-genomics-class](https://github.com/BenLangmead/comp-genomics-class)
 
-- `compbio` - Introduction to Computational Biology course by Mike Love, https://github.com/biodatascience/compbio and https://biodatascience.github.io/compbio/
-
 - `courses` - Course materials for the Data Science Specialization by Brian Caffo, Jeff Leek, Roger Peng, Nick Carchedi, Sean Kross [https://github.com/rdpeng/courses](https://github.com/rdpeng/courses)
 
 - `CSAMA` - Course material for CSAMA: Statistical Data Analysis for Genome Scale Biology. https://github.com/Bioconductor/CSAMA, https://www.bioconductor.org/help/course-materials/2017/CSAMA/
