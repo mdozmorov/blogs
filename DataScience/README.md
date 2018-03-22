@@ -12,7 +12,7 @@
 
 - `biostat561` - Computational Skills for Biostatistics, from version control, R programming, ggplot, shiny, to Unix, LaTeX, Markdown, Python. https://github.com/adw96/biostat561
 
-- `courses` - AWS training, https://github.com/uvasomrc/courses
+- `courses_AWS` - AWS training, https://github.com/uvasomrc/courses
 
 - `CSE390A` - System and Software Tools (taught by Ruth E. Anderson). Well-polished lectures and homework on Unix /Git ecosystem. [https://github.com/ldfaiztt/CSE390A](https://github.com/ldfaiztt/CSE390A)
 
