@@ -16,6 +16,8 @@
 
 - `courses_AWS` - AWS training, https://github.com/uvasomrc/courses
 
+- `CSAMA` - Course material for CSAMA: Statistical Data Analysis for Genome Scale Biology. https://github.com/Bioconductor/CSAMA, https://www.bioconductor.org/help/course-materials/2017/CSAMA/
+
 - `CSE390A` - System and Software Tools (taught by Ruth E. Anderson). Well-polished lectures and homework on Unix /Git ecosystem. [https://github.com/ldfaiztt/CSE390A](https://github.com/ldfaiztt/CSE390A)
 
 - `d3graphTheory` - Interactive webapp meant to be used as graph theory tutorials. Topics include: "Vertices and Edges", "Order and Size of a Graph", "Degree of a Vertex", "Degree Sequence of a Graph", "Graphic Sequence", "Havel-Hakimi Algorithm", "Pigeonhole Principle", "Regular Graph", "Complete Graph", "Bipartite Graph", "Complete Bipartite Graph", "Walk", "Open vs Closed Walks", "Connectivity", "Eulerian Circuit", "Eulerian Trail". Web-site [https://mrpandey.github.io/d3graphTheory/](https://mrpandey.github.io/d3graphTheory/) and GitHub [https://github.com/mrpandey/d3graphTheory](https://github.com/mrpandey/d3graphTheory)
