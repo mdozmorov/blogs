@@ -46,6 +46,8 @@
 
 - `GCB` - machine learning course by Casey Greene, https://github.com/greenelab/GCB535
 
+- `Rcourse` - Class notes for my "R" course at Ben Gurion University. https://github.com/johnros/Rcourse, http://www.john-ros.com/Rcourse/
+
 - `readingpapers` - Jeff Leek' guide to [reading scientific papers](https://github.com/jtleek/readingpapers). The page has references to his other guides ["How to write your first paper"](https://github.com/jtleek/firstpaper), ["How to review a paper"](https://github.com/jtleek/reviews), ["How to share data"](https://github.com/jtleek/datasharing), ["How to write an R package"](https://github.com/jtleek/rpackages)
 
 - `rprogdatascience` -  "R Programming for Data Science" by Roger Peng. [https://leanpub.com/rprogramming](https://leanpub.com/rprogramming) and DIY version on GitHub [https://github.com/rdpeng/rprogdatascience/]
