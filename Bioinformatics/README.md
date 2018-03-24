@@ -56,8 +56,6 @@
 
 - `In-depth-NGS-Data-Analysis-Course` - The course is aimed at bench biologists who are interested in learning about NGS-based genomic analysis. The topics covered in-depth during this course are analysis of RNA-Seq and ChIP-Seq data, with an optional Variant Calling session. https://github.com/hbctraining/In-depth-NGS-Data-Analysis-Course
 
-- `Intro-to-R-extended` - Intro to R materials for six hour workshop, https://github.com/mistrm82/Intro-to-R-extended
-
 - `jhudatascience` - links to several courses, including some material. JHU. The GitHub repo [https://github.com/jhudsl/jhudatascience](https://github.com/jhudsl/jhudatascience) contains the files to build the web-site [http://jhudatascience.org/courses.html](http://jhudatascience.org/courses.html)
 
 - `Machiraju` - Courses by Dr. Raghu Machiraju, http://web.cse.ohio-state.edu/~machiraju.1/. Topics: data visualization, biomedical informatics, computer graphics, linked from the homepage. These and other courses are linked from http://web.cse.ohio-state.edu/~machiraju.1/teaching/. 
