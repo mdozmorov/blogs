@@ -52,7 +52,7 @@
 
 - `haowulab.github.io` - microarray course, https://github.com/haowulab/haowulab.github.io
 
-- `INF-BIOx121_fall2014_de_novo_assembly` - _de novo_ assembly presentations and Jupyter notebooks tutorials. https://github.com/lexnederbragt/INF-BIOx121_fall2014_de_novo_assembly.The full "High Throughput Sequencing technologies and bioinformatics analysis" course material is at https://wiki.uio.no/projects/clsi/index.php/INF-BIOX121_H14
+- `INF-BIOx121_fall2014_de_novo_assembly` - _de novo_ assembly presentations and Jupyter notebooks tutorials. https://github.com/lexnederbragt/INF-BIOx121_fall2014_de_novo_assembly. The full "High Throughput Sequencing technologies and bioinformatics analysis" course material is at https://wiki.uio.no/projects/clsi/index.php/INF-BIOX121_H14. The latest version is at https://github.com/lexnederbragt/INF-BIOx121, in the branch corresponding to year. Course web-site, https://inf-biox121.readthedocs.io/en/2017/
 
 - `In-depth-NGS-Data-Analysis-Course` - The course is aimed at bench biologists who are interested in learning about NGS-based genomic analysis. The topics covered in-depth during this course are analysis of RNA-Seq and ChIP-Seq data, with an optional Variant Calling session. https://github.com/hbctraining/In-depth-NGS-Data-Analysis-Course
 
