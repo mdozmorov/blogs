@@ -8,6 +8,8 @@
 
 - `appliedgenomics` - JHU Applied Comparative Genomics 2017 course, by Michael Schatz. https://github.com/schatzlab/appliedgenomics, links to similar courses there. Other courses by Michael, http://schatzlab.cshl.edu/teaching/
 
+- `awesome-10x-genomics` - List of tools and resources related to the 10x genomics GEMCode/Chromium system. https://github.com/johandahlberg/awesome-10x-genomics
+
 - `awesome-cancer-variant-databases` - A community-maintained repository of cancer clinical knowledge bases and databases focused on cancer variants. https://github.com/seandavi/awesome-cancer-variant-databases
 
 - `awesome-microbes` - List of software packages (and the people developing these methods) for microbiome (16S), metagenomics (WGS, Shot-gun sequencing), and pathogen identification/detection/characterization. [https://github.com/stevetsa/awesome-microbes](https://github.com/stevetsa/awesome-microbes)
