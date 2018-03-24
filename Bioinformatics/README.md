@@ -72,7 +72,7 @@
 
 - `R_programs` - PDFs and statistical learning implementations, data mining, and other statistical analysis programmed in R, https://github.com/a-rhodes-vcu/R_programs
 
-- `RNA-seq-analysis` - RNAseq analysis notes from Tommy Tang, [https://github.com/crazyhottommy/RNA-seq-analysis](https://github.com/crazyhottommy/RNA-seq-analysis)
+- `RNA-seq-analysis` - RNAseq analysis notes from Ming Tang, [https://github.com/crazyhottommy/RNA-seq-analysis](https://github.com/crazyhottommy/RNA-seq-analysis)
 
 - `rnaseq_tutorial` - Informatics for RNA-seq, by Griffith lab, [https://github.com/griffithlab/rnaseq_tutorial](https://github.com/griffithlab/rnaseq_tutorial)
 
