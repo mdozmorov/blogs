@@ -8,6 +8,8 @@
 
 - `appliedgenomics` - JHU Applied Comparative Genomics 2017 course, by Michael Schatz. https://github.com/schatzlab/appliedgenomics, links to similar courses there. Other courses by Michael, http://schatzlab.cshl.edu/teaching/
 
+- `awesome-cancer-variant-databases` - A community-maintained repository of cancer clinical knowledge bases and databases focused on cancer variants. https://github.com/seandavi/awesome-cancer-variant-databases
+
 - `awesome-microbes` - List of software packages (and the people developing these methods) for microbiome (16S), metagenomics (WGS, Shot-gun sequencing), and pathogen identification/detection/characterization. [https://github.com/stevetsa/awesome-microbes](https://github.com/stevetsa/awesome-microbes)
 
 - `awesome-single-cell` - List of software packages for single-cell data analysis, including RNA-seq, ATAC-seq, etc. [https://github.com/seandavi/awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
