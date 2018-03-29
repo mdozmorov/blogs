@@ -16,6 +16,8 @@
 
 - `awesome-single-cell` - List of software packages for single-cell data analysis, including RNA-seq, ATAC-seq, etc. [https://github.com/seandavi/awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
 
+- `atac_dnase_pipelines` - ATAC-seq and DNase-seq processing pipeline by Anshul Kundaje, [https://github.com/kundajelab/atac_dnase_pipelines](https://github.com/kundajelab/atac_dnase_pipelines)
+
 - `ATAC_Workshop` - ATAC_seq Workshop. [https://github.com/ThomasCarroll/ATAC_Workshop](https://github.com/ThomasCarroll/ATAC_Workshop)
 
 - `bcbio-nextgen` - Validated, scalable, community developed variant calling and RNA-seq analysis https://bcbio-nextgen.readthedocs.org [https://github.com/chapmanb/bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)
