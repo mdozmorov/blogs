@@ -84,6 +84,8 @@
 
 - `rnaseq_tutorial.wiki` - wiki has the detailed tutorials. "LectureFiles" have lecture slides from different courses
 
+- `SBG-CGC_course2018` - IARC course on analyzing TCGA data in the SevenBridges Genomics Cancer Genomics Cloud (SBG-CGC). [https://github.com/IARCbioinfo/SBG-CGC_course2018](https://github.com/IARCbioinfo/SBG-CGC_course2018)
+
 - `scRNA.seq.course` - Analysis of single cell RNA-seq data course, Cambridge University, UK. [https://github.com/hemberg-lab/scRNA.seq.course](https://github.com/hemberg-lab/scRNA.seq.course) and its bookdown version [https://hemberg-lab.github.io/scRNA.seq.course/](https://hemberg-lab.github.io/scRNA.seq.course/)
 
 - `single_cell_analysis` - Workshops on single cell analysis. Presentation, R code with instructions for running a Docker container on Amazon EC2. https://github.com/broadinstitute/single_cell_analysis
