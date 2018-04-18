@@ -28,6 +28,8 @@
 
 - `google-interview-university` - List of ML/CS courses. A complete daily plan for studying to become a Google software engineer. [https://github.com/jwasham/google-interview-university](https://github.com/jwasham/google-interview-university)
 
+- `keras` - Deep Learning for humans [http://keras.io/](http://keras.io/), [https://github.com/keras-team/keras](https://github.com/keras-team/keras)
+
 - `lm` - "Advanced linear models for data science" book by Brian Caffo [https://github.com/bcaffo/lm](https://github.com/bcaffo/lm). Compile the pdf with `pdflatex main.tex`
 
 - `mit-deep-learning-book-pdf` - MIT Deep Learning Book, PDF of the original http://www.deeplearningbook.org/ book. https://github.com/janishar/mit-deep-learning-book-pdf
