@@ -81,3 +81,5 @@
 - "R & Bioconductor Manual" by Thomas Girke, UC Riverside [http://manuals.bioinformatics.ucr.edu/home/R_BioCondManual](http://manuals.bioinformatics.ucr.edu/home/R_BioCondManual). One of the best R manual to brush up all major steps in data analysis/visualization. And links to other resources there.
 
 - Network visualization with R, blog post [http://kateto.net/network-visualization](http://kateto.net/network-visualization), GitHub [https://github.com/kateto/R-Network-Visualization-Workshop](https://github.com/kateto/R-Network-Visualization-Workshop)
+
+- D3 in Depth, [http://d3indepth.com/](http://d3indepth.com/)
