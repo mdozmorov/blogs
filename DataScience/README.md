@@ -6,13 +6,12 @@
 
 - `awesome-rshiny` - a list of resources to learn R Shiny. [https://github.com/grabear/awesome-rshiny](https://github.com/grabear/awesome-rshiny)
 
-- `compbio` - Introduction to Computational Biology course by Mike Love, https://github.com/biodatascience/compbio and https://biodatascience.github.io/compbio/
 
 - `bigdataclass2018` - Big Data with R class by RStudio, [https://github.com/rstudio/bigdataclass2018](https://github.com/rstudio/bigdataclass2018)
 
 - `biostat561` - Computational Skills for Biostatistics, from version control, R programming, ggplot, shiny, to Unix, LaTeX, Markdown, Python. https://github.com/adw96/biostat561
 
-- `courses` - Course materials for the Data Science Specialization by Brian Caffo, Jeff Leek, Roger Peng, Nick Carchedi, Sean Kross [https://github.com/rdpeng/courses](https://github.com/rdpeng/courses)
+- `compbio` - Introduction to Computational Biology course by Mike Love, https://github.com/biodatascience/compbio and https://biodatascience.github.io/compbio/
 
 - `courses_AWS` - AWS training, https://github.com/uvasomrc/courses
 
@@ -28,7 +27,7 @@
 
 - `datasci2017` - THRIV Data Science course by Stephen Turner. Comprehensive coverage from R/RStudio introduction, RMarkdown, dplyr, ggplot2, shiny to all practical and statistical aspects of data cleaning, visualization, predictive modeling, survival analysis. Course material: [https://github.com/thriv/datasci2017](https://github.com/thriv/datasci2017), course web site: [http://bioconnector.org/workshops/index.html])http://bioconnector.org/workshops/index.html
 
-- `DataScienceSpecialization` - Course materials for the Data Science Specialization from JHU folks. Detailed lectures on each topic. https://github.com/DataScienceSpecialization/courses
+- `DataScienceSpecialization` - Course materials for the Data Science Specialization from JHU folks. Detailed lectures on each topic. [https://github.com/DataScienceSpecialization/courses](https://github.com/DataScienceSpecialization/courses)
 
 - `efficientR` - Efficient R programming: a book by Colin Gillespie, [https://github.com/csgillespie/efficientR](https://github.com/csgillespie/efficientR)
 
