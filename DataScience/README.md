@@ -53,8 +53,8 @@
 - `rprogdatascience` -  "R Programming for Data Science" by Roger Peng. [https://leanpub.com/rprogramming](https://leanpub.com/rprogramming) and DIY version on GitHub [https://github.com/rdpeng/rprogdatascience/]
 
 - `SISBID` - several modules covering various aspects of data science. Summer Institute in Statistics for Big Data 
-    - `Module 1` - https://github.com/SISBID/Module1.
-    - `Module 2` - https://github.com/SISBID/Module2.
+    - `Module 1` - https://github.com/SISBID/Module1. Big Data
+    - `Module 2` - https://github.com/SISBID/Module2. Visualization of Biomedical Big Data
     - `Module 3` - https://github.com/SISBID/Module3. Reproducible research by Keith Baggerly and Roger Peng
     - `Module 4` - https://github.com/SISBID/Module4.
     - `Module 5` - https://github.com/SISBID/Module5.
