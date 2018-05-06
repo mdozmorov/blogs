@@ -30,6 +30,8 @@
 
 - `keras` - Deep Learning for humans [http://keras.io/](http://keras.io/), [https://github.com/keras-team/keras](https://github.com/keras-team/keras)
 
+- `keras-workshop` - Data and scripts for keras course, [https://github.com/MangoTheCat/keras-workshop](https://github.com/MangoTheCat/keras-workshop)
+
 - `Machine-Learning-in-R` - 4-hour tutorial on machine learning in R: knn, OLS, decision trees, random forest, gbm, superlearner, [https://github.com/dlab-berkeley/Machine-Learning-in-R](https://github.com/dlab-berkeley/Machine-Learning-in-R)
 
 - `lm` - "Advanced linear models for data science" book by Brian Caffo [https://github.com/bcaffo/lm](https://github.com/bcaffo/lm). Compile the pdf with `pdflatex main.tex`
