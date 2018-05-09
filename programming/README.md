@@ -8,6 +8,8 @@
 
 - `Hydropythonica` - Python programming basics. iPython notebooks. Rus. [https://github.com/whitehorn/Hydropythonica](https://github.com/whitehorn/Hydropythonica)
 
+- `idem_viz` - Materials for the course IDEM 181 "Visualizing Data", [https://github.com/jschoeley/idem_viz](https://github.com/jschoeley/idem_viz)
+
 - `Scientific_graphics_in_python` - Scientific graphics in Python. [https://github.com/whitehorn/Scientific_graphics_in_python](https://progeoru.blogspot.ru/2015/09/python.html) (RUS)
 
 
