@@ -8,6 +8,8 @@
 
 - `DATA606Spring2017` - the DATA 606 course for the Spring 2017 semester by Jason Bryer. The course website is at data606.net. [https://github.com/jbryer/DATA606Spring2017](https://github.com/jbryer/DATA606Spring2017)
 
+-`FES` - Feature Engineering and Selection: A Practical Approach for Predictive Models, by Max Kuhn and Kjell Johnson. [http://www.feat.engineering/](http://www.feat.engineering/), [https://github.com/topepo/FES(https://github.com/topepo/FES)]
+
 - `fiveMinuteStats` - A repo of short "vignettes" illustrating statistical concepts, https://stephens999.github.io/fiveMinuteStats/. https://github.com/stephens999/fiveMinuteStats.git
 
 - `Intro2R` - data mining and machine learning, https://github.com/johnros/Intro2R
