@@ -4,6 +4,8 @@
 
 - `awesome-courses` - List of awesome university courses for learning Computer Science. https://github.com/prakhar1989/awesome-courses
 
+- `awesome-deep-learning` - A curated list of awesome Deep Learning tutorials, projects and communities. [https://github.com/ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
+
 - `awesome-machine-learning` - A curated list of awesome Machine Learning frameworks, libraries and software. [https://github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 - `ciml` - book "A Course in Machine Learning". On the web, [http://ciml.info/](http://ciml.info/), and on GitHub, [https://github.com/hal3/ciml](https://github.com/hal3/ciml)
