@@ -6,6 +6,8 @@
 
 - `book` - a written companion for the Course 'Bayesian Statistics' from the Statistics with R specialization available on Coursera, [https://github.com/StatsWithR/book](https://github.com/StatsWithR/book)
 
+- `bysh_book` - Repo for Feb 2018 version of Broadening Your Statistical Horizons [https://github.com/broadenyourstatisticalhorizons/bysh_book](https://github.com/broadenyourstatisticalhorizons/bysh_book). The rendered version can be found at: [https://bookdown.org/roback/bookdown-bysh/](https://bookdown.org/roback/bookdown-bysh/)
+
 - `CHE379` - Statistical refresher course by Chris A. Mack, From Data to Decisions: Measurement, Uncertainty, Analysis, and Modeling. Videos, esercises, slides in PDF. [http://www.lithoguru.com/scientist/statistics/course.html](http://www.lithoguru.com/scientist/statistics/course.html). Video playlist [https://www.youtube.com/playlist?list=PLM2eE_hI4gSDnF-mEa9mrIYx7GCLQVN89](https://www.youtube.com/playlist?list=PLM2eE_hI4gSDnF-mEa9mrIYx7GCLQVN89)
 
 - `DATA606Spring2017` - the DATA 606 course for the Spring 2017 semester by Jason Bryer. The course website is at data606.net. [https://github.com/jbryer/DATA606Spring2017](https://github.com/jbryer/DATA606Spring2017)
