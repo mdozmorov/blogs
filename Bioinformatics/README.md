@@ -4,6 +4,8 @@
 
 - `alignment-and-variant-calling-tutorial` - basic walk-throughs for alignment and variant calling from NGS sequencing data, by Erik Garrison. [https://github.com/ekg/alignment-and-variant-calling-tutorial](https://github.com/ekg/alignment-and-variant-calling-tutorial)
 
+- `angus` - Materials for Analyzing Next-Generation Sequencing (ANGUS) course. [https://github.com/ngs-docs/angus](https://github.com/ngs-docs/angus)
+
 - `applied-computational-genomics` - applied computational genomics by Aaron Quinlan, https://github.com/quinlan-lab/applied-computational-genomics
 
 - `appliedgenomics` - JHU Applied Comparative Genomics 2017 course, by Michael Schatz. https://github.com/schatzlab/appliedgenomics, links to similar courses there. Other courses by Michael, http://schatzlab.cshl.edu/teaching/
