@@ -40,6 +40,8 @@
 
 - `master-the-tidyverse` - the Master the Tidyverse Workshop, `tidyverse`-oriented tutorials. Workshop itself [https://github.com/rstudio-education/master-the-tidyverse/](https://github.com/rstudio-education/master-the-tidyverse/) and instructor's material [https://github.com/rstudio-education/master-the-tidyverse-instructors](https://github.com/rstudio-education/master-the-tidyverse-instructors)
 
+- `moderndive_book` - ModernDive: An Introduction to Statistical and Data Sciences via R. GitHub [https://github.com/moderndive/moderndive_book](https://github.com/moderndive/moderndive_book) and bookdown [http://www.moderndive.com/](http://www.moderndive.com/)
+
 - `mro` - "Effective graphs with Microsoft R Open" open book. [Blog post about the book](http://www.r-bloggers.com/free-e-book-effective-graphs-with-microsoft-r-open/), [Book, PDF](http://www.joyce-robbins.com/wp-content/uploads/2016/04/effectivegraphsmro1.pdf), [Git](https://github.com/nbrgraphs/mro)
 
 - `MTEC_CADi_2017` - "Data Science using R for Humanities and Social Science" by Hector Corrada Bravo. https://github.com/hcorrada/MTEC_CADi_2017. The repo contains `notes/_book` folder with an excellent bookdown of the lecture notes
