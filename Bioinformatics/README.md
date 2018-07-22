@@ -94,6 +94,7 @@
 
 - `single-cell-pseudotime` - Single-cell RNA-seq pseudotime estimation algorithms, comprehensive collection of links to software and accompanying papers. https://github.com/agitter/single-cell-pseudotime
 
+- `stats337` - Readings in Applied Data Science, collection of papers assembled by Hadley Wickham, [https://github.com/hadley/stats337](https://github.com/hadley/stats337)
 
 
 - `ChIP-seq_workflow.pdf` - ChIP-seq workflow and analysis in R, https://www.bioconductor.org/help/course-materials/2017/OMRF/B4_ChIPSeq.html
