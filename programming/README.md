@@ -4,6 +4,8 @@
 
 - `Best-websites-a-programmer-should-visit` - Some useful websites for programmers. [https://github.com/sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 
+- `cookbook-2nd` - IPython Cookbook, Second Edition, by Cyrille Rossant, Packt Publishing 2018. Code and chapters, excellent resource. [https://github.com/ipython-books/cookbook-2nd](https://github.com/ipython-books/cookbook-2nd). The full chapters are at [https://ipython-books.github.io/](https://ipython-books.github.io/)
+
 - `every-programmer-should-know` - A collection of (mostly) technical things every software developer should know, https://github.com/mr-mig/every-programmer-should-know
 
 - `Hydropythonica` - Python programming basics. iPython notebooks. Rus. [https://github.com/whitehorn/Hydropythonica](https://github.com/whitehorn/Hydropythonica)
