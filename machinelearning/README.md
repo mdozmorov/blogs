@@ -60,6 +60,8 @@
 
 - `python-machine-learning-book` - "Python Machine Learning" book by Sebastian Raschka, iPython notebooks [https://github.com/rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)
 
+- `TensorFlow-LiveLessons` - "Deep Learning with TensorFlow" LiveLessons, Jupyter notebooks, [https://github.com/the-deep-learners/TensorFlow-LiveLessons](https://github.com/the-deep-learners/TensorFlow-LiveLessons)
+
 - `tf-tutorial` - A non-traditional TensorFlow tutorial, [https://github.com/dfm/tf-tutorial](https://github.com/dfm/tf-tutorial)
 
 - `UnsupervisedMethods.com - Cheat Sheets` - Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets. Description of each. https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6. All 27 in one file, https://www.dropbox.com/s/v3yg8djhdf24g6v/UnsupervisedMethods.com%20-%20Cheat%20Sheets.zip?dl=0
