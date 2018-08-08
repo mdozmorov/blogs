@@ -12,6 +12,8 @@
 
 - `courses` - Practical Deep Learning for Coders (fast.ai courses). https://github.com/fastai/courses. The course web site http://course.fast.ai/index.html all material and video lectures
 
+- `DALEX` - DALEX: Descriptive mAchine Learning EXplanations. In R. Very well-organized material on machine learning in R, with links to many texts and tutoriald. [https://github.com/pbiecek/DALEX](https://github.com/pbiecek/DALEX)
+
 - `Data-R-Value` - Data and material for the "Data R Value" blog [https://datarvalue.blogspot.mx/](https://datarvalue.blogspot.mx/), GitHub [https://github.com/pakinja/Data-R-Value](https://github.com/pakinja/Data-R-Value)
 
 - `Deep-Learning-Papers-Reading-Roadmap` - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! [https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
