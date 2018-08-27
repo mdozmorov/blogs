@@ -90,6 +90,8 @@
 
 - `scRNA.seq.course` - Analysis of single cell RNA-seq data course, Cambridge University, UK. [https://github.com/hemberg-lab/scRNA.seq.course](https://github.com/hemberg-lab/scRNA.seq.course) and its bookdown version [https://hemberg-lab.github.io/scRNA.seq.course/](https://hemberg-lab.github.io/scRNA.seq.course/)
 
+- `scTeachingMaterials` - Teaching materials for single-cell RNA-seq data analysis courses. Includes lectures and practicals. Data download scripts are provided. [https://github.com/MarioniLab/scTeachingMaterials](https://github.com/MarioniLab/scTeachingMaterials)
+
 - `single_cell_analysis` - Workshops on single cell analysis. Presentation, R code with instructions for running a Docker container on Amazon EC2. https://github.com/broadinstitute/single_cell_analysis
 
 - `single-cell-pseudotime` - Single-cell RNA-seq pseudotime estimation algorithms, comprehensive collection of links to software and accompanying papers. https://github.com/agitter/single-cell-pseudotime
