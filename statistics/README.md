@@ -4,6 +4,8 @@
 
 - `brr` - "Biostatistics for Biomedical Research" by Frank Harrell, the creator of `Hmisc` package and many more. [https://github.com/harrelfe/bbr](https://github.com/harrelfe/bbr)
 
+- `BIOS2` - Biostatistics 621 / 821 course by Levi Waldron. Classical statistics, from all aspects of regression, survival analysis to dimensionality reduction basics. iPython and R. [https://github.com/waldronlab/BIOS2](https://github.com/waldronlab/BIOS2)
+
 - `book` - a written companion for the Course 'Bayesian Statistics' from the Statistics with R specialization available on Coursera, [https://github.com/StatsWithR/book](https://github.com/StatsWithR/book)
 
 - `bysh_book` - Repo for Feb 2018 version of Broadening Your Statistical Horizons [https://github.com/broadenyourstatisticalhorizons/bysh_book](https://github.com/broadenyourstatisticalhorizons/bysh_book). The rendered version can be found at: [https://bookdown.org/roback/bookdown-bysh/](https://bookdown.org/roback/bookdown-bysh/)
