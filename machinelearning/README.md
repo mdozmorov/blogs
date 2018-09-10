@@ -56,6 +56,8 @@
 
 - `nn-from-scratch` - Implementing a Neural Network from Scratch – An Introduction. [http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/) and [https://github.com/dennybritz/nn-from-scratch](https://github.com/dennybritz/nn-from-scratch)
 
+- `pathology_learning` - Using traditional machine learning and deep learning methods to predict stuff from TCGA pathology slides. [https://github.com/millett/pathology_learning](https://github.com/millett/pathology_learning)
+
 - `pattern_classification` - A collection of tutorials and examples for solving and understanding machine learning and pattern classification tasks [https://github.com/rasbt/pattern_classification](https://github.com/rasbt/pattern_classification)
 
 - `Practical_DL` - Deep learning course, Python notebooks, PDF lectures, videos. https://github.com/yandexdataschool/Practical_DL
