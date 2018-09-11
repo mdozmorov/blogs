@@ -4,6 +4,8 @@
 
 - `awesome-docker` - A curated list of Docker resources and projects. Web-site [https://awesome-docker.netlify.com/](https://awesome-docker.netlify.com/, and GitHub [https://github.com/veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)
 
+- `awesome-pipeline` - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin. [https://github.com/pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline)
+
 - `awesome-R` - A curated list of awesome R packages, frameworks and software, [https://github.com/qinwf/awesome-R](https://github.com/qinwf/awesome-R), and the web-site [https://awesome-r.com/](https://awesome-r.com/)
 
 - `awesome-rshiny` - a list of resources to learn R Shiny. [https://github.com/grabear/awesome-rshiny](https://github.com/grabear/awesome-rshiny)
