@@ -42,6 +42,8 @@
 
 ## Courses
 
+- CS229T/STATS231: Statistical Learning Theory, Stanford / Autumn 2018-2019. "Texts and References" section has a good set of course notes and links.  [https://web.stanford.edu/class/cs229t/](https://web.stanford.edu/class/cs229t/)
+
 - The Coursera Class: Statistics One, by Princeton [https://github.com/svkerr/Statistics_Class_Princeton](https://github.com/svkerr/Statistics_Class_Princeton)
 
 - Introduction to Statistics for Biologists, by [Peter Ralph](http://ralphlab.usc.edu/). [https://github.com/petrelharp/bisc305](https://github.com/petrelharp/bisc305)
