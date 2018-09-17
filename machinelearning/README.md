@@ -8,6 +8,8 @@
 
 - `awesome-machine-learning` - A curated list of awesome Machine Learning frameworks, libraries and software. [https://github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
+- `books` - "Books worth reading." From machine learning to programming and statistics, with PDFs. [https://github.com/liuchengxu/books](https://github.com/liuchengxu/books)
+
 - `ciml` - book "A Course in Machine Learning". On the web, [http://ciml.info/](http://ciml.info/), and on GitHub, [https://github.com/hal3/ciml](https://github.com/hal3/ciml)
 
 - `courses` - Practical Deep Learning for Coders (fast.ai courses). https://github.com/fastai/courses. The course web site http://course.fast.ai/index.html all material and video lectures
