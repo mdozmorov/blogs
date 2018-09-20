@@ -66,6 +66,8 @@
 
 - `python-machine-learning-book` - "Python Machine Learning" book by Sebastian Raschka, iPython notebooks [https://github.com/rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)
 
+- `ruta` - Unsupervised Deep Architechtures in R. Requires Keras and TensorFlow. Focuses on autoencoders. [https://github.com/fdavidcl/ruta](https://github.com/fdavidcl/ruta), examples and documentation at [https://ruta.software/](https://ruta.software/)
+
 - `TensorFlow-LiveLessons` - "Deep Learning with TensorFlow" LiveLessons, Jupyter notebooks, [https://github.com/the-deep-learners/TensorFlow-LiveLessons](https://github.com/the-deep-learners/TensorFlow-LiveLessons)
 
 - `tf-tutorial` - A non-traditional TensorFlow tutorial, [https://github.com/dfm/tf-tutorial](https://github.com/dfm/tf-tutorial)
