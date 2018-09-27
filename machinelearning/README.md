@@ -44,6 +44,8 @@
 
 - `mit-deep-learning-book-pdf` - MIT Deep Learning Book, PDF of the original http://www.deeplearningbook.org/ book. https://github.com/janishar/mit-deep-learning-book-pdf
 
+- `ml_cheatsheet` - A 5-pages only Machine Learning cheatsheet focusing on the most popular algorithms under the hood. PDF on GitHub, https://github.com/remicnrd/ml_cheatsheet, and online, https://remicnrd.github.io./the-machine-learning-cheatsheet/
+
 - `ML_for_Hackers` - Code accompanying the book "Machine Learning for Hackers" [https://github.com/johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
 
 - `ML-From-Scratch` - Bare bones Python implementations of some of the fundamental Machine Learning models and algorithms. [https://github.com/eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
