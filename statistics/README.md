@@ -32,6 +32,9 @@
 
 - `PractitionerGuidetoMultiplicity` - Practical Guide for Multiple testing, https://github.com/johnros/PractitionerGuidetoMultiplicity
 
+- `rethinking` - Statistical Rethinking course and book package, Richard McElreath. https://github.com/rmcelreath/rethinking. [Andrew Gelman's note about the book](https://andrewgelman.com/2016/01/15/mcelreaths-statistial-rethinking-a-bayesian-course-with-examples-in-r-and-stan/), [Video lectures](https://www.youtube.com/watch?v=kSgqH_eD1-0&list=PLDcUM9US4XdM9_N6XUUFrhghGJ4K25bFc)
+    - `Statistical-Rethinking` - An interactive online reading of McElreath's "Statistical Rethinking: A Bayesian Course with Examples in R and Stan" by Levi Waldron. https://github.com/lwaldron/Statistical-Rethinking
+
 - `stat540_2014` - STAT540 Statistical Methods for High Dimensional Biology course by Jenny Bryan
 
 - `stat401A` - conscise statistical refresher by Jarad Niemi, STAT 401A course at Iowa State University. [https://github.com/jarad/stat401A](https://github.com/jarad/stat401A). Jarad's web-site with more statistical courses STAT 544 and STAT 615 [http://www.jarad.me/courses/](http://www.jarad.me/courses/)
