@@ -12,6 +12,8 @@
 
 - `idem_viz` - Materials for the course IDEM 181 "Visualizing Data", [https://github.com/jschoeley/idem_viz](https://github.com/jschoeley/idem_viz)
 
+- `RProgrammingForResearch` - course notes for R Programming for Research. R learning from ground up to tidyverse, with lectures, homeworks, data, source files. https://github.com/geanders/RProgrammingForResearch
+
 - `Scientific_graphics_in_python` - Scientific graphics in Python. [https://github.com/whitehorn/Scientific_graphics_in_python](https://progeoru.blogspot.ru/2015/09/python.html) (RUS)
 
 
