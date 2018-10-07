@@ -115,3 +115,5 @@
 - Statistical Machine Learning: Spring 2017, by Ryan Tibshirani, Larry Wasserman, Carnegie Mellon University. [http://www.stat.cmu.edu/~ryantibs/statml/](http://www.stat.cmu.edu/~ryantibs/statml/)
 
 - `DATASCIENCE.COM` - many machine learning/data science resources, videos. [https://datascience.hubs.vidyard.com/](https://datascience.hubs.vidyard.com/)
+
+- "Heroes of Deep Learning, Interviews," by Andrew Ng. [https://www.youtube.com/playlist?list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR](https://www.youtube.com/playlist?list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR)
