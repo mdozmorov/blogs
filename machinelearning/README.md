@@ -32,6 +32,8 @@
 
 - `DeepLearning-in-Bioinformatics` - For anyone who are eager to applying deep learning in bioinformatics! [https://github.com/Bjoux2/DeepLearning-in-Bioinformatics](https://github.com/Bjoux2/DeepLearning-in-Bioinformatics)
 
+- `easy-tensorflow` - Simple and comprehensive tutorials in TensorFlow. GitHub, https://github.com/easy-tensorflow/easy-tensorflow, and the web site http://www.easy-tensorflow.com/
+
 - `google-interview-university` - List of ML/CS courses. A complete daily plan for studying to become a Google software engineer. [https://github.com/jwasham/google-interview-university](https://github.com/jwasham/google-interview-university)
 
 - `keras` - Deep Learning for humans [http://keras.io/](http://keras.io/), [https://github.com/keras-team/keras](https://github.com/keras-team/keras)
