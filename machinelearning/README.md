@@ -54,6 +54,8 @@
 
 - `mlcourse_open` - OpenDataScience Machine Learning course (Both in English and Russian). Python-based ML course, with video lectures. https://github.com/Yorko/mlcourse_open, text (eng) https://medium.com/open-machine-learning-course, video https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl
 
+- `mlcourse.ai` - Open Machine Learning course mlcourse.ai, 2018 English version. GitHub, https://mlcourse.ai https://github.com/Yorko/mlcourse.ai, web-site, https://mlcourse.ai/, video lectures, https://www.youtube.com/watch?v=QKTuw4PNOsU&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX
+
 - `mlr` - Machine Learning in R [https://github.com/mlr-org/mlr](https://github.com/mlr-org/mlr)
 
 - `MTH594_MachineLearning` - The materials for the course MTH 594 Advanced data mining: theory and applications (Dmitry Efimov, American University of Sharjah). https://github.com/diefimov/MTH594_MachineLearning
