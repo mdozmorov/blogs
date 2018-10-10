@@ -91,6 +91,8 @@
 
 ## Misc
 
+- "TensorFlow Tutorial For Beginners" detailed and illustrated tutorial. https://www.datacamp.com/community/tutorials/tensorflow-tutorial
+
 - Colah's blog, articles on neural networks, visualization [https://colah.github.io/](https://colah.github.io/)
 
 - "Neural networks and deep learning" book [http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/) and code [https://github.com/mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
