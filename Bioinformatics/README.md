@@ -111,7 +111,9 @@
 
 # Videos
 
-- `Bioconductor Workshop 2: RNA Seq and ChIP Seq Analysis` - Workshop on RNA-seq and ChIP-seq technology and analysis by Levi Waldron and others. https://www.youtube.com/watch?v=J9LNYhhNhrk
+- `Bioconductor Workshop 2: RNA Seq and ChIP Seq Analysis` - 6 hours workshop on RNA-seq and ChIP-seq technology and analysis by Levi Waldron and others. https://www.youtube.com/watch?v=J9LNYhhNhrk
+
+- “Differential Splicing Analysis with RNA-Seq: Current Applications, Approaches, & Limitations” - 1 hour overview of differential splicing analysis. https://www.youtube.com/watch?v=LknDQw08P5w
 
 - `NHGRI_Genomics2016` - "Current Topics in Genome Analysis 2016" course. A lecture series covering contemporary areas in genomics and bioinformatics. Video lectures, https://www.youtube.com/playlist?list=PL1ay9ko4A8skYqjhrA4INDZ7IHtebS0lY, and slides, https://www.genome.gov/12514288/current-topics-in-genome-analysis-2016-course-syllabus-handouts-and-videos/
 
