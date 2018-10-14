@@ -111,6 +111,8 @@
 
 # Videos
 
+- `Bioconductor Workshop 2: RNA Seq and ChIP Seq Analysis` - Workshop on RNA-seq and ChIP-seq technology and analysis by Levi Waldron and others. https://www.youtube.com/watch?v=J9LNYhhNhrk
+
 - `NHGRI_Genomics2016` - "Current Topics in Genome Analysis 2016" course. A lecture series covering contemporary areas in genomics and bioinformatics. Video lectures, https://www.youtube.com/playlist?list=PL1ay9ko4A8skYqjhrA4INDZ7IHtebS0lY, and slides, https://www.genome.gov/12514288/current-topics-in-genome-analysis-2016-course-syllabus-handouts-and-videos/
 
 - `MIT_SysBiol2014` - "Foundations of Computational and Systems Biology". Video lectures, https://www.youtube.com/watch?v=lJzybEXmIj0&list=PLUl4u3cNGP63uK-oWiLgO7LLJV6ZCWXac, and slides https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/lecture-slides/
