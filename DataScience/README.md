@@ -72,6 +72,8 @@
 
 # Misc
 
+- List of courses teaching R, [https://github.com/rstudio-education/rstats-ed](https://github.com/rstudio-education/rstats-ed)
+
 - "Text Mining with R", by Julia Silge and David Robinson, http://tidytextmining.com/
 
 - "OnePageR", book "Data Science Quick Start: Knowledge Discovery Through R" by Togaware, https://togaware.com/onepager/, includes pdf slides and R code templates for various machine learning tasks
