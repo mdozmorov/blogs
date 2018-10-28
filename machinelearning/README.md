@@ -1,5 +1,7 @@
 # Machine learning and deep learning resources
 
+- `100-Days-Of-ML-Code` - 100 Days of Machine Learning Coding as proposed by Siraj Raval. Illustrated step-by-step guides with code and data. Links to videos. [https://github.com/Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+
 - `algorithms_in_ipython_notebooks` - A repository with IPython notebooks of algorithms implemented in Python. [https://github.com/rasbt/algorithms_in_ipython_notebooks](https://github.com/rasbt/algorithms_in_ipython_notebooks)
 
 - `awesome-courses` - List of awesome university courses for learning Computer Science. https://github.com/prakhar1989/awesome-courses
