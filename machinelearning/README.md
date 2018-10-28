@@ -77,6 +77,8 @@
 
 - `TensorFlow-Course` - Simple and ready-to-use tutorials for TensorFlow. Step-by-step instructions with screenshots. [https://github.com/open-source-for-science/TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course)
 
+- `TensorFlow-Examples` - TensorFlow Tutorial and Examples for Beginners with Latest APIs. [https://github.com/aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
+
 - `TensorFlow-LiveLessons` - "Deep Learning with TensorFlow" LiveLessons, Jupyter notebooks, [https://github.com/the-deep-learners/TensorFlow-LiveLessons](https://github.com/the-deep-learners/TensorFlow-LiveLessons)
 
 - `tf-tutorial` - A non-traditional TensorFlow tutorial, [https://github.com/dfm/tf-tutorial](https://github.com/dfm/tf-tutorial)
