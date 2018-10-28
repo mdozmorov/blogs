@@ -75,6 +75,8 @@
 
 - `ruta` - Unsupervised Deep Architechtures in R. Requires Keras and TensorFlow. Focuses on autoencoders. [https://github.com/fdavidcl/ruta](https://github.com/fdavidcl/ruta), examples and documentation at [https://ruta.software/](https://ruta.software/)
 
+- `Tensorflow-101` - TensorFlow tutorials with data. [https://github.com/sjchoi86/Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101)
+
 - `TensorFlow-Course` - Simple and ready-to-use tutorials for TensorFlow. Step-by-step instructions with screenshots. [https://github.com/open-source-for-science/TensorFlow-Course](https://github.com/open-source-for-science/TensorFlow-Course)
 
 - `TensorFlow-Examples` - TensorFlow Tutorial and Examples for Beginners with Latest APIs. [https://github.com/aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
