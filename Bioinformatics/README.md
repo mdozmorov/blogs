@@ -88,6 +88,8 @@
 
 - `SBG-CGC_course2018` - IARC course on analyzing TCGA data in the SevenBridges Genomics Cancer Genomics Cloud (SBG-CGC). [https://github.com/IARCbioinfo/SBG-CGC_course2018](https://github.com/IARCbioinfo/SBG-CGC_course2018)
 
+- `scATAC-seq-analysis-notes` - single-cell ATAC-seq notes by Ming Tang, https://github.com/crazyhottommy/scATAC-seq-analysis-notes
+
 - `scRNA.seq.course` - Analysis of single cell RNA-seq data course, Cambridge University, UK. [https://github.com/hemberg-lab/scRNA.seq.course](https://github.com/hemberg-lab/scRNA.seq.course) and its bookdown version [https://hemberg-lab.github.io/scRNA.seq.course/](https://hemberg-lab.github.io/scRNA.seq.course/)
 
 - `scTeachingMaterials` - Teaching materials for single-cell RNA-seq data analysis courses. Includes lectures and practicals. Data download scripts are provided. [https://github.com/MarioniLab/scTeachingMaterials](https://github.com/MarioniLab/scTeachingMaterials)
