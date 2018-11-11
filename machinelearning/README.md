@@ -100,6 +100,8 @@
 
 ## Misc
 
+- "ML Resources" - machine learning resources, organized into categories with comments about each resouce by Samuel Finlayson. Courses, textbooks, statistics, deep/reinforcement learning, programming, more. https://sgfin.github.io/learning-resources/
+
 - "TensorFlow Tutorial For Beginners" detailed and illustrated tutorial. https://www.datacamp.com/community/tutorials/tensorflow-tutorial
 
 - Colah's blog, articles on neural networks, visualization [https://colah.github.io/](https://colah.github.io/)
