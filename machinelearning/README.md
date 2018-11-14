@@ -43,6 +43,8 @@
 
 - `keras-workshop` - Data and scripts for keras course, [https://github.com/MangoTheCat/keras-workshop](https://github.com/MangoTheCat/keras-workshop)
 
+- `lares` - R Library for Analytics and Machine Learning, [https://github.com/laresbernardo/lares](https://github.com/laresbernardo/lares)
+
 - `Machine-Learning-in-R` - 4-hour tutorial on machine learning in R: knn, OLS, decision trees, random forest, gbm, superlearner, [https://github.com/dlab-berkeley/Machine-Learning-in-R](https://github.com/dlab-berkeley/Machine-Learning-in-R)
 
 - `lm` - "Advanced linear models for data science" book by Brian Caffo [https://github.com/bcaffo/lm](https://github.com/bcaffo/lm). Compile the pdf with `pdflatex main.tex`
