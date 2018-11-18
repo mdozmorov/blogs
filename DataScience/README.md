@@ -36,6 +36,8 @@
 
 - `efficientR` - Efficient R programming: a book by Colin Gillespie, [https://github.com/csgillespie/efficientR](https://github.com/csgillespie/efficientR)
 
+- `hopr` - Hands-On Programming with R, a book that teaches how to program in R, with hands-on examples. GitHub [https://github.com/rstudio-education/hopr](https://github.com/rstudio-education/hopr). Read the book at [https://rstudio-education.github.io/hopr](https://rstudio-education.github.io/hopr)
+
 - `Intro-to-R-extended` - Intro to R materials for six hour workshop, https://github.com/mistrm82/Intro-to-R-extended
 
 - `IntroDataSci` - "CMSC320: Introduction to Data Science" course by Hector Corrada Bravo, https://github.com/hcorrada/IntroDataSci
