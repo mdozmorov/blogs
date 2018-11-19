@@ -120,6 +120,8 @@
 
 - "The Matrix Calculus You Need For Deep Learning" paper by Terence Parr and Jeremy Howard. [http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
 
+- Domingos, Pedro. “A Few Useful Things to Know about Machine Learning.” Communications of the ACM 55, no. 10 (October 1, 2012): 78. https://doi.org/10.1145/2347736.2347755. - Twelve lessons for machine learning. Overview of machine learning problems and algorithms, problem of overfitting, causes and solutions, curse of dimensionality, issues with high-dimensional data, feature engineering, bagging, boosting, stacking, model sparsity. Video lectures at [https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50](https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50)
+
 
 ## Video
 
