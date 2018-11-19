@@ -77,6 +77,8 @@
 
 - `python-machine-learning-book` - "Python Machine Learning" book by Sebastian Raschka, iPython notebooks [https://github.com/rasbt/python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book)
 
+- `reinforcement-learning-an-introduction` - Python code for Sutton & Barto's book Reinforcement Learning: An Introduction (2nd Edition). The book, [http://incompleteideas.net/book/the-book-2nd.html](http://incompleteideas.net/book/the-book-2nd.html), and the code, [https://github.com/ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+
 - `ruta` - Unsupervised Deep Architechtures in R. Requires Keras and TensorFlow. Focuses on autoencoders. [https://github.com/fdavidcl/ruta](https://github.com/fdavidcl/ruta), examples and documentation at [https://ruta.software/](https://ruta.software/)
 
 - `Tensorflow-101` - TensorFlow tutorials with data. [https://github.com/sjchoi86/Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101)
