@@ -12,6 +12,8 @@
 
 - `books` - "Books worth reading." From machine learning to programming and statistics, with PDFs. [https://github.com/liuchengxu/books](https://github.com/liuchengxu/books)
 
+- `cheatsheets-ai` - Essential Cheat Sheets for deep learning and machine learning researchers. [https://github.com/kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
+
 - `ciml` - book "A Course in Machine Learning". On the web, [http://ciml.info/](http://ciml.info/), and on GitHub, [https://github.com/hal3/ciml](https://github.com/hal3/ciml)
 
 - `courses` - Practical Deep Learning for Coders (fast.ai courses). https://github.com/fastai/courses. The course web site http://course.fast.ai/index.html all material and video lectures
