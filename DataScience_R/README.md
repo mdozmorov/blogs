@@ -14,6 +14,8 @@
 
 - `biostat561` - Computational Skills for Biostatistics, from version control, R programming, ggplot, shiny, to Unix, LaTeX, Markdown, Python. https://github.com/adw96/biostat561
 
+- `cheatsheets` - RStudio Cheat Sheets, pdfs, PowerPoint, Keynote formats, [https://github.com/rstudio/cheatsheets](https://github.com/rstudio/cheatsheets). Also, here, [https://www.rstudio.com/resources/cheatsheets/](https://www.rstudio.com/resources/cheatsheets/)
+
 - `compbio` - Introduction to Computational Biology course by Mike Love, https://github.com/biodatascience/compbio and https://biodatascience.github.io/compbio/
 
 - `courses` - Notes on AWS, cloud computing, Docker, [https://github.com/uvasomrc/courses](https://github.com/uvasomrc/courses)
