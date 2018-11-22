@@ -52,6 +52,8 @@
 
 - `MTEC_CADi_2017` - "Data Science using R for Humanities and Social Science" by Hector Corrada Bravo. https://github.com/hcorrada/MTEC_CADi_2017. The repo contains `notes/_book` folder with an excellent bookdown of the lecture notes
 
+- `psych10-book` - Source files for Statistical Thinking For the 21st Century, [https://github.com/poldrack/psych10-book](https://github.com/poldrack/psych10-book), the book itself, [http://thinkstats.org/](http://thinkstats.org/)
+
 - `og-aws` - Amazon Web Services — a practical guide [https://github.com/open-guides/og-aws](https://github.com/open-guides/og-aws)
 
 - `GCB` - machine learning course by Casey Greene, https://github.com/greenelab/GCB535
