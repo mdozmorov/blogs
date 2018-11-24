@@ -142,3 +142,5 @@
 - `DATASCIENCE.COM` - many machine learning/data science resources, videos. [https://datascience.hubs.vidyard.com/](https://datascience.hubs.vidyard.com/)
 
 - "Heroes of Deep Learning, Interviews," by Andrew Ng. [https://www.youtube.com/playlist?list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR](https://www.youtube.com/playlist?list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR)
+
+- "Advanced Deep Learning & Reinforcement Learning", a video-course on deep RL taught at @UCL by DeepMind researchers, https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
