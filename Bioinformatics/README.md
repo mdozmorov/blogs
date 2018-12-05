@@ -1,4 +1,4 @@
-# `Courses_Bioinformatics`
+# Bioinformatics
 
 - `ads1-slides` - Ben Langmead's Slides for Algorithms for DNA Sequencing Coursera class. [https://github.com/BenLangmead/ads1-slides.git](https://github.com/BenLangmead/ads1-slides.git). The complete class is at [http://www.langmead-lab.org/teaching-materials/](http://www.langmead-lab.org/teaching-materials/)
 
@@ -15,6 +15,8 @@
 - `awesome-cancer-variant-databases` - A community-maintained repository of cancer clinical knowledge bases and databases focused on cancer variants. https://github.com/seandavi/awesome-cancer-variant-databases
 
 - `awesome-microbes` - List of software packages (and the people developing these methods) for microbiome (16S), metagenomics (WGS, Shot-gun sequencing), and pathogen identification/detection/characterization. [https://github.com/stevetsa/awesome-microbes](https://github.com/stevetsa/awesome-microbes)
+
+- `awesome-reproducible-research` - A curated list of reproducible research case studies, projects, tutorials, and media. [https://github.com/leipzig/awesome-reproducible-research](https://github.com/leipzig/awesome-reproducible-research)
 
 - `awesome-single-cell` - List of software packages for single-cell data analysis, including RNA-seq, ATAC-seq, etc. [https://github.com/seandavi/awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
 
