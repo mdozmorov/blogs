@@ -129,6 +129,8 @@
 
 ## Video
 
+- [Coursera] Neural Networks for Machine Learning — Geoffrey Hinton 2016. Video course of short lectures introducing theoretical foundations of machine learning. [https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
+
 - Introduction to Deep Learning - Deep Learning basics with Python, TensorFlow and Keras p.1. Includes code and video tutorial. [https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/)
 
 - "Undergraduate machine learning at UBC 2012" by Nando de Freitas, video lectures, [https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf&feature=view_all](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf&feature=view_all) and slides, [http://www.cs.ubc.ca/~nando/340-2012/lectures.php](http://www.cs.ubc.ca/~nando/340-2012/lectures.php)
