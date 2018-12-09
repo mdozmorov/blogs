@@ -51,6 +51,8 @@
 
 - `lm` - "Advanced linear models for data science" book by Brian Caffo [https://github.com/bcaffo/lm](https://github.com/bcaffo/lm). Compile the pdf with `pdflatex main.tex`
 
+- `machine_learning` - Machine learning in R notes by Dave Tang. [https://github.com/davetang/machine_learning](https://github.com/davetang/machine_learning). All Dave does is worth exploring here [https://github.com/davetang?tab=repositories](https://github.com/davetang?tab=repositories) and here [https://davetang.org/muse/](https://davetang.org/muse/)
+
 - `mit-deep-learning-book-pdf` - MIT Deep Learning Book, PDF of the original http://www.deeplearningbook.org/ book. https://github.com/janishar/mit-deep-learning-book-pdf
 
 - `ml_cheatsheet` - A 5-pages only Machine Learning cheatsheet focusing on the most popular algorithms under the hood. PDF on GitHub, https://github.com/remicnrd/ml_cheatsheet, and online, https://remicnrd.github.io./the-machine-learning-cheatsheet/
