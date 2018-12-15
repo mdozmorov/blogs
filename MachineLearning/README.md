@@ -10,6 +10,8 @@
 
 - `awesome-machine-learning` - A curated list of awesome Machine Learning frameworks, libraries and software. [https://github.com/josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 
+- `awesome-machine-learning-interpretability` - A curated list of awesome machine learning interpretability resources. [https://github.com/jphall663/awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
+
 - `books` - "Books worth reading." From machine learning to programming and statistics, with PDFs. [https://github.com/liuchengxu/books](https://github.com/liuchengxu/books)
 
 - `cheatsheets-ai` - Essential Cheat Sheets for deep learning and machine learning researchers. [https://github.com/kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
