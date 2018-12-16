@@ -61,6 +61,8 @@
 
 ## Misc
 
+- "JavaScript versus Data Science" online book by Greg Wilson and others. [https://software-tools-in-javascript.github.io/js-vs-ds/en/promises/](https://software-tools-in-javascript.github.io/js-vs-ds/en/promises/)
+
 - Very large collection of free courses [https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md](https://github.com/vhf/free-programming-books/blob/master/free-courses-en.md), interactive tutorials [https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md](https://github.com/vhf/free-programming-books/blob/master/free-programming-interactive-tutorials-en.md), podcasts and screencasts [https://github.com/vhf/free-programming-books/blob/master/free-podcasts-screencasts-en.md](https://github.com/vhf/free-programming-books/blob/master/free-podcasts-screencasts-en.md), books [https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) on any (most) programming languages. And more, translated in other languages, on [https://github.com/vhf/free-programming-books](https://github.com/vhf/free-programming-books)
 
 - [http://tutorials.iq.harvard.edu/](http://tutorials.iq.harvard.edu/) - Materials for the Data Science Services statistical software workshops from the Institute For Quantitative Social Science at Harvard. R, Python Stata, SAS tutorials, well documented. [https://github.com/izahn/workshops](https://github.com/izahn/workshops) - GitHub repository for all workshops
