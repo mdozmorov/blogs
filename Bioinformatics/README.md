@@ -102,6 +102,8 @@
 
 - `stats337` - Readings in Applied Data Science, collection of papers assembled by Hadley Wickham, [https://github.com/hadley/stats337](https://github.com/hadley/stats337)
 
+- `workshops` - Material for the THRIV Biomedical Data Science 2018 course by Stephen Turner [https://github.com/stephenturner/workshops](https://github.com/stephenturner/workshops), web site [https://thriv.github.io/biodatasci2018/](https://thriv.github.io/biodatasci2018/)
+
 
 - `ChIP-seq_workflow.pdf` - ChIP-seq workflow and analysis in R, https://www.bioconductor.org/help/course-materials/2017/OMRF/B4_ChIPSeq.html
 
@@ -134,8 +136,6 @@
 # Misc
 
 - List of existing genome analysis plaforms - https://docs.google.com/spreadsheets/d/1o8iYwYUy0V7IECmu21Und3XALwQihioj23WGv-w0itk/pubhtml
-
-- List of bioinformatics courses by Stephen Turner - http://stephenturner.us/post/bioinformatics-workshops-training-2015/
 
 - Beginner's Handbook to Next Generation Sequencing by GenoHub - https://genohub.com/next-generation-sequencing-handbook/
 
