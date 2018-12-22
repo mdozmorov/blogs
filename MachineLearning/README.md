@@ -45,6 +45,8 @@
 
 - `google-interview-university` - List of ML/CS courses. A complete daily plan for studying to become a Google software engineer. [https://github.com/jwasham/google-interview-university](https://github.com/jwasham/google-interview-university)
 
+- `homemade-machine-learning` - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained. [https://github.com/trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
+
 - `keras` - Deep Learning for humans [http://keras.io/](http://keras.io/), [https://github.com/keras-team/keras](https://github.com/keras-team/keras)
 
 - `keras-workshop` - Data and scripts for keras course, [https://github.com/MangoTheCat/keras-workshop](https://github.com/MangoTheCat/keras-workshop)
