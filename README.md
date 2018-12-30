@@ -9,69 +9,36 @@ Collections of links to various resources, grouped by subject.
 - [Statistics](Statistics/README.md)
 
 
-# Blogs
+# Technology, programming, statistics blogs
 
-### Technology, programming, statistics blogs
+This repository started as a collection of interesting RSS feeds of bioinformatics, genomics, data science blogs. Below is the list of blogs I'm reading in Feedly.
 
-Started as a summary of interesting RSS feeds, this repository is growing into a collection of tutorials/e-books and other materials related to bioinformatics.
+- [BioIT Top Headlines](http://www.bio-itworld.com/bioit_top_headlines.aspx) - Biotech news from Bio-IT World
 
-[AllSeq - Blog](http://allseq.com/), [RSS](http://allseq.com/index.php?option=com_content&amp;id=38&amp;layout=blog&amp;view=category&amp;Itemid=741&amp;format=feed&amp;type=rss)
+- [Bits of DNA](https://liorpachter.wordpress.com) - Blog of Lior Pachter
 
-[Announcements — GATK-Forum](https://gatkforums.broadinstitute.org/gatk/categories/announcements/p2)
+- [DataScience+](https://datascienceplus.com/) - R & Python data science news and tutorials
 
-[BioIT Top Headlines](http://www.bio-itworld.com/), [RSS](http://www.bio-itworld.com/RSS/BioIT_WorldNews_RSS.aspx)
+- [DataTau news](http://www.datatau.com/) - all about programming
 
-[Bits of DNA](https://liorpachter.wordpress.com), [RSS](http://liorpachter.wordpress.com/feed/)
+- [Dave Tang's blog](https://davetang.org/muse) - bioinformatics mini-tutorials by Dave Tang
 
-[Codementor Blog](https://www.codementor.io/data-science/tutorial), [RSS](https://www.codementor.io/data-science/tutorial/feed)
+- [DNA confesses Data speak](https://divingintogeneticsandgenomics.rbind.io/) - bioinformatics, genomics and programming notes by Ming Tang
 
-[Daniel Nee](http://danielnee.com), [RSS](http://danielnee.com/?feed=rss2)
+- [GATK blog](https://software.broadinstitute.org/gatk/blog) - GATK news and announcements
 
-[DataTau](http://www.datatau.com/), [RSS](http://www.datatau.com/rss)
+- [Probably Overthinking It](https://www.allendowney.com/blog/) - Bayesian statistics and more by Allen Downey
 
-[Dave Tang's blog](https://davetang.org/muse), [RSS](https://davetang.org/muse/feed/)
+- [R-bloggers](http://www.r-bloggers.com) - a rich source or R-related news, updates, and packages
 
-[Diving into Genetics and Genomics](https://crazyhottommy.blogspot.com/) - bioinformatics, genomics and R/Python/Linux notes by Tommy Tang, [GitHub](https://github.com/crazyhottommy)
+- [RNA-Seq Blog](http://www.rna-seqblog.com) - all RNA-seq-related news and publications
 
-[Distill](https://distill.pub/) - machine-learning related blog posts, [RSS](https://distill.pub/rss.xml)
+- [Statistical Modeling, Causal Inference, And Social Science](http://andrewgelman.com/) - statistics notes by Andrew Gelman and others
 
-[Genohub High Throughput Sequencing ...](http://blog.genohub.com), [RSS](http://blog.genohub.com/feed/)
+- [Simply Statistics](http://simplystatistics.org) - data science, statistics news by Rafael Irizarry, Roger Peng, Jeff Leek
 
-[Getting Genetics Done](http://www.gettinggeneticsdone.com/), [RSS](http://gettinggeneticsdone.blogspot.com/feeds/posts/default)
+- [The stupidest thing...](http://kbroman.org/blog/) - blog by Karl Broman
 
-[MassGenomics](http://massgenomics.org), [RSS](http://feeds.feedburner.com/Massgenomics)
+- [The Third Bit](http://third-bit.com/) - blog by Greg Wilson from Software Carpentry
 
-[NIH Videocasting and Podcasting](https://videocast.nih.gov/), [RSS](https://videocast.nih.gov/rss/podcasts.asp)
-
-[Peter Norvig](http://www.norvig.com), [RSS](http://www.norvig.com/rss-feed.xml)
-
-[Philip Guo](http://www.pgbovine.net/writings.htm), [RSS](http://www.pgbovine.net/pgbovine-rss-feed.xml)
-
-[Popular Python recipes](http://code.activestate.com/recipes/langs/python/), [RSS](http://aspn.activestate.com/ASPN/Cookbook/Python/index_rss)
-
-[Probably Overthinking It](http://allendowney.blogspot.com/), [RSS](http://allendowney.blogspot.com/feeds/posts/default)
-
-[R-bloggers](http://www.r-bloggers.com), [RSS](http://www.r-bloggers.com/feed/)
-
-[RNA-Seq Blog](http://www.rna-seqblog.com), [RSS](http://www.rna-seqblog.com/feed/)
-
-["Statistical Modeling, Causal Inference, And Social Science" by Andrew Gelman](http://andrewgelman.com/), [RSS](http://andrewgelman.com/feed/)
-
-[Sebastian Raschka's Website](https://sebastianraschka.com/blog/index.html)
-
-[SEQanswers.com](http://SEQanswers.com), [RSS](http://feeds.feedburner.com/Seqanswers)
-
-[Simply Statistics](http://simplystatistics.org), [RSS](http://simplystatistics.org/feed/)
-
-[STHDA - Statistical tools for high-throughput data analysis](http://www.sthda.com/english/), [RSS](http://www.sthda.com/english/syndication/rss/wiki)
-
-[Tanagra - Data Mining and Data Science Tutorials](https://data-mining-tutorials.blogspot.com/)
-
-[The R Journal](http://journal.r-project.org), [RSS](http://journal.r-project.org/rss.atom)
-
-[The stupidest thing...](https://kbroman.wordpress.com), [RSS](http://kbroman.wordpress.com/feed/)
-
-["The Third Bit" by Greg Wilson from Software Carpentry](http://third-bit.com/), [RSS](http://third-bit.com/)
-
-["Statistical Thinking" by Frank Harrell](http://www.fharrell.com/), [RSS](http://www.fharrell.com/feeds/posts/default?alt=rss)
-
+- ["Statistical Thinking" by Frank Harrell](http://www.fharrell.com/), [RSS](http://www.fharrell.com/feeds/posts/default?alt=rss)
