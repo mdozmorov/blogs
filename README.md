@@ -15,7 +15,7 @@ This repository started as a collection of interesting RSS feeds of bioinformati
 
 - [BioIT Top Headlines](http://www.bio-itworld.com/bioit_top_headlines.aspx) - Biotech news from Bio-IT World
 
-- [Bits of DNA](https://liorpachter.wordpress.com) - Blog of Lior Pachter
+- [Bits of DNA](https://liorpachter.wordpress.com) - blog by Lior Pachter
 
 - [DataScience+](https://datascienceplus.com/) - R & Python data science news and tutorials
 
@@ -41,4 +41,4 @@ This repository started as a collection of interesting RSS feeds of bioinformati
 
 - [The Third Bit](http://third-bit.com/) - blog by Greg Wilson from Software Carpentry
 
-- ["Statistical Thinking" by Frank Harrell](http://www.fharrell.com/), [RSS](http://www.fharrell.com/feeds/posts/default?alt=rss)
+- [Statistical Thinking](http://www.fharrell.com/) - blog by Frank Harrell
