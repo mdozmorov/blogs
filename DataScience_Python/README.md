@@ -1,5 +1,7 @@
 - `awesome-bash` - A curated list of delightful Bash scripts and resources. https://github.com/awesome-lists/awesome-bash
 
+- `awesome-python` - A curated list of awesome Python frameworks, libraries, software and resources https://awesome-python.com/ and GitHub https://github.com/vinta/awesome-python
+
 - `awesome-python-talks` - An opinionated list of awesome videos related to Python, with a focus on training and gaining hands-on experience. https://github.com/jhermann/awesome-python-talks
 
 - `Best-websites-a-programmer-should-visit` - Some useful websites for programmers. [https://github.com/sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
