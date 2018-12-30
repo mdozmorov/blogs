@@ -43,6 +43,8 @@
 
 - `easy-tensorflow` - Simple and comprehensive tutorials in TensorFlow. GitHub, https://github.com/easy-tensorflow/easy-tensorflow, and the web site http://www.easy-tensorflow.com/
 
+- `janggu` - Janggu is a python package that facilitates deep learning in the context of genomics. FASTA/BAM/BIGWIG/BED/GFF as input, trained neural network for classification as an output. [https://github.com/BIMSBbioinfo/janggu](https://github.com/BIMSBbioinfo/janggu)
+
 - `google-interview-university` - List of ML/CS courses. A complete daily plan for studying to become a Google software engineer. [https://github.com/jwasham/google-interview-university](https://github.com/jwasham/google-interview-university)
 
 - `homemade-machine-learning` - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained. [https://github.com/trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
