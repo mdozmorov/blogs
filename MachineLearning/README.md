@@ -111,7 +111,11 @@
 
 - `useR-machine-learning-tutorial` - useR! 2016 Tutorial: Machine Learning Algorithmic Deep Dive. IPython notebooks running R kernel [https://github.com/ledell/useR-machine-learning-tutorial](https://github.com/ledell/useR-machine-learning-tutorial)
 
+- `Webinar_ML_for_disease` - Presentation slides and code for webinar: Building meaningful machine learning models for disease prediction, by [Shirin Glander](https://github.com/ShirinG). [https://github.com/ShirinG/Webinar_ML_for_disease](https://github.com/ShirinG/Webinar_ML_for_disease)
+
 - `workshop_keras_tensorflow_r` - Workshop: Building Neural Networks with Keras and TensorFlow in R, by [Shirin Glander](https://github.com/ShirinG). [https://github.com/ShirinG/workshop_keras_tensorflow_r](https://github.com/ShirinG/workshop_keras_tensorflow_r)
+
+
 
 ## Courses
 
