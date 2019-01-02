@@ -109,6 +109,8 @@
 
 - `useR-machine-learning-tutorial` - useR! 2016 Tutorial: Machine Learning Algorithmic Deep Dive. IPython notebooks running R kernel [https://github.com/ledell/useR-machine-learning-tutorial](https://github.com/ledell/useR-machine-learning-tutorial)
 
+- `workshop_keras_tensorflow_r` - Workshop: Building Neural Networks with Keras and TensorFlow in R, by [Shirin Glander](https://github.com/ShirinG). [https://github.com/ShirinG/workshop_keras_tensorflow_r](https://github.com/ShirinG/workshop_keras_tensorflow_r)
+
 
 ## Courses
 
