@@ -36,6 +36,8 @@
 
 - `DataScienceSpecialization` - Course materials for the Data Science Specialization from JHU folks. Detailed lectures on each topic. [https://github.com/DataScienceSpecialization/courses](https://github.com/DataScienceSpecialization/courses)
 
+- `ds-cheatsheets` - List of Data Science Cheatsheets to rule the world. Business, Python, R, Math and Calculus, Big Data, Machine Learning, Deep Learning, SQL, Data Visualization, Data Science. [https://github.com/FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
+
 - `efficientR` - Efficient R programming: a book by Colin Gillespie, [https://github.com/csgillespie/efficientR](https://github.com/csgillespie/efficientR)
 
 - `hopr` - Hands-On Programming with R, a book that teaches how to program in R, with hands-on examples. GitHub [https://github.com/rstudio-education/hopr](https://github.com/rstudio-education/hopr). Read the book at [https://rstudio-education.github.io/hopr](https://rstudio-education.github.io/hopr)
