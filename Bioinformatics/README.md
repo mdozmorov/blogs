@@ -100,6 +100,8 @@
 
 - `single-cell-pseudotime` - Single-cell RNA-seq pseudotime estimation algorithms, comprehensive collection of links to software and accompanying papers. https://github.com/agitter/single-cell-pseudotime
 
+- `Statistical_Genetics_Book` - Statistical genetics book, by [Shirin Glander](https://github.com/ShirinG). [https://github.com/ShirinG/Statistical_Genetics_Book](https://github.com/ShirinG/Statistical_Genetics_Book)
+
 - `stats337` - Readings in Applied Data Science, collection of papers assembled by Hadley Wickham, [https://github.com/hadley/stats337](https://github.com/hadley/stats337)
 
 - `workshops` - Material for the THRIV Biomedical Data Science 2018 course by Stephen Turner [https://github.com/stephenturner/workshops](https://github.com/stephenturner/workshops), web site [https://thriv.github.io/biodatasci2018/](https://thriv.github.io/biodatasci2018/)
