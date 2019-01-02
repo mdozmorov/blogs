@@ -67,6 +67,8 @@
 
 - `ML_for_Hackers` - Code accompanying the book "Machine Learning for Hackers" [https://github.com/johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers)
 
+- `ml_techniques` - R code for performing typical ML tasks and techniques, e.g., naive Bayes, random forest. [https://github.com/ShirinG/ml_techniques](https://github.com/ShirinG/ml_techniques)
+
 - `ML-From-Scratch` - Bare bones Python implementations of some of the fundamental Machine Learning models and algorithms. [https://github.com/eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 
 - `mlcourse_open` - OpenDataScience Machine Learning course (Both in English and Russian). Python-based ML course, with video lectures. https://github.com/Yorko/mlcourse_open, text (eng) https://medium.com/open-machine-learning-course, video https://www.youtube.com/playlist?list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl
