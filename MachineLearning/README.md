@@ -49,6 +49,8 @@
 
 - `homemade-machine-learning` - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained. [https://github.com/trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
 
+- `image_classification_keras_tf` - Workshop material for Image Classification & Natural Language Processing with Python, Keras and TensorFlow, by [Shirin Glander](https://github.com/ShirinG). [https://github.com/ShirinG/image_classification_keras_tf](https://github.com/ShirinG/image_classification_keras_tf)
+
 - `keras` - Deep Learning for humans [http://keras.io/](http://keras.io/), [https://github.com/keras-team/keras](https://github.com/keras-team/keras)
 
 - `keras-workshop` - Data and scripts for keras course, [https://github.com/MangoTheCat/keras-workshop](https://github.com/MangoTheCat/keras-workshop)
@@ -110,7 +112,6 @@
 - `useR-machine-learning-tutorial` - useR! 2016 Tutorial: Machine Learning Algorithmic Deep Dive. IPython notebooks running R kernel [https://github.com/ledell/useR-machine-learning-tutorial](https://github.com/ledell/useR-machine-learning-tutorial)
 
 - `workshop_keras_tensorflow_r` - Workshop: Building Neural Networks with Keras and TensorFlow in R, by [Shirin Glander](https://github.com/ShirinG). [https://github.com/ShirinG/workshop_keras_tensorflow_r](https://github.com/ShirinG/workshop_keras_tensorflow_r)
-
 
 ## Courses
 
