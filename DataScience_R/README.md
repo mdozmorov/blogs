@@ -36,6 +36,8 @@
 
 - `DataScienceSpecialization` - Course materials for the Data Science Specialization from JHU folks. Detailed lectures on each topic. [https://github.com/DataScienceSpecialization/courses](https://github.com/DataScienceSpecialization/courses)
 
+- `dataviz-course-archive` - Archive of lesson material from an online course at Worcester Polytechnic Institute, vith videos. GitHub, https://github.com/curran/dataviz-course-archive, course web site, https://curran.github.io/dataviz-course-archive/
+
 - `ds-cheatsheets` - List of Data Science Cheatsheets to rule the world. Business, Python, R, Math and Calculus, Big Data, Machine Learning, Deep Learning, SQL, Data Visualization, Data Science. [https://github.com/FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
 
 - `efficientR` - Efficient R programming: a book by Colin Gillespie, [https://github.com/csgillespie/efficientR](https://github.com/csgillespie/efficientR)
