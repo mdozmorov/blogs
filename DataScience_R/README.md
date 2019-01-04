@@ -48,6 +48,8 @@
 
 - `IntroDataSci` - "CMSC320: Introduction to Data Science" course by Hector Corrada Bravo, https://github.com/hcorrada/IntroDataSci
 
+- `MLPB` - Machine Learning Problem Bible, problems and solutions in R. https://github.com/ben519/MLPB
+
 - `master-the-tidyverse` - the Master the Tidyverse Workshop, `tidyverse`-oriented tutorials. Workshop itself [https://github.com/rstudio-education/master-the-tidyverse/](https://github.com/rstudio-education/master-the-tidyverse/) and instructor's material [https://github.com/rstudio-education/master-the-tidyverse-instructors](https://github.com/rstudio-education/master-the-tidyverse-instructors)
 
 - `moderndive_book` - ModernDive: An Introduction to Statistical and Data Sciences via R. GitHub [https://github.com/moderndive/moderndive_book](https://github.com/moderndive/moderndive_book) and bookdown [http://www.moderndive.com/](http://www.moderndive.com/)
