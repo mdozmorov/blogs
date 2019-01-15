@@ -86,6 +86,8 @@
 
 # Misc
 
+- John DeNero 2017, Data 8: The Foundation of Data Science course, Berkeley. http://data8.org/sp17/
+
 - List of courses teaching R, [https://github.com/rstudio-education/rstats-ed](https://github.com/rstudio-education/rstats-ed)
 
 - "Text Mining with R", by Julia Silge and David Robinson, http://tidytextmining.com/
