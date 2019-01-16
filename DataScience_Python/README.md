@@ -26,6 +26,8 @@
 
 ## Python
 
+- "PY4E, Python for Everybody, Exploring Data In Python 3" - book providing an Informatics-oriented introduction to programming, with videos, https://www.py4e.com/
+
 - Intermediate Python [https://github.com/yasoob/intermediatePython](https://github.com/yasoob/intermediatePython), [review with references to other e-books](http://www.blog.pythonlibrary.org/2015/09/02/ebook-review-intermediate-python/)
 - List of links to Python learning resources [Further Reading: Intermediate Python Resources](http://inventwithpython.com/blog/2015/09/01/further-reading-intermediate-python-resources/)
 - Intro to Python for Data Science, free DataCamp course [https://www.datacamp.com/courses/intro-to-python-for-data-science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
