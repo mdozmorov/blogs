@@ -12,6 +12,8 @@
 
 - `bigdataclass2018` - Big Data with R class by RStudio, [https://github.com/rstudio/bigdataclass2018](https://github.com/rstudio/bigdataclass2018)
 
+- `Bioinformatics-Resources` - A curated list of resources for learning bioinformatics, from technologies, tools, educational material, to skills, people, blogs. [https://github.com/JhuangLab/Bioinformatics-Resources](https://github.com/JhuangLab/Bioinformatics-Resources)
+
 - `biostat561` - Computational Skills for Biostatistics, from version control, R programming, ggplot, shiny, to Unix, LaTeX, Markdown, Python. https://github.com/adw96/biostat561
 
 - `cheatsheets` - RStudio Cheat Sheets, pdfs, PowerPoint, Keynote formats, [https://github.com/rstudio/cheatsheets](https://github.com/rstudio/cheatsheets). Also, here, [https://www.rstudio.com/resources/cheatsheets/](https://www.rstudio.com/resources/cheatsheets/)
