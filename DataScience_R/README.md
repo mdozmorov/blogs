@@ -81,6 +81,8 @@
 
 - `stat133-cheatsheets` - Cheat sheets on R, tidyverse, shiny, git, and more, [https://github.com/ucb-stat133/stat133-cheatsheets](https://github.com/ucb-stat133/stat133-cheatsheets)
 
+- `teach-r` - List of Resources for Teaching R. https://github.com/coatless/teach-r
+
 - `Tools4RR` - Tools for reproducible research by Karl Broman [http://kbroman.org/Tools4RR/](http://kbroman.org/Tools4RR/), [Schedule](http://kbroman.org/Tools4RR/pages/schedule.html), [lots of educational links](http://kbroman.org/Tools4RR/pages/resources.html), [Git repository](https://github.com/kbroman/Tools4RR/tree/master)
 
 - `user2016-tutorial-shiny` - Shiny tutorial, https://github.com/gaborcsardi/user2016-tutorial-shiny
