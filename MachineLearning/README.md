@@ -125,6 +125,8 @@
 
 ## Misc
 
+- "Three Must-Own Books for Deep Learning Practitioners" by Jason Brownlee, https://machinelearningmastery.com/books-for-deep-learning-practitioners/
+
 - "Code for Workshop: Introduction to Machine Learning with R" by Shirin Glander. [https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/). More in her blog posts, twitter etc. [https://shirinsplayground.netlify.com/](https://shirinsplayground.netlify.com/)
 
 - "ML Resources" - machine learning resources, organized into categories with comments about each resouce by Samuel Finlayson. Courses, textbooks, statistics, deep/reinforcement learning, programming, more. https://sgfin.github.io/learning-resources/
