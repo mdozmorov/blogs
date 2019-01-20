@@ -62,6 +62,8 @@
 
 - `psych10-book` - Source files for Statistical Thinking For the 21st Century, [https://github.com/poldrack/psych10-book](https://github.com/poldrack/psych10-book), the book itself, [http://thinkstats.org/](http://thinkstats.org/)
 
+- `RAMR-R-Course` - R (BGU course) by Jonathan D. Rosenblatt. From R basics to regression, machine learning, graphics, shiny, advanced computing. GitHub, https://github.com/johnros/RAMR-R-Course, bookdown, http://www.john-ros.com/Rcourse/
+
 - `og-aws` - Amazon Web Services — a practical guide [https://github.com/open-guides/og-aws](https://github.com/open-guides/og-aws)
 
 - `GCB` - machine learning course by Casey Greene, https://github.com/greenelab/GCB535
