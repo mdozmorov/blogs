@@ -74,6 +74,8 @@
 
 - `rprogdatascience` -  "R Programming for Data Science" by Roger Peng. [https://leanpub.com/rprogramming](https://leanpub.com/rprogramming) and DIY version on GitHub [https://github.com/rdpeng/rprogdatascience/]
 
+- `shiny-book` - "Mastering Shiny" book by Joe Cheng, `./_build.sh` to build it. https://github.com/jcheng5/shiny-book
+
 - `SISBID` - several modules covering various aspects of data science. Summer Institute in Statistics for Big Data 
     - `Module 1` - https://github.com/SISBID/Module1. Big Data
     - `Module 2` - https://github.com/SISBID/Module2. Visualization of Biomedical Big Data
