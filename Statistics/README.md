@@ -64,6 +64,8 @@
 
 ## Books
 
+- "Modern Statistics for Modern Biology" book by Susan Holmes and Wolfgang Huber. Data and code provided. https://www.huber.embl.de/msmb/index.html
+
 - "Causal Inference Book" by Miguel Hernan and  Jamie Robins. [https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
 
 - "A Bayesian Course with Examples in R and Stan" book sample, http://xcelab.net/rm/statistical-rethinking/. Link to the full video lectures on the topic, https://www.youtube.com/playlist?list=PLDcUM9US4XdMdZOhJWJJD4mDBMnbTWw_z
