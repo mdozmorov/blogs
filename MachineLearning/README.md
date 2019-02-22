@@ -125,6 +125,8 @@
 
 ## Misc
 
+- "Interpretable Machine Learning" book by Christoph Molnar, A Guide for Making Black Box Models Explainable. https://christophm.github.io/interpretable-ml-book/, https://leanpub.com/interpretable-machine-learning
+
 - "Three Must-Own Books for Deep Learning Practitioners" by Jason Brownlee, https://machinelearningmastery.com/books-for-deep-learning-practitioners/
 
 - "Code for Workshop: Introduction to Machine Learning with R" by Shirin Glander. [https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/). More in her blog posts, twitter etc. [https://shirinsplayground.netlify.com/](https://shirinsplayground.netlify.com/)
