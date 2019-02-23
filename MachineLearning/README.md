@@ -4,6 +4,8 @@
 
 - `algorithms_in_ipython_notebooks` - A repository with IPython notebooks of algorithms implemented in Python. [https://github.com/rasbt/algorithms_in_ipython_notebooks](https://github.com/rasbt/algorithms_in_ipython_notebooks)
 
+- `aml-training` - The most recent version of the Applied Machine Learning notes, related to the [parsnip R package](https://github.com/tidymodels/parsnip) by Max Kuhn, https://github.com/tidymodels/aml-training
+
 - `awesome-courses` - List of awesome university courses for learning Computer Science. https://github.com/prakhar1989/awesome-courses
 
 - `awesome-deep-learning` - A curated list of awesome Deep Learning tutorials, projects and communities. [https://github.com/ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
