@@ -124,6 +124,8 @@
 - "Machine Learning" course CD4780/CS5780 by Thorsten Joachims, Cornell Univerisity. Videos and slides. [http://machine-learning-course.joachims.org/(http://machine-learning-course.joachims.org/
 )]
 
+- Series of eight video lectures on the math of machine learning by Tinnam Ganesh. "Elements of Neural Networks & Deep Learning", [Part1,2,3](https://gigadom.in/2019/01/10/my-presentations-on-elements-of-neural-networks-deep-learning-part123/), [Parts 4,5](https://gigadom.in/2019/01/15/my-presentations-on-elements-of-neural-networks-deep-learning-parts-45/), [Parts 6,7,8](https://gigadom.in/2019/01/20/my-presentations-on-elements-of-neural-networks-deep-learning-parts-678/)
+
 
 ## Misc
 
