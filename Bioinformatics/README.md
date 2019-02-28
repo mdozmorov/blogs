@@ -137,6 +137,10 @@
 
 # Misc
 
+- List of software packages for multi-omics analysis. https://github.com/mikelove/awesome-multi-omics
+
+- Figure depicting the breadth of multimodal scRNA-seq technologies. https://github.com/arnavm/multimodal-scRNA-seq
+
 - List of existing genome analysis plaforms - https://docs.google.com/spreadsheets/d/1o8iYwYUy0V7IECmu21Und3XALwQihioj23WGv-w0itk/pubhtml
 
 - Beginner's Handbook to Next Generation Sequencing by GenoHub - https://genohub.com/next-generation-sequencing-handbook/
