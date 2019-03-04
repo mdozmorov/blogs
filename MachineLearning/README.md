@@ -29,6 +29,8 @@
 
 - `Deep_learning_examples` - Examples of using deep learning in Bioinformatics. https://github.com/lykaust15/Deep_learning_examples. Paper: Min, Seonwoo, Byunghan Lee, and Sungroh Yoon. “Deep Learning in Bioinformatics.” Briefings in Bioinformatics, July 29, 2016, bbw068. https://doi.org/10.1093/bib/bbw068.
 
+- `deep_learning_papers` - A place to collect papers that are related to deep learning and computational biology, by Harold Pimentel. https://github.com/pimentel/deep_learning_papers
+
 - `deep-learning-genomics-primer` - Deep Learning Genomics Primer, [https://github.com/abidlabs/deep-learning-genomics-primer](https://github.com/abidlabs/deep-learning-genomics-primer)
 
 - `Deep-Learning-Papers-Reading-Roadmap` - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! [https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
