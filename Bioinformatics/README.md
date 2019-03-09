@@ -137,6 +137,8 @@
 
 # Misc
 
+- Orchestrating Single-Cell Analysis with Bioconductor, online book by Robert Amezquita and Stephanie Hicks. https://bioconductor.github.io/OrchestratingSingleCellAnalysis/
+
 - List of software packages for multi-omics analysis. https://github.com/mikelove/awesome-multi-omics
 
 - Figure depicting the breadth of multimodal scRNA-seq technologies. https://github.com/arnavm/multimodal-scRNA-seq
