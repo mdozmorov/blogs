@@ -94,6 +94,8 @@
 
 # Misc
 
+- The learnr tutorials in RStudio Cloud's primers, https://github.com/rstudio-education/primers, avaliable on RStudio Cloud, https://rstudio.cloud/projects
+
 - "Fundamentals of Data Visualization" book by Claus O. Wilke, https://serialmentor.com/dataviz/
 
 - John DeNero 2017, Data 8: The Foundation of Data Science course, Berkeley. http://data8.org/sp17/
