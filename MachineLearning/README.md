@@ -23,6 +23,8 @@
 - `courses` - Practical Deep Learning for Coders (fast.ai courses). https://github.com/fastai/courses. The course web site http://course.fast.ai/index.html all material and video lectures
     - `fastai` - The fastai deep learning library, plus lessons and and tutorials. https://github.com/fastai/fastai. Video lectures: Introduction to Machine Learning for Coders, https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96, Practical Deep Learning For Coders 1, https://www.youtube.com/playlist?list=PLfYUBJiXbdtS2UQRzyrxmyVHoGW0gmLSM, Cutting Edge Deep Learning for Coders 2, https://www.youtube.com/watch?v=Z0ssNAbe81M&list=PLfYUBJiXbdtTttBGq-u2zeY1OTjs5e-Ia
 
+- `cs-video-courses` - List of Computer Science courses with video lectures. https://github.com/Developer-Y/cs-video-courses
+
 - `DALEX` - DALEX: Descriptive mAchine Learning EXplanations. In R. Very well-organized material on machine learning in R, with links to many texts and tutoriald. [https://github.com/pbiecek/DALEX](https://github.com/pbiecek/DALEX)
 
 - `Data-R-Value` - Data and material for the "Data R Value" blog [https://datarvalue.blogspot.mx/](https://datarvalue.blogspot.mx/), GitHub [https://github.com/pakinja/Data-R-Value](https://github.com/pakinja/Data-R-Value)
