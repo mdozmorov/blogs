@@ -20,6 +20,7 @@
 
 - `Scientific_graphics_in_python` - Scientific graphics in Python. [https://github.com/whitehorn/Scientific_graphics_in_python](https://progeoru.blogspot.ru/2015/09/python.html) (RUS)
 
+- `the-art-of-command-line` - Master the command line, in one page. Advanced. https://github.com/jlevy/the-art-of-command-line
 
 
 # Programming tutorials and e-books
