@@ -42,6 +42,8 @@
 
 - `ds-cheatsheets` - List of Data Science Cheatsheets to rule the world. Business, Python, R, Math and Calculus, Big Data, Machine Learning, Deep Learning, SQL, Data Visualization, Data Science. [https://github.com/FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
 
+- `ds4stats` - Data Science for Statisticians Workshop. Tidyverse, Data wrangling, visualization, ggplot2, machine learning. Rmds, lab exercises, links to readi-to-view lectures. https://github.com/rafalab/ds4stats
+
 - `efficientR` - Efficient R programming: a book by Colin Gillespie, [https://github.com/csgillespie/efficientR](https://github.com/csgillespie/efficientR)
 
 - `hopr` - Hands-On Programming with R, a book that teaches how to program in R, with hands-on examples. GitHub [https://github.com/rstudio-education/hopr](https://github.com/rstudio-education/hopr). Read the book at [https://rstudio-education.github.io/hopr](https://rstudio-education.github.io/hopr)
