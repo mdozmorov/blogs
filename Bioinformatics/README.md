@@ -44,6 +44,10 @@
 
 - `comp-genomics-class` - Computational genomics, algorithms, by Ben Langmead. In Python. [https://github.com/BenLangmead/comp-genomics-class](https://github.com/BenLangmead/comp-genomics-class)
 
+- `compbio_src` - Introduction to Computational Biology - source Rmarkdown files. https://github.com/biodatascience/compbio_src, web-site, https://biodatascience.github.io/compbio/
+
+- `statcomp_src` - Statistical Computing - source Rmarkdown files. https://github.com/biodatascience/statcomp_src, web-site, https://biodatascience.github.io/statcomp/
+
 - `CSE549` - CSE 549 - Introduction to Computational Biology by Steven Skiena. Includes video lectures. [http://www3.cs.stonybrook.edu/~skiena/549/](http://www3.cs.stonybrook.edu/~skiena/549/)
 
 - `deeplearning-biology` - A list of deep learning implementations in biology [https://github.com/hussius/deeplearning-biology](https://github.com/hussius/deeplearning-biology)
