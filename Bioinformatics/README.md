@@ -14,6 +14,8 @@
 
 - `awesome-cancer-variant-databases` - A community-maintained repository of cancer clinical knowledge bases and databases focused on cancer variants. https://github.com/seandavi/awesome-cancer-variant-databases
 
+- `awesome-expression-browser` - A curated list of software and resources for exploring and visualizing (browsing) expression data, and more. https://github.com/federicomarini/awesome-expression-browser
+
 - `awesome-deepbio` - A curated list of awesome deep learning applications in the field of computational biology. https://github.com/gokceneraslan/awesome-deepbio
 
 - `awesome-microbes` - List of software packages (and the people developing these methods) for microbiome (16S), metagenomics (WGS, Shot-gun sequencing), and pathogen identification/detection/characterization. [https://github.com/stevetsa/awesome-microbes](https://github.com/stevetsa/awesome-microbes)
