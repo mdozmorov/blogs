@@ -2,6 +2,8 @@
 
 - `2016` - "Introduction to Data Science" by Rafael Irizarry and Stephanie Hicks, [https://datasciencelabs.github.io/index.html](https://datasciencelabs.github.io/index.html) and [https://github.com/datasciencelabs/2016](https://github.com/datasciencelabs/2016). Data for the course is at [https://github.com/datasciencelabs/data](https://github.com/datasciencelabs/data)
 
+- `autoEDA-resources` - A list of software and papers related to automatic/fast Exploratory Data Analysis. https://github.com/mstaniak/autoEDA-resources
+
 - `awesome-docker` - A curated list of Docker resources and projects. Web-site [https://awesome-docker.netlify.com/](https://awesome-docker.netlify.com/, and GitHub [https://github.com/veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)
 
 - `awesome-pipeline` - A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin. [https://github.com/pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline)
