@@ -15,6 +15,8 @@
 
 - `idem_viz` - Materials for the course IDEM 181 "Visualizing Data", [https://github.com/jschoeley/idem_viz](https://github.com/jschoeley/idem_viz)
 
+- `learn-python3` - Jupyter notebooks for teaching/learning Python 3. https://github.com/jerry-git/learn-python3
+
 - `quick-SQL-cheatsheet` - A quick reminder of all SQL queries and examples on how to use them. https://github.com/enochtangg/quick-SQL-cheatsheet
 
 - `RProgrammingForResearch` - course notes for R Programming for Research. R learning from ground up to tidyverse, with lectures, homeworks, data, source files. https://github.com/geanders/RProgrammingForResearch

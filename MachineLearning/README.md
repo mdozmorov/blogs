@@ -27,7 +27,7 @@
 
 - `cs-video-courses` - List of Computer Science courses with video lectures. https://github.com/Developer-Y/cs-video-courses
 
-- `DALEX` - DALEX: Descriptive mAchine Learning EXplanations. In R. Very well-organized material on machine learning in R, with links to many texts and tutoriald. [https://github.com/pbiecek/DALEX](https://github.com/pbiecek/DALEX)
+- `DALEX` - DALEX: Descriptive mAchine Learning EXplanations. In R. Very well-organized material on machine learning in R, with links to many texts and tutorials. [https://github.com/pbiecek/DALEX](https://github.com/pbiecek/DALEX)
 
 - `Data-R-Value` - Data and material for the "Data R Value" blog [https://datarvalue.blogspot.mx/](https://datarvalue.blogspot.mx/), GitHub [https://github.com/pakinja/Data-R-Value](https://github.com/pakinja/Data-R-Value)
 
