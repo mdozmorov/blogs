@@ -56,6 +56,8 @@
 
 - `deeplearning-biology` - A list of deep learning implementations in biology [https://github.com/hussius/deeplearning-biology](https://github.com/hussius/deeplearning-biology)
 
+- `DIYtranscriptomics.github.io` - Course material for the "do-it-yourself" RNA-seq course, by Daniel Beiting. https://github.com/DIYtranscriptomics/DIYtranscriptomics.github.io, http://diytranscriptomics.com/
+
 - `DNA-seq-analysis` - Notes on whole exome and whole genome sequencing analysis. [https://github.com/crazyhottommy/DNA-seq-analysis](https://github.com/crazyhottommy/DNA-seq-analysis)
 
 - `DS_for_S` - Materials for March 12 ENAR short course on Data Science for Statisticians. [https://github.com/AmeliaMN/DS_for_S](https://github.com/AmeliaMN/DS_for_S)
