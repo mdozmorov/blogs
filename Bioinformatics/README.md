@@ -149,6 +149,8 @@
 
 # Misc
 
+- Computational Genomics With R, online book by Altuna Akalin. http://compgenomr.github.io/book/, https://github.com/compgenomr/book
+
 - Orchestrating Single-Cell Analysis with Bioconductor, online book by Robert Amezquita and Stephanie Hicks. https://bioconductor.github.io/OrchestratingSingleCellAnalysis/
 
 - List of software packages for multi-omics analysis. https://github.com/mikelove/awesome-multi-omics
