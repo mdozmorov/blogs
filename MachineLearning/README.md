@@ -57,6 +57,8 @@
 
 - `google-interview-university` - List of ML/CS courses. A complete daily plan for studying to become a Google software engineer. [https://github.com/jwasham/google-interview-university](https://github.com/jwasham/google-interview-university)
 
+- `hands-on-machine-learning-with-r` - Hands-on Machine Learning with R: An applied book covering the fundamentals of machine learning with R. http://bit.ly/HOML_with_R, https://github.com/koalaverse/hands-on-machine-learning-with-r
+
 - `homemade-machine-learning` - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained. [https://github.com/trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
 
 - `image_classification_keras_tf` - Workshop material for Image Classification & Natural Language Processing with Python, Keras and TensorFlow, by [Shirin Glander](https://github.com/ShirinG). [https://github.com/ShirinG/image_classification_keras_tf](https://github.com/ShirinG/image_classification_keras_tf)
