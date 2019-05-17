@@ -61,6 +61,8 @@
 
 ## Videos
 
+- MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018, by Gilbert Strang, https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k
+
 - "A Student's Guide to Bayesian Statistics", by Ben Lambert https://www.youtube.com/playlist?list=PLwJRxp3blEvZ8AKMXOy0fc0cqT61GsKCG. More Bayesian Class Videos, https://discourse.mc-stan.org/t/bayesian-class-videos/3173
 
 - Statistical inference for data science, Brian Caffo. Full book on [http://rpubs.com/cbchisanga/143127](http://rpubs.com/cbchisanga/143127), videos on [https://www.youtube.com/watch?v=WkOinijQmPU&list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ](https://www.youtube.com/watch?v=WkOinijQmPU&list=PLpl-gQkQivXiBmGyzLrUjzsblmQsLtkzJ), GitHub version on [https://github.com/bcaffo/LittleInferenceBook](https://github.com/bcaffo/LittleInferenceBook)
