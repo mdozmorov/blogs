@@ -69,6 +69,8 @@
 
 - `lares` - R Library for Analytics and Machine Learning, [https://github.com/laresbernardo/lares](https://github.com/laresbernardo/lares)
 
+- `Machine-learning-for-proteins` - Listing of papers about machine learning for proteins. https://github.com/yangkky/Machine-learning-for-proteins
+
 - `Machine-Learning-in-R` - 4-hour tutorial on machine learning in R: knn, OLS, decision trees, random forest, gbm, superlearner, [https://github.com/dlab-berkeley/Machine-Learning-in-R](https://github.com/dlab-berkeley/Machine-Learning-in-R)
 
 - `lm` - "Advanced linear models for data science" book by Brian Caffo [https://github.com/bcaffo/lm](https://github.com/bcaffo/lm). Compile the pdf with `pdflatex main.tex`
