@@ -97,6 +97,8 @@
 
 - `neural-networks-and-deep-learning` - Code samples for "Neural Networks and Deep Learning" book available at [http://neuralnetworksanddeeplearning.com/](http://neuralnetworksanddeeplearning.com/), code at [https://github.com/mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
+- `neuralart_tensorflow` - Implementation of "A Neural Algorithm of Artistic Style" by Tensorflow. https://github.com/ckmarkoh/neuralart_tensorflow
+
 - `nn-from-scratch` - Implementing a Neural Network from Scratch – An Introduction. [http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/) and [https://github.com/dennybritz/nn-from-scratch](https://github.com/dennybritz/nn-from-scratch)
 
 - `pathology_learning` - Using traditional machine learning and deep learning methods to predict stuff from TCGA pathology slides. [https://github.com/millett/pathology_learning](https://github.com/millett/pathology_learning)
