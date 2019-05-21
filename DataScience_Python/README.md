@@ -1,3 +1,14 @@
+# Data science in Python
+
+# Table of content
+
+* [Repositories](#repositories)
+* [Books](#books)
+* [Videos](#videos)
+* [Misc](#misc)
+
+## Repositories
+
 - `awesome-bash` - A curated list of delightful Bash scripts and resources. https://github.com/awesome-lists/awesome-bash
 
 - `awesome-programming-books` - Awesome Programming Books. https://github.com/majikarp/awesome-programming-books
@@ -26,9 +37,7 @@
 - `the-art-of-command-line` - Master the command line, in one page. Advanced. https://github.com/jlevy/the-art-of-command-line
 
 
-# Programming tutorials and e-books
-
-## Python
+## Books
 
 - "PY4E, Python for Everybody, Exploring Data In Python 3" - book providing an Informatics-oriented introduction to programming, with videos, https://www.py4e.com/
 

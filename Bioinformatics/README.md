@@ -1,5 +1,13 @@
 # Bioinformatics
 
+# Table of content
+
+* [Repositories](#repositories)
+* [Videos](#videos)
+* [Misc](#misc)
+
+## Repositories
+
 - `ads1-slides` - Ben Langmead's Slides for Algorithms for DNA Sequencing Coursera class. [https://github.com/BenLangmead/ads1-slides.git](https://github.com/BenLangmead/ads1-slides.git). The complete class is at [http://www.langmead-lab.org/teaching-materials/](http://www.langmead-lab.org/teaching-materials/)
 
 - `alignment-and-variant-calling-tutorial` - basic walk-throughs for alignment and variant calling from NGS sequencing data, by Erik Garrison. [https://github.com/ekg/alignment-and-variant-calling-tutorial](https://github.com/ekg/alignment-and-variant-calling-tutorial)
@@ -129,7 +137,7 @@
 
 - `RNA-seq_workflow.pdf` - SummarizedExperiment and RNA-seq data manipulation in Bioconductor, https://www.bioconductor.org/help/course-materials/2017/OMRF/B3_RNASeq_Workflow.html
 
-# Videos
+## Videos
 
 - `Bioconductor Workshop 2: RNA Seq and ChIP Seq Analysis` - 6 hours workshop on RNA-seq and ChIP-seq technology and analysis by Levi Waldron and others. https://www.youtube.com/watch?v=J9LNYhhNhrk
 
@@ -147,7 +155,7 @@
 
 - "RNA-Seq Methods and Algorithms" short video course by Harold Pimentel, pseudoalignment, kallisto, sleuth, practical. [https://www.youtube.com/watch?v=96yBPM8lEt8&list=PLfFNmoa-yUIb5cYG2R1zf5rtrQQKZvKwG](https://www.youtube.com/watch?v=96yBPM8lEt8&list=PLfFNmoa-yUIb5cYG2R1zf5rtrQQKZvKwG)
 
-# Misc
+## Misc
 
 - Computational Genomics With R, online book by Altuna Akalin. http://compgenomr.github.io/book/, https://github.com/compgenomr/book
 

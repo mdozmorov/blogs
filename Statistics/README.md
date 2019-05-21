@@ -1,5 +1,15 @@
 # Statistics, data analysis tutorials and learning resources
 
+# Table of content
+
+* [Repositories](#repositories)
+* [Courses](#courses)
+* [Videos](#videos)
+* [Books](#books)
+* [Misc](#misc)
+
+## Repositories
+
 - `bayesian-basics` - Bayesian data analysis introduction. [https://m-clark.github.io/bayesian-basics/](https://m-clark.github.io/bayesian-basics/), [https://github.com/m-clark/bayesian-basics](https://github.com/m-clark/bayesian-basics)
 
 - `brr` - "Biostatistics for Biomedical Research" by Frank Harrell, the creator of `Hmisc` package and many more. [https://github.com/harrelfe/bbr](https://github.com/harrelfe/bbr)

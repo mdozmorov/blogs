@@ -1,5 +1,14 @@
 # Machine learning and deep learning resources
 
+# Table of content
+
+* [Repositories](#repositories)
+* [Courses](#courses)
+* [Videos](#videos)
+* [Misc](#misc)
+
+## Repositories
+
 - `100-Days-Of-ML-Code` - 100 Days of Machine Learning Coding as proposed by Siraj Raval. Illustrated step-by-step guides with code and data. Links to videos. [https://github.com/Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
 - `algorithms_in_ipython_notebooks` - A repository with IPython notebooks of algorithms implemented in Python. [https://github.com/rasbt/algorithms_in_ipython_notebooks](https://github.com/rasbt/algorithms_in_ipython_notebooks)
@@ -145,6 +154,27 @@
 - Series of eight video lectures on the math of machine learning by Tinnam Ganesh. "Elements of Neural Networks & Deep Learning", [Part1,2,3](https://gigadom.in/2019/01/10/my-presentations-on-elements-of-neural-networks-deep-learning-part123/), [Parts 4,5](https://gigadom.in/2019/01/15/my-presentations-on-elements-of-neural-networks-deep-learning-parts-45/), [Parts 6,7,8](https://gigadom.in/2019/01/20/my-presentations-on-elements-of-neural-networks-deep-learning-parts-678/)
 
 
+## Video
+
+- [Coursera] Neural Networks for Machine Learning — Geoffrey Hinton 2016. Video course of short lectures introducing theoretical foundations of machine learning. [https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
+
+- Introduction to Deep Learning - Deep Learning basics with Python, TensorFlow and Keras p.1. Includes code and video tutorial. [https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/)
+
+- "Undergraduate machine learning at UBC 2012" by Nando de Freitas, video lectures, [https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf&feature=view_all](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf&feature=view_all) and slides, [http://www.cs.ubc.ca/~nando/340-2012/lectures.php](http://www.cs.ubc.ca/~nando/340-2012/lectures.php)
+
+ -"Deep learning at Oxford 2015" by Nando de Freitas, video lectures, [https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) and slides, [https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+
+- "Learning from data" - machine learning course from Caltech, taught by Feynman Prize winner Professor Yaser Abu-Mostafa. [https://work.caltech.edu/lectures.html#lectures](https://work.caltech.edu/lectures.html#lectures)
+
+- Statistical Machine Learning: Spring 2017, by Ryan Tibshirani, Larry Wasserman, Carnegie Mellon University. [http://www.stat.cmu.edu/~ryantibs/statml/](http://www.stat.cmu.edu/~ryantibs/statml/)
+
+- `DATASCIENCE.COM` - many machine learning/data science resources, videos. [https://datascience.hubs.vidyard.com/](https://datascience.hubs.vidyard.com/)
+
+- "Heroes of Deep Learning, Interviews," by Andrew Ng. [https://www.youtube.com/playlist?list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR](https://www.youtube.com/playlist?list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR)
+
+- "Advanced Deep Learning & Reinforcement Learning", a video-course on deep RL taught at @UCL by DeepMind researchers, https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
+
+
 ## Misc
 
 - "Interpretable Machine Learning" book by Christoph Molnar, A Guide for Making Black Box Models Explainable. https://christophm.github.io/interpretable-ml-book/, https://leanpub.com/interpretable-machine-learning
@@ -175,22 +205,3 @@
 
 - Key Papers in Deep Reinforcement Learning, https://spinningup.openai.com/en/latest/spinningup/keypapers.html. [source](https://twitter.com/strnr/status/1110172093155627008?s=03)
 
-## Video
-
-- [Coursera] Neural Networks for Machine Learning — Geoffrey Hinton 2016. Video course of short lectures introducing theoretical foundations of machine learning. [https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
-
-- Introduction to Deep Learning - Deep Learning basics with Python, TensorFlow and Keras p.1. Includes code and video tutorial. [https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/)
-
-- "Undergraduate machine learning at UBC 2012" by Nando de Freitas, video lectures, [https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf&feature=view_all](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf&feature=view_all) and slides, [http://www.cs.ubc.ca/~nando/340-2012/lectures.php](http://www.cs.ubc.ca/~nando/340-2012/lectures.php)
-
- -"Deep learning at Oxford 2015" by Nando de Freitas, video lectures, [https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) and slides, [https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
-
-- "Learning from data" - machine learning course from Caltech, taught by Feynman Prize winner Professor Yaser Abu-Mostafa. [https://work.caltech.edu/lectures.html#lectures](https://work.caltech.edu/lectures.html#lectures)
-
-- Statistical Machine Learning: Spring 2017, by Ryan Tibshirani, Larry Wasserman, Carnegie Mellon University. [http://www.stat.cmu.edu/~ryantibs/statml/](http://www.stat.cmu.edu/~ryantibs/statml/)
-
-- `DATASCIENCE.COM` - many machine learning/data science resources, videos. [https://datascience.hubs.vidyard.com/](https://datascience.hubs.vidyard.com/)
-
-- "Heroes of Deep Learning, Interviews," by Andrew Ng. [https://www.youtube.com/playlist?list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR](https://www.youtube.com/playlist?list=PLfsVAYSMwsksjfpy8P2t_I52mugGeA5gR)
-
-- "Advanced Deep Learning & Reinforcement Learning", a video-course on deep RL taught at @UCL by DeepMind researchers, https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs

@@ -1,4 +1,11 @@
-# `Courses_DataScience`
+# Data science in R
+
+# Table of content
+
+* [Repositories](#repositories)
+* [Misc](#misc)
+
+## Repositories
 
 - `2016` - "Introduction to Data Science" by Rafael Irizarry and Stephanie Hicks, [https://datasciencelabs.github.io/index.html](https://datasciencelabs.github.io/index.html) and [https://github.com/datasciencelabs/2016](https://github.com/datasciencelabs/2016). Data for the course is at [https://github.com/datasciencelabs/data](https://github.com/datasciencelabs/data)
 
