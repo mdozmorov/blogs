@@ -124,6 +124,8 @@
 
 - `ruta` - Unsupervised Deep Architechtures in R. Requires Keras and TensorFlow. Focuses on autoencoders. [https://github.com/fdavidcl/ruta](https://github.com/fdavidcl/ruta), examples and documentation at [https://ruta.software/](https://ruta.software/)
 
+- `stanford-cs-229-machine-learning` - VIP cheatsheets for Stanford's CS 229 Machine Learning. Web site, https://stanford.edu/~shervine/teaching/cs-229/, GitHub, https://github.com/afshinea/stanford-cs-229-machine-learning
+
 - `tensor2tensor` - Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research. https://github.com/tensorflow/tensor2tensor
 
 - `Tensorflow-101` - TensorFlow tutorials with data. [https://github.com/sjchoi86/Tensorflow-101](https://github.com/sjchoi86/Tensorflow-101)
