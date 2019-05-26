@@ -42,6 +42,8 @@
 
 - `bio_610B` - Course materials for Advanced Biological Statistics II by Peter Ralph. Using STAN. https://github.com/petrelharp/bio_610B 
 
+- `BiocWorkshops` - 2018 Bioconductor Workshops. The book by Martin Morgan: https://bioconductor.github.io/BiocWorkshops/, GitHub: https://github.com/Bioconductor/BiocWorkshops
+
 - `bioinformatics-one-liners` - collection of bioinformatics-genomics bash one liners, using awk, sed etc. [https://github.com/crazyhottommy/bioinformatics-one-liners](https://github.com/crazyhottommy/bioinformatics-one-liners)
 
 - `Bioinformatics-Resources` -  A curated list of resources for learning bioinformatics. [https://github.com/YTLogos/Bioinformatics-Resources](https://github.com/YTLogos/Bioinformatics-Resources)
