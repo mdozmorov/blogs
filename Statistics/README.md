@@ -51,7 +51,7 @@
 
 - `stat401A` - conscise statistical refresher by Jarad Niemi, STAT 401A course at Iowa State University. [https://github.com/jarad/stat401A](https://github.com/jarad/stat401A). Jarad's web-site with more statistical courses STAT 544 and STAT 615 [http://www.jarad.me/courses/](http://www.jarad.me/courses/)
 
-- `statcomp` - Statistical Computing, BIOS 735 - Introduction to Statistical Computing. http://biodatascience.github.io/statcomp, https://github.com/biodatascience/statcomp
+- `statcomp` - Statistical Computing, BIOS 735 - Introduction to Statistical Computing. http://biodatascience.github.io/statcomp, https://github.com/biodatascience/statcomp, https://github.com/biodatascience/statcomp_src
 
 - `WinVector.github.io` - Various statistical topics with R and Python examples. "IntroductionToDataScience" course. https://winvector.github.io/ - web-facing pages, https://github.com/WinVector/WinVector.github.io/ - github repo
 
