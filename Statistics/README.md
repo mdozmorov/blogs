@@ -81,6 +81,8 @@
 
 ## Books
 
+- "Advanced Statistical Computing" by Roger D. Peng. https://bookdown.org/rdpeng/advstatcomp/
+
 - "Modern Statistics for Modern Biology" book by Susan Holmes and Wolfgang Huber. Data and code provided. https://www.huber.embl.de/msmb/index.html
 
 - "Causal Inference Book" by Miguel Hernan and  Jamie Robins. [https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
