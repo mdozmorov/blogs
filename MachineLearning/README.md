@@ -25,6 +25,8 @@
 
 - `awesome-machine-learning-interpretability` - A curated list of awesome machine learning interpretability resources. [https://github.com/jphall663/awesome-machine-learning-interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 
+- `awesome-machine-learning-operations` - A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning. https://github.com/EthicalML/awesome-machine-learning-operations
+
 - `books` - "Books worth reading." From machine learning to programming and statistics, with PDFs. [https://github.com/liuchengxu/books](https://github.com/liuchengxu/books)
 
 - `cheatsheets-ai` - Essential Cheat Sheets for deep learning and machine learning researchers. [https://github.com/kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
