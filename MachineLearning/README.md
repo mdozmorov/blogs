@@ -17,6 +17,8 @@
 
 - `awesome-courses` - List of awesome university courses for learning Computer Science. https://github.com/prakhar1989/awesome-courses
 
+- `awesome-decision-tree-papers` - A collection of research papers on decision, classification and regression trees with implementations. https://github.com/benedekrozemberczki/awesome-decision-tree-papers
+
 - `awesome-deep-learning` - A curated list of awesome Deep Learning tutorials, projects and communities. [https://github.com/ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 - `awesome-deep-learning-papers` - the most cited deep learning papers, https://github.com/terryum/awesome-deep-learning-papers
