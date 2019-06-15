@@ -170,7 +170,7 @@
 
 - "Undergraduate machine learning at UBC 2012" by Nando de Freitas, video lectures, [https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf&feature=view_all](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf&feature=view_all) and slides, [http://www.cs.ubc.ca/~nando/340-2012/lectures.php](http://www.cs.ubc.ca/~nando/340-2012/lectures.php)
 
- -"Deep learning at Oxford 2015" by Nando de Freitas, video lectures, [https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) and slides, [https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+ - "Deep learning at Oxford 2015" by Nando de Freitas, video lectures, [https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu) and slides, [https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
 
 - "Learning from data" - machine learning course from Caltech, taught by Feynman Prize winner Professor Yaser Abu-Mostafa. [https://work.caltech.edu/lectures.html#lectures](https://work.caltech.edu/lectures.html#lectures)
 
