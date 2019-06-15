@@ -183,6 +183,8 @@
 
 ## Misc
 
+- "Machine Learning Cheatsheet". Brief visual explanations of machine learning concepts with diagrams, code examples and links to resources for learning more. https://ml-cheatsheet.readthedocs.io/en/latest/
+
 - "Interpretable Machine Learning" book by Christoph Molnar, A Guide for Making Black Box Models Explainable. https://christophm.github.io/interpretable-ml-book/, https://leanpub.com/interpretable-machine-learning
 
 - "Three Must-Own Books for Deep Learning Practitioners" by Jason Brownlee, https://machinelearningmastery.com/books-for-deep-learning-practitioners/
