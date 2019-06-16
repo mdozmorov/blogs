@@ -48,3 +48,6 @@ This repository started as a collection of interesting RSS feeds of bioinformati
 - [Statistical Thinking](http://www.fharrell.com/) - blog by Frank Harrell
 
 ## Misc
+
+- Interesting Tools & Databases & Papers & Feeds & Grants Resources, https://sites.google.com/site/qimapage/week-1-foundations, and people, https://sites.google.com/site/qimapage/team-work
+
