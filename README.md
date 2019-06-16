@@ -1,4 +1,4 @@
-# Bioinformatics, data science, machine learning, programming, statistics
+# Technology, programming, statistics
 
 Collections of links to various resources, grouped by subject.
 
@@ -8,8 +8,12 @@ Collections of links to various resources, grouped by subject.
 - [MachineLearning](https://github.com/mdozmorov/MachineLearning_notes)
 - [Statistics](Statistics/README.md)
 
+# Table of content
 
-# Technology, programming, statistics blogs
+* [Blogs](#blogs)
+* [Misc](#misc)
+
+## Blogs
 
 This repository started as a collection of interesting RSS feeds of bioinformatics, genomics, data science blogs. Below is the list of blogs I'm reading in Feedly.
 
@@ -42,3 +46,5 @@ This repository started as a collection of interesting RSS feeds of bioinformati
 - [The Third Bit](http://third-bit.com/) - blog by Greg Wilson from Software Carpentry
 
 - [Statistical Thinking](http://www.fharrell.com/) - blog by Frank Harrell
+
+## Misc
