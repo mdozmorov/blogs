@@ -121,3 +121,4 @@
 
 - `Goeman.pdf` - STATISTICAL METHODS FOR MICROARRAY DATA
 - `MPR04.pdf` - Introduction to Statistical Methods for Microarray Data Analysis
+- `linear_tests_cheat_sheet.pdf` - Common statistical tests are linear models (or: how to teach stats), https://lindeloev.github.io/tests-as-linear/
