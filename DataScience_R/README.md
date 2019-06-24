@@ -109,6 +109,8 @@
 
 # Misc
 
+- Code and Resources for "Feature Engineering and Selection: A Practical Approach for Predictive Models" by Kuhn and Johnson, https://bookdown.org/max/FES, GitHub, https://github.com/topepo/FES
+
 - The learnr tutorials in RStudio Cloud's primers, https://github.com/rstudio-education/primers, avaliable on RStudio Cloud, https://rstudio.cloud/projects
 
 - "Fundamentals of Data Visualization" book by Claus O. Wilke, https://serialmentor.com/dataviz/
