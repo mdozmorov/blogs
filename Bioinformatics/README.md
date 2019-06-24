@@ -22,6 +22,8 @@
 
 - `awesome-10x-genomics` - List of tools and resources related to the 10x genomics GEMCode/Chromium system. https://github.com/johandahlberg/awesome-10x-genomics
 
+- `Awesome-Bioinformatics` - A curated list of awesome Bioinformatics libraries and software. https://github.com/danielecook/Awesome-Bioinformatics
+
 - `awesome-cancer-variant-databases` - A community-maintained repository of cancer clinical knowledge bases and databases focused on cancer variants. https://github.com/seandavi/awesome-cancer-variant-databases
 
 - `awesome-expression-browser` - A curated list of software and resources for exploring and visualizing (browsing) expression data, and more. https://github.com/federicomarini/awesome-expression-browser
