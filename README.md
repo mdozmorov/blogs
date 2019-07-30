@@ -1,12 +1,6 @@
 # Technology, programming, statistics
 
-Collections of links to various resources, grouped by subject.
-
-- [Bioinformatics](Bioinformatics/README.md)
-- [DataScience_Python](DataScience_Python/README.md)
-- [DataScience_R](DataScience_R/README.md)
-- [MachineLearning](https://github.com/mdozmorov/MachineLearning_notes)
-- [Statistics](Statistics/README.md)
+Blogs I am following. For notes on genomics, bioinformatics, data science, machine learning, statistics, see [collections of links to various resources](https://github.com/mdozmorov/MDmisc_notes).
 
 # Table of content
 
