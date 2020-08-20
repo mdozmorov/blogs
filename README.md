@@ -1,3 +1,6 @@
+This repository is depreciated. See [MDmisc notes](https://github.com/mdozmorov/MDmisc_notes) for the most current collection of notes. 
+
+
 # Technology, programming, statistics
 
 Blogs I am following. For notes on genomics, bioinformatics, data science, machine learning, statistics, see [collections of links to various resources](https://github.com/mdozmorov/MDmisc_notes).
