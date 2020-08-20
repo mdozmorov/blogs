@@ -26,6 +26,8 @@ This repository started as a collection of interesting RSS feeds of bioinformati
 
 - [DNA confesses Data speak](https://divingintogeneticsandgenomics.rbind.io/) - bioinformatics, genomics and programming notes by Ming Tang
 
+- [Epistasis blog](http://www.epistasisblog.org/) - genomics, statistics, machine learning by Jason Moore
+
 - [GATK blog](https://software.broadinstitute.org/gatk/blog) - GATK news and announcements
 
 - [Probably Overthinking It](https://www.allendowney.com/blog/) - Bayesian statistics and more by Allen Downey
@@ -48,3 +50,4 @@ This repository started as a collection of interesting RSS feeds of bioinformati
 
 - Interesting Tools & Databases & Papers & Feeds & Grants Resources, https://sites.google.com/site/qimapage/week-1-foundations, and people, https://sites.google.com/site/qimapage/team-work
 
+- [Top 75 Bioinformatics Blogs and Websites for Bioinformaticians](https://blog.feedspot.com/bioinformatics_blogs/)
